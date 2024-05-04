@@ -8,7 +8,7 @@
 
     <!-- CSS & Boostrap -->
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="/Portfolio/css/style.css">
+    <link rel="stylesheet" href="css/style.css">
 
     <!-- Rubik Font -->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700&display=swap">
@@ -16,7 +16,7 @@
 
 <body>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark text-uppercase font-weight-bold fixed-top main-navbar">
-        <a class="navbar-brand text-white" href="/Portfolio/homepage.php">DJ</a>
+        <a class="navbar-brand text-white" href="homepage.php">DJ</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
@@ -24,23 +24,23 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav">
                 <li class="nav-item ml-5">
-                    <a class="nav-link text-white" href="project1.php" id="projectLink">Brand Guidelines - Vibe Vault</a>
+                    <a class="nav-link text-white" href="projects/project1.php" id="projectLink">Brand Guidelines - Vibe Vault</a>
                 </li>
             </ul>
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item">
-                    <a class="nav-link text-white" href="/Portfolio/projects.php">Projects</a>
+                    <a class="nav-link text-white" href="projects.php">Projects</a>
                 </li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         Learning Outcomes
                     </a>
                     <div class="dropdown-menu text-uppercase" aria-labelledby="navbarDropdown">
-                        <a class="dropdown-item text-uppercase" href="/Portfolio/outcomes/outcome1.php">Interactive Media Products</a>
-                        <a class="dropdown-item text-uppercase" href="/Portfolio/outcomes/outcome2.php">Development And Version Control</a>
-                        <a class="dropdown-item text-uppercase" href="/Portfolio/outcomes/outcome3.php">Iterative Design</a>
-                        <a class="dropdown-item text-uppercase" href="/Portfolio/outcomes/outcome4.php">Professional Standard</a>
-                        <a class="dropdown-item text-uppercase" href="/Portfolio/outcomes/outcome5.php">Personal Leadership</a>
+                        <a class="dropdown-item text-uppercase" href="outcomes/outcome1.php">Interactive Media Products</a>
+                        <a class="dropdown-item text-uppercase" href="outcomes/outcome2.php">Development And Version Control</a>
+                        <a class="dropdown-item text-uppercase" href="outcomes/outcome3.php">Iterative Design</a>
+                        <a class="dropdown-item text-uppercase" href="outcomes/outcome4.php">Professional Standard</a>
+                        <a class="dropdown-item text-uppercase" href="outcomes/outcome5.php">Personal Leadership</a>
                     </div>
                 </li>
                 <li class="nav-item active">
@@ -56,17 +56,17 @@
     <div id="carousel" class="carousel slide" data-ride="carousel">
         <div class="carousel-inner">
             <div class="carousel-item active" id="carousel-item1">
-                <a href="/Portfolio/projects.php">
+                <a href="projects.php">
                     <img src="img/projects/vibevault/vibevault-image.png" class="d-block w-100" alt="Slide 1">
                 </a>
             </div>
             <div class="carousel-item" id="carousel-item2">
-                <a href="/Portfolio/projects.php">
+                <a href="projects.php">
                     <img src="img/image2.jpeg" class="d-block w-100" alt="Slide 2">
                 </a>
             </div>
             <div class="carousel-item" id="carousel-item3">
-                <a href="/Portfolio/projects.php">
+                <a href="projects.php">
                     <img src="img/water.png" class="d-block w-100" alt="Slide 3">
                 </a>
             </div>
@@ -80,9 +80,9 @@
         $(document).ready(function() {
             // Define mapping of carousel item IDs to href links
             var projectLinks = {
-                'carousel-item1': '/Portfolio/projects/project1.php',
-                'carousel-item2': '/Portfolio/projects/project2.php',
-                'carousel-item3': '/Portfolio/projects/project3.php'
+                'carousel-item1': 'projects/project1.php',
+                'carousel-item2': 'projects/project2.php',
+                'carousel-item3': 'projects/project3.php'
             };
 
             $('#carousel').on('slid.bs.carousel', function() {

@@ -8,7 +8,7 @@
 
     <!-- CSS & Boostrap -->
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="/Portfolio/css/style.css">
+    <link rel="stylesheet" href="css/style.css">
 
     <!-- Rubik Font -->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700&display=swap">
@@ -16,7 +16,7 @@
 
 <body>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark text-uppercase font-weight-bold fixed-top main-navbar">
-        <a class="navbar-brand text-white" href="/Portfolio/homepage.php">DJ</a>
+        <a class="navbar-brand text-white" href="homepage.php">DJ</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
