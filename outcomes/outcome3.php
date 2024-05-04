@@ -54,7 +54,7 @@
     </nav>
 
     <div class="outcome-header outcome-3">
-        <h1 class="outcome-header-text text-white text-uppercase">Iterative Design</h1>
+        <h1 class="outcome-header-text text-white text-uppercase">Iterative <br> Design</h1>
         <div class="container pt-4 buttons-container">
             <div class="row">
                 <div class="col">
@@ -64,14 +64,17 @@
                     <button type="button" class="btn btn-outline-secondary">
                         <a class="btn text-secondary" href="#outcome-3-mediacampaign" role="button">Media Campaign</a>
                     </button>
-                    <button type="button" class="btn btn-outline-secondary">
+                    <!-- <button type="button" class="btn btn-outline-secondary">
                         <a class="btn text-secondary" href="#outcome-3-vibevault" role="button">Coding Fontys</a>
-                    </button>
-                    <button type="button" class="btn btn-outline-secondary">
+                    </button> -->
+                    <!-- <button type="button" class="btn btn-outline-secondary">
                         <a class="btn text-secondary" href="#outcome-3-vibevault" role="button">Sprint X</a>
-                    </button>
+                    </button> -->
+                    <!-- <button type="button" class="btn btn-outline-secondary">
+                        <a class="btn text-secondary" href="#outcome-3-vibevault" role="button">General</a>
+                    </button> -->
                     <button type="button" class="btn btn-outline-secondary">
-                        <a class="btn text-secondary" href="#outcome-3-vibevault" role="button">Extra's</a>
+                        <a class="btn text-secondary" href="#outcome-3-portfolio" role="button">Portfolio</a>
                     </button>
                 </div>
             </div>
@@ -79,7 +82,7 @@
     </div>
 
     <div class="outcome-body">
-        <div class="container text-dark pt-4">
+        <!-- <div class="container text-dark pt-4">
             <div class="row">
                 <div class="col">
                     <button type="button" class="btn btn-primary">
@@ -95,11 +98,11 @@
                         <a class="btn btn-primary" href="#outcome-3-vibevault" role="button">Sprint X</a>
                     </button>
                     <button type="button" class="btn btn-primary">
-                        <a class="btn btn-primary" href="#outcome-3-vibevault" role="button">Extra's</a>
+                        <a class="btn btn-primary" href="#outcome-3-vibevault" role="button">General</a>
                     </button>
                 </div>
             </div>
-        </div>
+        </div> -->
         <!-- Vibe Vault -->
         <div class="container text-dark pt-4" name="outcome-3-vibevault" id="outcome-3-vibevault">
             <div class="row">
@@ -110,7 +113,7 @@
             <!-- Logo's -->
             <div class="row">
                 <div class="col">
-                    <h2>Logo's</h2>
+                    <h2>Iteraties</h2>
                 </div>
             </div>
             <div class="row">
@@ -121,12 +124,12 @@
                 </div>
 
                 <div class="col">
-                    <img src="../img/projects/vibevault/logos1.png" class="img-fluid">
+                    <img src="../img/projects/vibevault/Logos/logos1.png" class="img-fluid">
                 </div>
             </div>
             <div class="row pt-3">
                 <div class="col-4">
-                    <img src="../img/projects/vibevault/logos2.png" class="img-fluid">
+                    <img src="../img/projects/vibevault/Logos/logos2.png" class="img-fluid">
                 </div>
                 <div class="col-2"></div>
                 <div class="col-6">
@@ -148,7 +151,7 @@
                 </div>
 
                 <div class="col-4">
-                    <img src="../img/projects/vibevault/logos4.png" class="img-fluid">
+                    <img src="../img/projects/vibevault/Logos/logos4.png" class="img-fluid">
                 </div>
             </div>
             <!-- Logo's -->
@@ -156,7 +159,7 @@
         <!-- Vibe Vault -->
 
         <!-- Media Campaign -->
-        <div class="container text-dark pt-4" name="outcome-3-mediacampaign" id="outcome-3-mediacampaign">
+        <!-- <div class="container text-dark pt-4" name="outcome-3-mediacampaign" id="outcome-3-mediacampaign">
             <div class="row">
                 <div class="col">
                     <h1 class="text-uppercase font-weight-bold">Media Campaign</h1>
@@ -167,9 +170,79 @@
                     Teksten volgen.
                 </div>
             </div>
-        </div>
-        <div style="height:1000px;"></div>
+        </div> -->
         <!-- Media Campaign -->
+
+        <!-- Portfolio -->
+        <div class="container text-dark pt-4" name="outcome-3-portfolio" id="outcome-3-portfolio">
+            <div class="row">
+                <div class="col">
+                    <h1 class="text-uppercase font-weight-bold">Portfolio</h1>
+                </div>
+            </div>
+            <!-- Logo's -->
+            <div class="row">
+                <div class="col">
+                    <!-- <p class="text-justify">
+                    <h4>Iteratie 1</h4>
+                    De eerste iteratie heb ik gemaakt om te kijken hoe ik ongeveer wil gaan werken, ik vond dit er niet mooi uit zien dus heb ik ervoor gekozen om helemaal een andere richting in te gaan.
+                    <h4> Iteratie 2</h4>
+                    De tweede iteratie is meer gefocusseerd op het gebruiken van een donkere achtergrond en een pagina waar je constant door heen kan scrollen, ook heb ik gekeken hoe het kleuren gebruik is met rood en zwart alleen vond ik dit te druk dus wil ik dit later niet gaan gebruiken.
+                    <h4> Iteratie 3</h4>
+                    De derde iteratie is meer gefocusseerd op een witte tekstkleur, dit is veel meer rustgevend en duidelijker voor de eindgebruiker. Ik heb ook een image carrousel gemaakt en gekeken hoe dit zal werken, ik vind deze zelf heel vet alleen tijden de feedback kreeg ik te horen dat ik niet met projecten moet werken maar leeruitkomsten.
+                    </p> -->
+
+                    <h4>Iteratie 1</h4>
+                    <p class="text-justify">
+                        De eerste iteratie heb ik gemaakt om te kijken hoe ik ongeveer wil gaan werken, ik vond dit er niet mooi uit zien dus heb ik ervoor gekozen om helemaal een andere richting in te gaan.
+                    </p>
+                    <h4>Iteratie 2</h4>
+                    <p class="text-justify">
+                        De tweede iteratie is meer gefocusseerd op het gebruiken van een donkere achtergrond en een pagina waar je constant door heen kan scrollen, ook heb ik gekeken hoe het kleuren gebruik is met rood en zwart alleen vond ik dit te druk dus wil ik dit later niet gaan gebruiken.
+                    </p>
+                    <h4>Iteratie 3</h4>
+                    <p class="text-justify">
+                        De derde iteratie is meer gefocusseerd op een witte tekstkleur, dit is veel meer rustgevend en duidelijker voor de eindgebruiker. Ik heb ook een image carrousel gemaakt en gekeken hoe dit zal werken, ik vind deze zelf heel vet alleen tijden de feedback kreeg ik te horen dat ik niet met projecten moet werken maar leeruitkomsten.
+                    </p>
+                </div>
+
+                <div class="col">
+                    <img src="../img/projects/portfolio/iteratie1.png" class="img-fluid">
+                </div>
+            </div>
+            <div class="row pt-3">
+                <div class="col-6">
+                    <img src="../img/projects/portfolio/iteratie2.png" class="img-fluid">
+                </div>
+                <div class="col-6">
+                    <h4> Iteratie 4</h4>
+                    <p class="text-justify">
+                        Na veel feedback van docenten en medestudenten heb ik een meer uitgewerkt design gemaakt. dit design is eigenlijk hoe ik mijn portfolio eruit wil laten zien. Je hebt een splashscreen, homepagina, projectenpagina en per project verschillende pagina's om deze projecten aan te tonen. Dit design vind ik er wel een beetje saai uit zien en sommige elementen werken niet goed met elkaar, denk hierbij aan de kleuren van de teksten en hoe die vallen op de achtergrond. Ik ga dit in het eindproduct verbeteren.
+                    </p>
+                </div>
+            </div>
+            <div class="row pt-3">
+                <div class="col">
+                    <h2>Eindproduct</h2>
+                </div>
+            </div>
+            <div class="row pt-3">
+                <div class="col-6">
+                    <p class="text-justify">
+                        Uiteindelijk ben ik tot dit design gekomen. Zoals je kan zien is dit design veel meer uitgewerkt. in dit design heb ik de leeruitkomsten toegevoegd zodat ik deze ook kan aantonen. in Leeruitkomst 1 heb ik meer uitgelegd over mijn designkeuzes.
+
+
+                        In mijn Figma design zie je veel terug van mijn inspiratiebronnen die vermeld zijn in mijn documentatie. Ik heb een grid van 12 met een gutter van 24 en een margin van 40 gebruikt zodat elke pagina in de zelfde verhouding is. Dit if ook fijn als je met bootstrap werkt. Als je naar mijn portfolio navigeerd kom je eerst op de index pagina. Deze pagina heb ik gemaakt zodat het lijkt dat de pagina ingeladen wordt. na een paar seconde zal je naar de homepagina genavigeerd worden. deze pagina heeft een fullscreen image carousel die door alle projecten heen scrollt. als je dan op een project klikt kom je bij de pagina die bij dat project hoort. Op deze pagina krijg je dan alle informatie over dit project met knoppen naar de leeruitkomsten.
+                    </p>
+                </div>
+
+                <div class="col-6">
+                    <img src="../img/projects/portfolio/figma.png" class="img-fluid">
+                </div>
+            </div>
+            <!-- Logo's -->
+        </div>
+        <!-- Portfolio -->
         <div class="py-4"></div>
     </div>
 

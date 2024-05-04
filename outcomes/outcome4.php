@@ -14,7 +14,7 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700&display=swap">
 </head>
 
-<body class="outcome-4">
+<body class="outcome-3">
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark text-uppercase font-weight-bold fixed-top main-navbar">
         <a class="navbar-brand text-white" href="../homepage.php">DJ</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -55,33 +55,108 @@
 
     <div class="outcome-header outcome-4">
         <h1 class="outcome-header-text text-white text-uppercase">Professional <br> Standard</h1>
+        <div class="container pt-4 buttons-container">
+            <div class="row">
+                <div class="col">
+                    <button type="button" class="btn btn-outline-secondary">
+                        <a class="btn text-secondary" href="#outcome-4-vibevault" role="button">Vibe Vault</a>
+                    </button>
+                    <button type="button" class="btn btn-outline-secondary">
+                        <a class="btn text-secondary" href="#outcome-4-mediacampaign" role="button">Media Campaign</a>
+                    </button>
+                    <button type="button" class="btn btn-outline-secondary">
+                        <a class="btn text-secondary" href="#outcome-4-vibevault" role="button">Coding Fontys</a>
+                    </button>
+                    <button type="button" class="btn btn-outline-secondary">
+                        <a class="btn text-secondary" href="#outcome-4-vibevault" role="button">Sprint X</a>
+                    </button>
+                    <button type="button" class="btn btn-outline-secondary">
+                        <a class="btn text-secondary" href="#outcome-4-vibevault" role="button">General</a>
+                    </button>
+                </div>
+            </div>
+        </div>
     </div>
-    <button><a href="#outcome-4-vibevault">1</a></button>
-    <button><a href="#outcome-4-mediacampaign">2</a></button>
-    <button><a href="#outcome-4-vibevault">3</a></button>
-
 
     <div class="outcome-body">
+        <!-- <div class="container text-dark pt-4">
+            <div class="row">
+                <div class="col">
+                    <button type="button" class="btn btn-primary">
+                        <a class="btn btn-primary" href="#outcome-4-vibevault" role="button">Vibe Vault</a>
+                    </button>
+                    <button type="button" class="btn btn-primary">
+                        <a class="btn btn-primary" href="#outcome-4-mediacampaign" role="button">Media Campaign</a>
+                    </button>
+                    <button type="button" class="btn btn-primary">
+                        <a class="btn btn-primary" href="#outcome-4-vibevault" role="button">Coding Fontys</a>
+                    </button>
+                    <button type="button" class="btn btn-primary">
+                        <a class="btn btn-primary" href="#outcome-4-vibevault" role="button">Sprint X</a>
+                    </button>
+                    <button type="button" class="btn btn-primary">
+                        <a class="btn btn-primary" href="#outcome-4-vibevault" role="button">General</a>
+                    </button>
+                </div>
+            </div>
+        </div> -->
         <!-- Vibe Vault -->
-        <div class="container text-dark" name="outcome-4-vibevault" id="outcome-4-vibevault">
-            <div class="py-4"></div>
+        <div class="container text-dark pt-4" name="outcome-4-vibevault" id="outcome-4-vibevault">
             <div class="row">
                 <div class="col">
                     <h1 class="text-uppercase font-weight-bold">Vibe Vault</h1>
                 </div>
             </div>
+            <!-- Logo's -->
             <div class="row">
                 <div class="col">
-                    Teksten volgen.
+                    <h2>Logo's</h2>
                 </div>
             </div>
+            <div class="row">
+                <div class="col">
+                    <p class="text-justify">
+                        We wisten in het begin nog niet precies hoe we ons project wilden noemen. Dus besloten we om eerst wat ruwe ideeën voor logo's te verkennen. Ik kwam op het idee om te kijken naar symbolen die met geluid te maken hebben, zoals een LP, een koptelefoon en een muziekgolf. Ik vond deze symbolen interessant omdat ze allemaal met geluid te maken hebben en je kunt er veel verschillende dingen mee doen.
+                    </p>
+                </div>
+
+                <div class="col">
+                    <img src="../img/projects/vibevault/logos1.png" class="img-fluid">
+                </div>
+            </div>
+            <div class="row pt-3">
+                <div class="col-4">
+                    <img src="../img/projects/vibevault/logos2.png" class="img-fluid">
+                </div>
+                <div class="col-2"></div>
+                <div class="col-6">
+                    <p class="text-justify">
+                        Uit onze enquêtes is gebleken dat de doelgroep de naam Vibe Vault passend vindt, een minimalistisch logo prefereert, een 'slab serif' lettertype wenst en graag een kleurstijl in blauw en geel ziet. Met deze informatie heb ik eerst gekeken naar inspiratie. Ik heb enkele afbeeldingen van microfoons en platen gevonden op het internet die ik wilde integreren in het ontwerp. Zoals te zien is op de foto hierlangs, heb ik verschillende iteraties gemaakt met andere kleuren om de doelgroep een beter beeld te geven.
+                    </p>
+                </div>
+            </div>
+            <div class="row pt-3">
+                <div class="col">
+                    <h2>Eindproduct</h2>
+                </div>
+            </div>
+            <div class="row pt-3">
+                <div class="col-6">
+                    <p class="text-justify">
+                        Uiteindelijk hebben we besloten om vast te houden aan het blauw en gele kleurenpalet. Ik heb dit geïmplementeerd en hier zie je de laatste versie van ons logo. Ik heb twee versies van het logo gemaakt. Het eerste logo heeft een blauwe achtergrond met witte tekst, geschikt voor bijvoorbeeld posters en visitekaartjes. Het tweede logo heeft een witte achtergrond met blauwe tekst, ideaal voor websites en documenten.
+                    </p>
+                </div>
+
+                <div class="col-4">
+                    <img src="../img/projects/vibevault/logos4.png" class="img-fluid">
+                </div>
+            </div>
+            <!-- Logo's -->
         </div>
-        <div style="height:1000px;"></div>
         <!-- Vibe Vault -->
 
         <!-- Media Campaign -->
-        <div class="container text-dark" name="outcome-4-mediacampaign" id="outcome-4-mediacampaign">
-            <div class="py-4"></div>
+        <div class="container text-dark pt-4" name="outcome-4-mediacampaign" id="outcome-4-mediacampaign">
             <div class="row">
                 <div class="col">
                     <h1 class="text-uppercase font-weight-bold">Media Campaign</h1>
