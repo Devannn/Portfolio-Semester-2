@@ -1,0 +1,236 @@
+html {
+  overflow: scroll;
+  overflow-x: hidden;
+}
+::-webkit-scrollbar {
+  width: 0;
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: #FF0000;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Rubik', sans-serif;
+  background: #2a2a2a;
+  color: #fff;
+  cursor: url(../img/icon.png) 15 15, move;
+}
+
+.container {
+  margin-left: 110px !important;
+}
+
+h1 {
+  font-size: 96px;
+}
+
+.navbar {
+  background-color: transparent !important;
+  font-size: 18px;
+  text-shadow: 0px 0px 25px rgba(0, 0, 0, 0.3) !important;
+}
+
+.navbar .dropdown-menu {
+  border: none;
+  border-radius: 0px;
+}
+
+.navbar .dropdown-menu .dropdown-item {
+  font-weight: 500;
+}
+
+/* Index Page */
+.header {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.header h1 {
+  margin: 0;
+  padding: 0;
+  text-transform: uppercase;
+  font-size: 10em;
+  color: rgba(255,255,255, 0.1);
+  background-image: url("../img/water.png");
+  background-size: 150px;
+  background-repeat: repeat-x;
+  -webkit-background-clip: text;
+  animation: animate 15s linear infinite;
+}
+@keyframes animate {
+  
+  0%
+  {
+    background-position: left 0px top 80px;
+  }
+  40%
+  {
+    background-position: left 800px top 0px;
+  }
+  80%
+  {
+    background-position: left 1800px top -50px;
+  }
+  100%
+  {
+    background-position: left 2400px top 80px;
+  }
+}
+  
+/* Index Page */
+
+/* Homepage & About Me Carousel */
+
+.carousel-item {
+  height: 100vh;
+  min-height: 300px;
+  background: no-repeat center center fixed;
+  background-size: cover;
+  background-position: center;
+}
+
+/* Homepage & About Me Carousel */
+
+/* Projects */
+
+.projects-body {
+  background-color: #fff;
+  color: #2a2a2a;
+}
+
+.projects {
+  background-image: url("../img/image1.jpeg");
+  background-size: cover;
+  background-position: center;
+  border-radius: 0px;
+  border: none;
+  height: 500px;
+}
+
+.projects .card-footer {
+    background-color: transparent;
+    border: none;
+    border-radius: 0px !important;
+}
+
+.project-href {
+  text-decoration: none !important;
+  color: black !important;
+}
+
+/* Custom CSS for card swap on hover with footer */
+.project-hidden-footer {
+  display: none;
+  background-color: #fff;
+  /* Initially hide the second card */
+}
+
+.projects:hover .project-visible-footer {
+  display: none;
+  /* Hide the first card when hovered */
+}
+
+.projects:hover .project-hidden-footer {
+  display: block;
+  background-color: #fff;
+  /* Show the second card when hovered */
+}
+
+.card-1 {
+  background-image: url("../img/projects/vibevault/vibevault-image.png");
+  background-size: cover;
+  background-position: center;
+}
+
+.card-2 {
+  background-image: url("../img/image1.jpeg");
+  background-size: cover;
+  background-position: center;
+}
+
+
+/* Projects */
+
+/* Project 1 */
+.project-1-header {
+  background-image: url("../img/projects/vibevault/vibevault.png");
+  background-position: center;
+  background-size: cover;
+  height:100vh;
+}
+
+/* Project 1 */
+
+/* Outcomes */
+
+.outcome-header {
+  background-position: center;
+  background-size: cover;
+  height:100vh;
+}
+
+.outcome-header-text {
+  position: absolute;
+  top: 150px;
+  left: 110px;
+  font-weight: 900;
+  line-height: 1;
+}
+
+.outcome-body {
+  background-color: white;
+  width: 100vw;
+}
+
+.buttons-container {
+  position: absolute;
+  top: 85%;
+  /* left: 110px; */
+}
+
+/* Outcomes */
+
+/* Outcome 1 */
+
+.outcome-1 {
+  background-image: url("../img/outcomes/outcome1.png");
+}
+
+/* Outcome 1 */
+
+/* Outcome 2 */
+
+.outcome-2 {
+  background-image: url("../img/outcomes/outcome2.png");
+}
+
+/* Outcome 2 */
+
+/* Outcome 3 */
+
+.outcome-3 {
+  background-image: url("../img/outcomes/outcome3.png");
+}
+
+/* Outcome 3 */
+
+/* Outcome 4 */
+
+.outcome-4 {
+  background-image: url("../img/outcomes/outcome4.png");
+}
+
+/* Outcome 4 */
+
+/* Outcome 5 */
+
+.outcome-5 {
+  background-image: url("../img/outcomes/outcome5.png");
+}
+
+/* Outcome 5 */
