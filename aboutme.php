@@ -84,12 +84,12 @@
             <div class="py-4"></div>
             <div class="row">
                 <div class="col">
-                    <h1 class="text-uppercase font-weight-bold">Vibe Vault</h1>
+                    <h1 class="text-uppercase font-weight-bold">Devan Janssen</h1>
                 </div>
             </div>
             <div class="row">
                 <div class="col">
-                    Information about what i did for this learning outcome.
+                    Hallo, ik ben Devan Janssen ik ben geboren en getogen in Helmond. In mijn vrije tijd doe ik veel vissen en ben ik altijd omringt met vrienden. Ik studeer momenteel aan het Fontys ICT College in Eindhoven. Ik heb voor deze opleiding gekozen, omdat ik al een mbo-opleiding heb gedaan in dezelfde sector en deze opleiding leuk vond.
                 </div>
             </div>
         </div>

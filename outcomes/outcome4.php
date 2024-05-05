@@ -59,19 +59,13 @@
             <div class="row">
                 <div class="col">
                     <button type="button" class="btn btn-outline-secondary">
-                        <a class="btn text-secondary" href="#outcome-4-vibevault" role="button">Vibe Vault</a>
+                        <a class="btn text-secondary" href="#outcome-4-trello" role="button">Trello</a>
                     </button>
                     <button type="button" class="btn btn-outline-secondary">
-                        <a class="btn text-secondary" href="#outcome-4-mediacampaign" role="button">Media Campaign</a>
+                        <a class="btn text-secondary" href="#outcome-4-presentations" role="button">Presentaties</a>
                     </button>
                     <button type="button" class="btn btn-outline-secondary">
-                        <a class="btn text-secondary" href="#outcome-4-vibevault" role="button">Coding Fontys</a>
-                    </button>
-                    <button type="button" class="btn btn-outline-secondary">
-                        <a class="btn text-secondary" href="#outcome-4-vibevault" role="button">Sprint X</a>
-                    </button>
-                    <button type="button" class="btn btn-outline-secondary">
-                        <a class="btn text-secondary" href="#outcome-4-vibevault" role="button">General</a>
+                        <a class="btn text-secondary" href="#outcome-4-feedback" role="button">Feedback</a>
                     </button>
                 </div>
             </div>
@@ -79,97 +73,76 @@
     </div>
 
     <div class="outcome-body">
-        <!-- <div class="container text-dark pt-4">
+        <!-- Trello -->
+        <div class="container text-dark pt-4" name="outcome-4-trello" id="outcome-4-trello">
             <div class="row">
                 <div class="col">
-                    <button type="button" class="btn btn-primary">
-                        <a class="btn btn-primary" href="#outcome-4-vibevault" role="button">Vibe Vault</a>
-                    </button>
-                    <button type="button" class="btn btn-primary">
-                        <a class="btn btn-primary" href="#outcome-4-mediacampaign" role="button">Media Campaign</a>
-                    </button>
-                    <button type="button" class="btn btn-primary">
-                        <a class="btn btn-primary" href="#outcome-4-vibevault" role="button">Coding Fontys</a>
-                    </button>
-                    <button type="button" class="btn btn-primary">
-                        <a class="btn btn-primary" href="#outcome-4-vibevault" role="button">Sprint X</a>
-                    </button>
-                    <button type="button" class="btn btn-primary">
-                        <a class="btn btn-primary" href="#outcome-4-vibevault" role="button">General</a>
-                    </button>
-                </div>
-            </div>
-        </div> -->
-        <!-- Vibe Vault -->
-        <div class="container text-dark pt-4" name="outcome-4-vibevault" id="outcome-4-vibevault">
-            <div class="row">
-                <div class="col">
-                    <h1 class="text-uppercase font-weight-bold">Vibe Vault</h1>
-                </div>
-            </div>
-            <!-- Logo's -->
-            <div class="row">
-                <div class="col">
-                    <h2>Logo's</h2>
+                    <h2>Trello</h2>
                 </div>
             </div>
             <div class="row">
                 <div class="col">
                     <p class="text-justify">
-                        We wisten in het begin nog niet precies hoe we ons project wilden noemen. Dus besloten we om eerst wat ruwe ideeën voor logo's te verkennen. Ik kwam op het idee om te kijken naar symbolen die met geluid te maken hebben, zoals een LP, een koptelefoon en een muziekgolf. Ik vond deze symbolen interessant omdat ze allemaal met geluid te maken hebben en je kunt er veel verschillende dingen mee doen.
+                        Omdat wij in een groepje van 5 werken hebben wij er voor gekozen om met Trello te gaan werken. Met Trello kan je verschillende borden maken dit is eigenlijk een grote to-do lijst. Iedereen kan zijn of haar taken toevoegen met een deadline. Als te taken dan zijn afgerond worden die in de Review lijst gezet. Zo kunnen andere teamleden het werk meteen controlleren.
                     </p>
                 </div>
-
                 <div class="col">
-                    <img src="../img/projects/vibevault/logos1.png" class="img-fluid">
+                    <img src="../img/projects/vibevault/trello.png" class="img-fluid">
                 </div>
-            </div>
-            <div class="row pt-3">
-                <div class="col-4">
-                    <img src="../img/projects/vibevault/logos2.png" class="img-fluid">
-                </div>
-                <div class="col-2"></div>
-                <div class="col-6">
-                    <p class="text-justify">
-                        Uit onze enquêtes is gebleken dat de doelgroep de naam Vibe Vault passend vindt, een minimalistisch logo prefereert, een 'slab serif' lettertype wenst en graag een kleurstijl in blauw en geel ziet. Met deze informatie heb ik eerst gekeken naar inspiratie. Ik heb enkele afbeeldingen van microfoons en platen gevonden op het internet die ik wilde integreren in het ontwerp. Zoals te zien is op de foto hierlangs, heb ik verschillende iteraties gemaakt met andere kleuren om de doelgroep een beter beeld te geven.
-                    </p>
-                </div>
-            </div>
-            <div class="row pt-3">
                 <div class="col">
-                    <h2>Eindproduct</h2>
-                </div>
-            </div>
-            <div class="row pt-3">
-                <div class="col-6">
-                    <p class="text-justify">
-                        Uiteindelijk hebben we besloten om vast te houden aan het blauw en gele kleurenpalet. Ik heb dit geïmplementeerd en hier zie je de laatste versie van ons logo. Ik heb twee versies van het logo gemaakt. Het eerste logo heeft een blauwe achtergrond met witte tekst, geschikt voor bijvoorbeeld posters en visitekaartjes. Het tweede logo heeft een witte achtergrond met blauwe tekst, ideaal voor websites en documenten.
-                    </p>
-                </div>
-
-                <div class="col-4">
-                    <img src="../img/projects/vibevault/logos4.png" class="img-fluid">
-                </div>
-            </div>
-            <!-- Logo's -->
-        </div>
-        <!-- Vibe Vault -->
-
-        <!-- Media Campaign -->
-        <div class="container text-dark pt-4" name="outcome-4-mediacampaign" id="outcome-4-mediacampaign">
-            <div class="row">
-                <div class="col">
-                    <h1 class="text-uppercase font-weight-bold">Media Campaign</h1>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col">
-                    Teksten volgen.
+                    <img src="../img/projects/mediacampaign/trello.png" class="img-fluid">
                 </div>
             </div>
         </div>
-        <div style="height:1000px;"></div>
-        <!-- Media Campaign -->
+        <!-- Trello -->
+
+        <!-- Presentations -->
+        <div class="container text-dark pt-4" name="outcome-4-presentations" id="outcome-4-presentations">
+            <div class="row">
+                <div class="col">
+                    <h2>Presentaties</h2>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <p class="text-justify">
+                        Voor de brandguide en media campaign opdrachten hebben wij verschillende presentaties gegeven. Bij elke sprintoplevering hebben wij een presentatie gemaakt. In deze presentatie is vermeld wat wij gedaan hebben en wat wij gaan doen bij de volgende sprintoplevering.
+
+                        Om onze vooruitgang aan te tonen hebben wij verschillende presentaties gemaakt. In deze presentaties is vermeld wat we gedaan hebben en wat we nog willen doen voor de volgende sprint. Natuurlijk geven wij ook een eindpresentatie, deze presentaties geven wij aan de stakeholders en docenten.
+                    </p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <img src="../img/projects/vibevault/presentation.png" class="img-fluid">
+                </div>
+                <div class="col">
+                    <img src="../img/projects/mediacampaign/presentation.png" class="img-fluid">
+                </div>
+            </div>
+        </div>
+        <!-- Presentations -->
+
+        <!-- Feedback & Feedpulse -->
+        <div class="container text-dark pt-4" name="outcome-4-feedback" id="outcome-4-feedback">
+            <div class="row">
+                <div class="col">
+                    <h2>Feedback & Feedpulse</h2>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <p class="text-justify">
+                        Als ik goede vooruitgang maakte ging ik vaak langs docenten en medestudenten om mijn werkt aan te tonen. Ik heb nuttige informatie uit deze gespreken gehaald en veel vooruitgang kunnen boeken. Met ons groepje hebben wij ook veel feedbackmomenten gehad. Vaak konden we zo ook onze vooruitgang documenteren.
+                    </p>
+                    <img src="../img/feedback.png" class="img-fluid" style="margin-top:15px;">
+                </div>
+                <div class="col">
+                    <img src="../img/feedpulse.png" class="img-fluid">
+                </div>
+            </div>
+        </div>
+        <!-- Feedback & Feedpulse -->
         <div class="py-4"></div>
     </div>
 

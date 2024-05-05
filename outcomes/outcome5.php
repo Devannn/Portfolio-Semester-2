@@ -59,19 +59,7 @@
             <div class="row">
                 <div class="col">
                     <button type="button" class="btn btn-outline-secondary">
-                        <a class="btn text-secondary" href="#outcome-5-vibevault" role="button">Vibe Vault</a>
-                    </button>
-                    <button type="button" class="btn btn-outline-secondary">
-                        <a class="btn text-secondary" href="#outcome-5-mediacampaign" role="button">Media Campaign</a>
-                    </button>
-                    <button type="button" class="btn btn-outline-secondary">
-                        <a class="btn text-secondary" href="#outcome-5-vibevault" role="button">Coding Fontys</a>
-                    </button>
-                    <button type="button" class="btn btn-outline-secondary">
-                        <a class="btn text-secondary" href="#outcome-5-vibevault" role="button">Sprint X</a>
-                    </button>
-                    <button type="button" class="btn btn-outline-secondary">
-                        <a class="btn text-secondary" href="#outcome-5-vibevault" role="button">General</a>
+                        <a class="btn text-secondary" href="#outcome-5-afspraken" role="button">Afspraken & Deadlines</a>
                     </button>
                 </div>
             </div>
@@ -79,97 +67,25 @@
     </div>
 
     <div class="outcome-body">
-        <!-- <div class="container text-dark pt-4">
+        <!-- Afspraken & Deadlines -->
+        <div class="container text-dark pt-4" name="outcome-5-afspraken" id="outcome-5-afspraken">
             <div class="row">
-                <div class="col">
-                    <button type="button" class="btn btn-primary">
-                        <a class="btn btn-primary" href="#outcome-5-vibevault" role="button">Vibe Vault</a>
-                    </button>
-                    <button type="button" class="btn btn-primary">
-                        <a class="btn btn-primary" href="#outcome-5-mediacampaign" role="button">Media Campaign</a>
-                    </button>
-                    <button type="button" class="btn btn-primary">
-                        <a class="btn btn-primary" href="#outcome-5-vibevault" role="button">Coding Fontys</a>
-                    </button>
-                    <button type="button" class="btn btn-primary">
-                        <a class="btn btn-primary" href="#outcome-5-vibevault" role="button">Sprint X</a>
-                    </button>
-                    <button type="button" class="btn btn-primary">
-                        <a class="btn btn-primary" href="#outcome-5-vibevault" role="button">General</a>
-                    </button>
-                </div>
-            </div>
-        </div> -->
-        <!-- Vibe Vault -->
-        <div class="container text-dark pt-4" name="outcome-5-vibevault" id="outcome-5-vibevault">
-            <div class="row">
-                <div class="col">
-                    <h1 class="text-uppercase font-weight-bold">Vibe Vault</h1>
-                </div>
-            </div>
-            <!-- Logo's -->
-            <div class="row">
-                <div class="col">
-                    <h2>Logo's</h2>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col">
-                    <p class="text-justify">
-                        We wisten in het begin nog niet precies hoe we ons project wilden noemen. Dus besloten we om eerst wat ruwe ideeën voor logo's te verkennen. Ik kwam op het idee om te kijken naar symbolen die met geluid te maken hebben, zoals een LP, een koptelefoon en een muziekgolf. Ik vond deze symbolen interessant omdat ze allemaal met geluid te maken hebben en je kunt er veel verschillende dingen mee doen.
-                    </p>
-                </div>
-
-                <div class="col">
-                    <img src="../img/projects/vibevault/logos1.png" class="img-fluid">
-                </div>
-            </div>
-            <div class="row pt-3">
-                <div class="col-4">
-                    <img src="../img/projects/vibevault/logos2.png" class="img-fluid">
-                </div>
-                <div class="col-2"></div>
                 <div class="col-6">
-                    <p class="text-justify">
-                        Uit onze enquêtes is gebleken dat de doelgroep de naam Vibe Vault passend vindt, een minimalistisch logo prefereert, een 'slab serif' lettertype wenst en graag een kleurstijl in blauw en geel ziet. Met deze informatie heb ik eerst gekeken naar inspiratie. Ik heb enkele afbeeldingen van microfoons en platen gevonden op het internet die ik wilde integreren in het ontwerp. Zoals te zien is op de foto hierlangs, heb ik verschillende iteraties gemaakt met andere kleuren om de doelgroep een beter beeld te geven.
-                    </p>
-                </div>
-            </div>
-            <div class="row pt-3">
-                <div class="col">
-                    <h2>Eindproduct</h2>
-                </div>
-            </div>
-            <div class="row pt-3">
-                <div class="col-6">
-                    <p class="text-justify">
-                        Uiteindelijk hebben we besloten om vast te houden aan het blauw en gele kleurenpalet. Ik heb dit geïmplementeerd en hier zie je de laatste versie van ons logo. Ik heb twee versies van het logo gemaakt. Het eerste logo heeft een blauwe achtergrond met witte tekst, geschikt voor bijvoorbeeld posters en visitekaartjes. Het tweede logo heeft een witte achtergrond met blauwe tekst, ideaal voor websites en documenten.
-                    </p>
-                </div>
-
-                <div class="col-4">
-                    <img src="../img/projects/vibevault/logos4.png" class="img-fluid">
-                </div>
-            </div>
-            <!-- Logo's -->
-        </div>
-        <!-- Vibe Vault -->
-
-        <!-- Media Campaign -->
-        <div class="container text-dark pt-4" name="outcome-5-mediacampaign" id="outcome-5-mediacampaign">
-            <div class="row">
-                <div class="col">
-                    <h1 class="text-uppercase font-weight-bold">Media Campaign</h1>
+                    <h2>Afspraken & Deadlines</h2>
                 </div>
             </div>
             <div class="row">
                 <div class="col">
-                    Teksten volgen.
+                    <p class="text-justify">
+                        Bij elk project hebben wij in het beginnen een Trellobord gemaakt. in dit bord hebben wij de taken verdeeld en deadlines toegevoegd. Ik heb er voor gezorgd dat iedereen zijn werk op tijd afmaakten. Ik vond het zelf ook belangrijk om mezelf te verdiepen in de taken van mijn medestudenten, ik ben vaak langs geweest om te kijken of ik kon helpen. Na de taken klaar waren hebben we met het hele groepje gekeken of de taken voldoende afgerond waren. Zo wist iedereen wat er gedaan was en wat er nog gedaan moest worden.
+                    </p>
+                    <p class="text-justify">
+                        Elke keer dat ik zelf veel vooruitgang zag of hulp nodig had ben ik meteen naar docenten geweest om te vragen hoe ik mezelf kan verbeteren.
+                    </p>
                 </div>
             </div>
         </div>
-        <div style="height:1000px;"></div>
-        <!-- Media Campaign -->
+        <!-- Afspraken & Deadlines -->
         <div class="py-4"></div>
     </div>
 

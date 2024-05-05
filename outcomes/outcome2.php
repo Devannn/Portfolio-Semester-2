@@ -83,27 +83,6 @@
     </div>
 
     <div class="outcome-body">
-        <!-- <div class="container text-dark pt-4">
-            <div class="row">
-                <div class="col">
-                    <button type="button" class="btn btn-primary">
-                        <a class="btn btn-primary" href="#outcome-2-vibevault" role="button">Vibe Vault</a>
-                    </button>
-                    <button type="button" class="btn btn-primary">
-                        <a class="btn btn-primary" href="#outcome-2-mediacampaign" role="button">Media Campaign</a>
-                    </button>
-                    <button type="button" class="btn btn-primary">
-                        <a class="btn btn-primary" href="#outcome-2-vibevault" role="button">Coding Fontys</a>
-                    </button>
-                    <button type="button" class="btn btn-primary">
-                        <a class="btn btn-primary" href="#outcome-2-vibevault" role="button">Sprint X</a>
-                    </button>
-                    <button type="button" class="btn btn-primary">
-                        <a class="btn btn-primary" href="#outcome-2-vibevault" role="button">General</a>
-                    </button>
-                </div>
-            </div>
-        </div> -->
         <!-- Portfolio -->
         <div class="container text-dark pt-4" name="outcome-2-portfolio" id="outcome-2-portfolio">
             <div class="row">
@@ -120,7 +99,7 @@
             <div class="row">
                 <div class="col-6">
                     <p class="text-justify">
-                        Natuurlijk gebruikt bijna elke ICTer GitHub. github is een platform waar je je bestanden op kan uploaden en beheren. dit heb ik ook gedaan voor mijn portfolio. ik heb eerst een nieuwe bestand aangemaakt, elke keer als er grote aanpassingen worden gedaan in mijn portfolio kan ik deze 'commiten' naar github zodat deze nieuwe aanpassingen altijd online verkrijgbaar zijn. denk een beetje aan een backup. Ook kan ik gemakkelijk aanpassingen terugdraaien.
+                        Natuurlijk gebruikt bijna elke ICTer GitHub. GitHub is een platform waar je je bestanden op kan uploaden en beheren. dit heb ik ook gedaan voor mijn portfolio. ik heb eerst een nieuwe bestand aangemaakt, elke keer als er grote aanpassingen worden gedaan in mijn portfolio kan ik deze 'commiten' naar github zodat deze nieuwe aanpassingen altijd online verkrijgbaar zijn. denk een beetje aan een backup. Ook kan ik gemakkelijk aanpassingen terugdraaien.
                     </p>
                 </div>
 

@@ -61,9 +61,9 @@
                     <button type="button" class="btn btn-outline-secondary">
                         <a class="btn text-secondary" href="#outcome-3-vibevault" role="button">Vibe Vault</a>
                     </button>
-                    <button type="button" class="btn btn-outline-secondary">
+                    <!-- <button type="button" class="btn btn-outline-secondary">
                         <a class="btn text-secondary" href="#outcome-3-mediacampaign" role="button">Media Campaign</a>
-                    </button>
+                    </button> -->
                     <!-- <button type="button" class="btn btn-outline-secondary">
                         <a class="btn text-secondary" href="#outcome-3-vibevault" role="button">Coding Fontys</a>
                     </button> -->
@@ -82,27 +82,6 @@
     </div>
 
     <div class="outcome-body">
-        <!-- <div class="container text-dark pt-4">
-            <div class="row">
-                <div class="col">
-                    <button type="button" class="btn btn-primary">
-                        <a class="btn btn-primary" href="#outcome-3-vibevault" role="button">Vibe Vault</a>
-                    </button>
-                    <button type="button" class="btn btn-primary">
-                        <a class="btn btn-primary" href="#outcome-3-mediacampaign" role="button">Media Campaign</a>
-                    </button>
-                    <button type="button" class="btn btn-primary">
-                        <a class="btn btn-primary" href="#outcome-3-vibevault" role="button">Coding Fontys</a>
-                    </button>
-                    <button type="button" class="btn btn-primary">
-                        <a class="btn btn-primary" href="#outcome-3-vibevault" role="button">Sprint X</a>
-                    </button>
-                    <button type="button" class="btn btn-primary">
-                        <a class="btn btn-primary" href="#outcome-3-vibevault" role="button">General</a>
-                    </button>
-                </div>
-            </div>
-        </div> -->
         <!-- Vibe Vault -->
         <div class="container text-dark pt-4" name="outcome-3-vibevault" id="outcome-3-vibevault">
             <div class="row">

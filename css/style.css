@@ -19,12 +19,12 @@ body {
   cursor: url(../img/icon.png) 15 15, move;
 }
 
-.container {
-  margin-left: 110px !important;
-}
-
 h1 {
   font-size: 96px;
+}
+
+.container {
+  max-width: 1240px !important;
 }
 
 .navbar {
@@ -190,7 +190,7 @@ h1 {
 .buttons-container {
   position: absolute;
   top: 85%;
-  /* left: 110px; */
+  left: 110px;
 }
 
 /* Outcomes */
