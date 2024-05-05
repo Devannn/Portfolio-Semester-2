@@ -61,18 +61,6 @@
                     <button type="button" class="btn btn-outline-secondary">
                         <a class="btn text-secondary" href="#outcome-3-vibevault" role="button">Vibe Vault</a>
                     </button>
-                    <!-- <button type="button" class="btn btn-outline-secondary">
-                        <a class="btn text-secondary" href="#outcome-3-mediacampaign" role="button">Media Campaign</a>
-                    </button> -->
-                    <!-- <button type="button" class="btn btn-outline-secondary">
-                        <a class="btn text-secondary" href="#outcome-3-vibevault" role="button">Coding Fontys</a>
-                    </button> -->
-                    <!-- <button type="button" class="btn btn-outline-secondary">
-                        <a class="btn text-secondary" href="#outcome-3-vibevault" role="button">Sprint X</a>
-                    </button> -->
-                    <!-- <button type="button" class="btn btn-outline-secondary">
-                        <a class="btn text-secondary" href="#outcome-3-vibevault" role="button">General</a>
-                    </button> -->
                     <button type="button" class="btn btn-outline-secondary">
                         <a class="btn text-secondary" href="#outcome-3-portfolio" role="button">Portfolio</a>
                     </button>
@@ -100,18 +88,11 @@
                     <p class="text-justify">
                         We wisten in het begin nog niet precies hoe we ons project wilden noemen. Dus besloten we om eerst wat ruwe ideeën voor logo's te verkennen. Ik kwam op het idee om te kijken naar symbolen die met geluid te maken hebben, zoals een LP, een koptelefoon en een muziekgolf. Ik vond deze symbolen interessant omdat ze allemaal met geluid te maken hebben en je kunt er veel verschillende dingen mee doen.
                     </p>
+                    <img src="../img/projects/vibevault/Logos/logos2.png" class="img-fluid" style="width: 400px;">
                 </div>
 
                 <div class="col">
                     <img src="../img/projects/vibevault/Logos/logos1.png" class="img-fluid">
-                </div>
-            </div>
-            <div class="row pt-3">
-                <div class="col-4">
-                    <img src="../img/projects/vibevault/Logos/logos2.png" class="img-fluid">
-                </div>
-                <div class="col-2"></div>
-                <div class="col-6">
                     <p class="text-justify">
                         Uit onze enquêtes is gebleken dat de doelgroep de naam Vibe Vault passend vindt, een minimalistisch logo prefereert, een 'slab serif' lettertype wenst en graag een kleurstijl in blauw en geel ziet. Met deze informatie heb ik eerst gekeken naar inspiratie. Ik heb enkele afbeeldingen van microfoons en platen gevonden op het internet die ik wilde integreren in het ontwerp. Zoals te zien is op de foto hierlangs, heb ik verschillende iteraties gemaakt met andere kleuren om de doelgroep een beter beeld te geven.
                     </p>
