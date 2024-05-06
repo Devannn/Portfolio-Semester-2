@@ -62,12 +62,12 @@
             </div>
             <div class="carousel-item" id="carousel-item2">
                 <a href="projects.php">
-                    <img src="img/image2.jpeg" class="d-block w-100" alt="Slide 2">
+                    <img src="img/projects/mediacampaign/fontys.jpg" class="d-block w-100" alt="Slide 2">
                 </a>
             </div>
             <div class="carousel-item" id="carousel-item3">
                 <a href="projects.php">
-                    <img src="img/water.png" class="d-block w-100" alt="Slide 3">
+                    <img src="img/projects/mediacampaign/fontys.jpg" class="d-block w-100" alt="Slide 3">
                 </a>
             </div>
         </div>
@@ -97,9 +97,9 @@
                     case 'carousel-item1':
                         return 'Brand Guidelines - Vibe Vault';
                     case 'carousel-item2':
-                        return 'Project 2 Name';
+                        return 'Media Campaign - Fontys';
                     case 'carousel-item3':
-                        return 'Project 3 Name';
+                        return 'Website Redesign - Fontys';
                     default:
                         return 'Default Project Name';
                 }

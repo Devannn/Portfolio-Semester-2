@@ -79,13 +79,13 @@
                         <h1 class="card-title"></h1>
                     </div>
                     <div class="card-body project-hidden-footer">
-                        <h1 class="card-title text-uppercase font-weight-bold">BRAND GUIDELINES VIBEVAULT</h1>
+                        <h1 class="card-title text-uppercase font-weight-bold">Media Campaign Fontys</h1>
                     </div>
                     <div class="card-footer project-visible-footer">
 
                     </div>
                     <div class="card-footer project-hidden-footer">
-                        A place where creativity and sound meet.
+                        Rebranding/Redesigning of the fontys website.
                     </div>
                 </div>
             </div>

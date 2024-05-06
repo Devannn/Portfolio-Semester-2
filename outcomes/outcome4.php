@@ -122,27 +122,6 @@
             </div>
         </div>
         <!-- Presentations -->
-
-        <!-- Feedback & Feedpulse -->
-        <div class="container text-dark pt-4" name="outcome-4-feedback" id="outcome-4-feedback">
-            <div class="row">
-                <div class="col">
-                    <h2>Feedback & Feedpulse</h2>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col">
-                    <p class="text-justify">
-                        Als ik goede vooruitgang maakte ging ik vaak langs docenten en medestudenten om mijn werkt aan te tonen. Ik heb nuttige informatie uit deze gespreken gehaald en veel vooruitgang kunnen boeken. Met ons groepje hebben wij ook veel feedbackmomenten gehad. Vaak konden we zo ook onze vooruitgang documenteren.
-                    </p>
-                    <img src="../img/feedback.png" class="img-fluid" style="margin-top:15px;">
-                </div>
-                <div class="col">
-                    <img src="../img/feedpulse.png" class="img-fluid">
-                </div>
-            </div>
-        </div>
-        <!-- Feedback & Feedpulse -->
         <div class="py-4"></div>
     </div>
 

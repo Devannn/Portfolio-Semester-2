@@ -77,15 +77,36 @@
             <div class="row">
                 <div class="col">
                     <p class="text-justify">
-                        Bij elk project hebben wij in het beginnen een Trellobord gemaakt. in dit bord hebben wij de taken verdeeld en deadlines toegevoegd. Ik heb er voor gezorgd dat iedereen zijn werk op tijd afmaakten. Ik vond het zelf ook belangrijk om mezelf te verdiepen in de taken van mijn medestudenten, ik ben vaak langs geweest om te kijken of ik kon helpen. Na de taken klaar waren hebben we met het hele groepje gekeken of de taken voldoende afgerond waren. Zo wist iedereen wat er gedaan was en wat er nog gedaan moest worden.
+                        Bij elk project hebben wij in het beginnen een Trellobord gemaakt. in dit bord hebben wij de taken verdeeld en deadlines toegevoegd. Ik heb er voor gezorgd dat iedereen zijn werk op tijd afmaakten. Ik vond het zelf ook belangrijk om mezelf te beinvloeden in de taken van mijn medestudenten, ik ben vaak langs geweest om te kijken of ik kon helpen. Na de taken klaar waren hebben we met het hele groepje gekeken of de taken voldoende afgerond waren. Zo wist iedereen wat er gedaan was en wat er nog gedaan moest worden.
                     </p>
                     <p class="text-justify">
-                        Elke keer dat ik zelf veel vooruitgang zag of hulp nodig had ben ik meteen naar docenten geweest om te vragen hoe ik mezelf kan verbeteren.
+                        Elke keer dat ik zelf veel vooruitgang zag of hulp nodig had ben ik direct naar docenten geweest om te vragen hoe ik mezelf kan verbeteren.
                     </p>
                 </div>
             </div>
         </div>
         <!-- Afspraken & Deadlines -->
+
+        <!-- Feedback & Feedpulse -->
+        <div class="container text-dark pt-4" name="outcome-4-feedback" id="outcome-4-feedback">
+            <div class="row">
+                <div class="col">
+                    <h2>Feedback & Feedpulse</h2>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <p class="text-justify">
+                        Als ik goede vooruitgang maakte ging ik vaak langs docenten en medestudenten om mijn werkt aan te tonen. Ik heb nuttige informatie uit deze gespreken gehaald en veel vooruitgang kunnen boeken. Met ons groepje hebben wij ook veel feedbackmomenten gehad. Vaak konden we zo ook onze vooruitgang documenteren.
+                    </p>
+                    <img src="../img/feedback.png" class="img-fluid" style="margin-top:15px;">
+                </div>
+                <div class="col">
+                    <img src="../img/feedpulse.png" class="img-fluid">
+                </div>
+            </div>
+        </div>
+        <!-- Feedback & Feedpulse -->
         <div class="py-4"></div>
     </div>
 

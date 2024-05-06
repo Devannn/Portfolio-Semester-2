@@ -93,43 +93,13 @@
                 </div>
             </div>
         </div>
-        <div style="height:1000px;"></div>
+        <div class="py-4"></div>
         <!-- Vibe Vault -->
     </div>
 
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
-    <!-- <script>
-        $(document).ready(function() {
-            // Define mapping of carousel item IDs to href links
-            var projectLinks = {
-                'carousel-item1': '/Portfolio/projects/project1.php',
-                'carousel-item2': '/Portfolio/projects/project2.php',
-                'carousel-item3': '/Portfolio/projects/project3.php'
-            };
-
-            $('#carousel').on('slid.bs.carousel', function() {
-                var activeItemId = $('.carousel-item.active').attr('id');
-                var projectName = getProjectName(activeItemId);
-                var projectLink = projectLinks[activeItemId];
-                $('#projectLink').text(projectName).attr('href', projectLink);
-            });
-
-            function getProjectName(itemId) {
-                switch (itemId) {
-                    case 'carousel-item1':
-                        return 'Brand Guidelines - Vibe Vault';
-                    case 'carousel-item2':
-                        return 'Project 2 Name';
-                    case 'carousel-item3':
-                        return 'Project 3 Name';
-                    default:
-                        return 'Default Project Name';
-                }
-            }
-        });
-    </script> -->
 </body>
 
 </html>
