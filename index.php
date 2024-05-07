@@ -28,7 +28,7 @@
     <script>
         setTimeout(function() {
             window.location.href = "homepage.php";
-        }, 6000);
+        }, 3200);
     </script>
 </body>
 
