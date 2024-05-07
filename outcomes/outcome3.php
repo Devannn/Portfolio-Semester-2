@@ -118,21 +118,6 @@
         </div>
         <!-- Vibe Vault -->
 
-        <!-- Media Campaign -->
-        <!-- <div class="container text-dark pt-4" name="outcome-3-mediacampaign" id="outcome-3-mediacampaign">
-            <div class="row">
-                <div class="col">
-                    <h1 class="text-uppercase font-weight-bold">Media Campaign</h1>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col">
-                    Teksten volgen.
-                </div>
-            </div>
-        </div> -->
-        <!-- Media Campaign -->
-
         <!-- Portfolio -->
         <div class="container text-dark pt-4" name="outcome-3-portfolio" id="outcome-3-portfolio">
             <div class="row">

@@ -58,39 +58,96 @@
     </div>
 
     <div class="outcome-body">
-        <!-- Vibe Vault -->
-        <div class="container text-dark" name="outcome-1-vibevault" id="outcome-1-vibevault">
-            <div class="py-4"></div>
+        <!-- Stylescape -->
+        <div class="container text-dark pt-4" name="outcome-3-vibevault" id="outcome-3-vibevault">
+            <!-- Vooraf -->
             <div class="row">
                 <div class="col">
-                    <h1 class="text-uppercase font-weight-bold">Vibe Vault</h1>
+                    <h2>Vooraf</h2>
+                </div>
+                <div class="col text-right">
+                    <h2>L4 & L5</h2>
                 </div>
             </div>
             <div class="row">
                 <div class="col">
-                    Information about what i did for this learning outcome.
+                    <p class="text-justify">Na aanleiding van de presentatie die we hadden gekregen van onze stakeholder was het nog steeds best onduidelijk wat precies onze taak was, daarom ben ik meteen in contact geweest met de stakeholder. via verschillende emails en persoonlijk contact ben ik er achter gekomen wat er nu precies verwacht wordt en hoe we dit kunnen realiseren. Wij hoorden als feedback dat de stakeholder het fijn vind als ons design overheen komt met het design van de Pixel Playground (complemantaire kleuren).</p>
                 </div>
             </div>
-        </div>
-        <div style="height:1000px;"></div>
-        <!-- Vibe Vault -->
+            <!-- Vooraf -->
 
-        <!-- Media Campaign -->
-        <div class="container text-dark" name="outcome-1-mediacampaign" id="outcome-1-mediacampaign">
-            <div class="py-4"></div>
-            <div class="row">
+            <!-- Stylescape en Logo 1 -->
+            <div class="row pt-3">
                 <div class="col">
-                    <h1 class="text-uppercase font-weight-bold">Media Campaign</h1>
+                    <h2>Eerste Stylescape & Logo</h2>
+                </div>
+                <div class="col text-right">
+                    <h2>L1</h2>
                 </div>
             </div>
             <div class="row">
                 <div class="col">
-                    Information about what i did for this learning outcome.
+                    <p class="text-justify">
+                        met ons groepje zijn we eerst begonnen met brainstormen voor een naam en kleurenpallet. Rens kwam met de naam 'Sound Cube' omdat het een geluidsstudio is en een klein kamertje is. Meteen vonden wij de klik tussen de naam en de kamer. Ik ben eerst begonnen met inspiratie zoeken voor het logo. Online vond ik verschillende foto's van een LP, koptelefoon, microfoon en geluidsgolven. Deze 3 onderdelen wilde ik graag terug laten komen in mijn logo, hiernaast had ik gekeken naar de kleur die met geluid heeft te maken. Hieruit vond ik dat de kleuren blauw en paars hierbij passen. Ik had gekozen voor een blauw kleuren pallet. Met deze informatie heeft iedereen een eigen stylescape gemaakt die we kunnen voorleggen aan de stakeholder.
+                    </p>
+                </div>
+                <div class="col">
+                    <img src="../img/projects/vibevault/Logos/logos1.png" class="img-fluid" style="width:400px;">
+                    <img src="../img/projects/vibevault/stylescape1.png" class="img-fluid" style="margin-top:10px;">
                 </div>
             </div>
+            <!-- Stylescape en Logo 1 -->
+
+            <!-- Feedback & Survey 1 -->
+            <div class="row pt-3">
+                <div class="col">
+                    <h2>Feedback Stakeholder & Survey 1</h2>
+                </div>
+                <div class="col text-right">
+                    <h2>L4 & L5</h2>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <p class="text-justify">
+                        Toen iedereen klaar was met de stylescapes hebben wij deze voorgelegd aan de stakeholder. Wij hebben gevraagd welke onderdelijk van elk stylescape de stakeholder het mooist vond en welke hij terug wil zien in de volgende iteratie. Hieruit was gebleken dat de stakeholder het eigenlijk belangrijk vond dat onze design keuzes overheen komen met de eisen van de doelgroep en dat we surveys moesten uitdelen aan de doelgroep. Met deze feedback zijn wij aan de slag gegeaan.
+                    </p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <p class="text-justify">
+                        Hakan heeft een Office Form gemaakt die we hebben uitgedeeld aan de doelgroep. In deze survey stonden zes vragen die ons een beeld gaven over wat voor stijl de doelgroep aantrekkelijk en bijpassend vind. Hierlangs zie je dan de doelgroep de naam Vibe Vault hip vond. Dit vonden wij leuk om te horen omdat wij deze naam zelf ook heel leuk vonden omdat deze naam overheen komt met Pixel Playground, verder bleek het dat verschillende kandidaten verschillende kleurenpallets mooi vonden. Met deze informatie heb ik verschillende logo's en kleurenpallets gemaakt. Achteraf vond ik het interresant om te zien hoe veel impact een survey heeft op onze designkeuzes, daarom wilde later ook een survey maken.
+                    </p>
+                </div>
+                <div class="col">
+                    <img src="../img/projects/vibevault/survey1.png" class="img-fluid">
+                </div>
+            </div>
+            <!-- Feedback & Survey 1 -->
+
+            <!-- Logo's 2 -->
+            <div class="row pt-3">
+                <div class="col">
+                    <h2>Meer Logo's</h2>
+                </div>
+                <div class="col text-right">
+                    <h2>L1 & L3</h2>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <p class="text-justify">
+                        Lorem
+                    </p>
+                </div>
+                <div class="col">
+                    <img src="../img" class="img-fluid">
+                </div>
+            </div>
+            <!-- Logo's 2 -->
         </div>
-        <div style="height:1000px;"></div>
-        <!-- Media Campaign -->
+        <!-- Stylescape -->
         <div class="py-4"></div>
     </div>
 

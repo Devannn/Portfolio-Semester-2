@@ -180,7 +180,8 @@
                     </p>
                 </div>
                 <div class="col-6">
-                    <img src="../img/projects/portfolio/figma.png" class="img-fluid">
+                    <!-- <img src="../img/projects/portfolio/figma.png" class="img-fluid"> -->
+                    <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="590" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FEnHBPJgTrdgEhIX9AsCRfk%2FPortfolio%3Ftype%3Ddesign%26node-id%3D53%253A16%26mode%3Ddesign%26t%3D4PCpoyFWp0CilVsi-1" allowfullscreen></iframe>
                 </div>
             </div>
             <!-- Figma Design -->
