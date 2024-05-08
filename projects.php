@@ -47,10 +47,11 @@
             </ul>
         </div>
     </nav>
-
     <div class="py-5"></div>
+    <!-- All Projects -->
     <div class="col">
-        <div class="row">
+        <!-- Project 1 & 2 -->
+        <div class="row pt-1">
             <!-- Project 1 -->
             <div class="col-md-6 mb-6">
                 <a href="projects/project1.php" class="project-href">
@@ -90,12 +91,94 @@
                 </div>
             </div>
             <!-- Project 2 -->
-
-
         </div>
+        <!-- Project 1 & 2 -->
+
+        <!-- Project 3 & 4 -->
+        <div class="row pt-4">
+            <!-- Project 3 -->
+            <div class="col-md-6 mb-6">
+                <div class="card card-2 projects">
+                    <div class="card-body project-visible-footer">
+                        <h1 class="card-title"></h1>
+                    </div>
+                    <div class="card-body project-hidden-footer">
+                        <h1 class="card-title text-uppercase font-weight-bold">Website Redesign Fontys</h1>
+                    </div>
+                    <div class="card-footer project-visible-footer">
+
+                    </div>
+                    <div class="card-footer project-hidden-footer">
+                        Rebranding/Redesigning of the fontys website.
+                    </div>
+                </div>
+            </div>
+            <!-- Project 3 -->
+
+            <!-- Project 4 -->
+            <div class="col-md-6 mb-6">
+                <div class="card card-2 projects">
+                    <div class="card-body project-visible-footer">
+                        <h1 class="card-title"></h1>
+                    </div>
+                    <div class="card-body project-hidden-footer">
+                        <h1 class="card-title text-uppercase font-weight-bold">Sprint X</h1>
+                    </div>
+                    <div class="card-footer project-visible-footer">
+
+                    </div>
+                    <div class="card-footer project-hidden-footer">
+                        Sprint X.
+                    </div>
+                </div>
+            </div>
+            <!-- Project 4 -->
+        </div>
+        <!-- Project 3 & 4 -->
+
+        <!-- Project 5 & 6 -->
+        <div class="row pt-4">
+            <!-- Project 5 -->
+            <div class="col-md-6 mb-6">
+                <div class="card card-2 projects">
+                    <div class="card-body project-visible-footer">
+                        <h1 class="card-title"></h1>
+                    </div>
+                    <div class="card-body project-hidden-footer">
+                        <h1 class="card-title text-uppercase font-weight-bold">Devan's <br> Portfolio</h1>
+                    </div>
+                    <div class="card-footer project-visible-footer">
+
+                    </div>
+                    <div class="card-footer project-hidden-footer">
+                        My own portfolio.
+                    </div>
+                </div>
+            </div>
+            <!-- Project 5 -->
+
+            <!-- Project 6 -->
+            <!-- <div class="col-md-6 mb-6">
+                <div class="card card-2 projects">
+                    <div class="card-body project-visible-footer">
+                        <h1 class="card-title"></h1>
+                    </div>
+                    <div class="card-body project-hidden-footer">
+                        <h1 class="card-title text-uppercase font-weight-bold">Media Campaign Fontys</h1>
+                    </div>
+                    <div class="card-footer project-visible-footer">
+
+                    </div>
+                    <div class="card-footer project-hidden-footer">
+                        Rebranding/Redesigning of the fontys website.
+                    </div>
+                </div>
+            </div> -->
+            <!-- Project 6 -->
+        </div>
+        <!-- Project 5 & 6 -->
     </div>
-
-
+    <!-- All Projects -->
     <script src="js/main.js"></script>
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
