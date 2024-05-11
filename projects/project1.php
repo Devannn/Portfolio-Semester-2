@@ -59,19 +59,19 @@
 
     <div class="outcome-body">
         <!-- Stylescape -->
-        <div class="container text-dark pt-4" name="outcome-3-vibevault" id="outcome-3-vibevault">
+        <div class="container text-dark pt-4" name="project-1" id="project-1">
             <!-- Vooraf -->
             <div class="row">
                 <div class="col">
-                    <h2>Vooraf</h2>
+                    <h2 class="text-uppercase">Vooraf</h2>
                 </div>
                 <div class="col text-right">
-                    <h2>L4 & L5</h2>
+                    <h2 class="text-uppercase">LO4 & LO5</h2>
                 </div>
             </div>
             <div class="row">
                 <div class="col">
-                    <p class="text-justify">Na aanleiding van de presentatie die we hadden gekregen van onze stakeholder was het nog steeds best onduidelijk wat precies onze taak was, daarom ben ik meteen in contact geweest met de stakeholder. via verschillende emails en persoonlijk contact ben ik er achter gekomen wat er nu precies verwacht wordt en hoe we dit kunnen realiseren. Wij hoorden als feedback dat de stakeholder het fijn vind als ons design overheen komt met het design van de Pixel Playground (complemantaire kleuren).</p>
+                    <p class="text-justify">Na aanleiding van de presentatie die we hadden gekregen van onze stakeholder was het nog steeds best onduidelijk wat precies onze taak was, daarom ben ik meteen in contact geweest met de stakeholder. via verschillende emails en persoonlijk contact ben ik er achter gekomen wat er nu precies verwacht wordt en hoe we dit kunnen realiseren. Wij hoorden als feedback dat de stakeholder het fijn vind als ons design overheen komt met het design van de Pixel Playground (complemantaire kleuren). Met deze informatie heb ik ook een <a href="https://trello.com/b/I0a3lDlH/pt1-branding">Trello</a> gemaakt waarin de taakverdeling stond. We hadden echter geen deadlines toegevoegd dit was een gemiste kans omdat deadlines goed werken.</p>
                 </div>
             </div>
             <!-- Vooraf -->
@@ -79,16 +79,16 @@
             <!-- Stylescape en Logo 1 -->
             <div class="row pt-3">
                 <div class="col">
-                    <h2>Eerste Stylescape & Logo</h2>
+                    <h2 class="text-uppercase">Eerste Stylescape & Logo</h2>
                 </div>
                 <div class="col text-right">
-                    <h2>L1</h2>
+                    <h2 class="text-uppercase">LO1</h2>
                 </div>
             </div>
             <div class="row">
                 <div class="col">
                     <p class="text-justify">
-                        met ons groepje zijn we eerst begonnen met brainstormen voor een naam en kleurenpallet. Rens kwam met de naam 'Sound Cube' omdat het een geluidsstudio is en een klein kamertje is. Meteen vonden wij de klik tussen de naam en de kamer. Ik ben eerst begonnen met inspiratie zoeken voor het logo. Online vond ik verschillende foto's van een LP, koptelefoon, microfoon en geluidsgolven. Deze 3 onderdelen wilde ik graag terug laten komen in mijn logo, hiernaast had ik gekeken naar de kleur die met geluid heeft te maken. Hieruit vond ik dat de kleuren blauw en paars hierbij passen. Ik had gekozen voor een blauw kleuren pallet. Met deze informatie heeft iedereen een eigen stylescape gemaakt die we kunnen voorleggen aan de stakeholder.
+                        Met ons groepje zijn we eerst begonnen met brainstormen voor een naam en kleurenpallet. Rens kwam met de naam 'Sound Cube' omdat het een geluidsstudio is en een klein kamertje is. Meteen vonden wij de klik tussen de naam en de kamer. Ik ben eerst begonnen met inspiratie zoeken voor het logo. Online vond ik verschillende foto's van een LP, koptelefoon, microfoon en geluidsgolven. Deze 3 onderdelen wilde ik graag terug laten komen in mijn logo, hiernaast had ik gekeken naar de kleur die met geluid heeft te maken. Hieruit vond ik dat de kleuren blauw en paars hierbij passen. Ik had gekozen voor een blauw kleuren pallet. Met deze informatie heeft iedereen een eigen stylescape gemaakt die we kunnen voorleggen aan de stakeholder.
                     </p>
                 </div>
                 <div class="col">
@@ -101,10 +101,10 @@
             <!-- Feedback & Survey 1 -->
             <div class="row pt-3">
                 <div class="col">
-                    <h2>Feedback Stakeholder & Survey 1</h2>
+                    <h2 class="text-uppercase">Feedback Stakeholder & Survey 1</h2>
                 </div>
                 <div class="col text-right">
-                    <h2>L4 & L5</h2>
+                    <h2 class="text-uppercase">LO4 & LO5</h2>
                 </div>
             </div>
             <div class="row">
@@ -117,7 +117,7 @@
             <div class="row">
                 <div class="col">
                     <p class="text-justify">
-                        Hakan heeft een Office Form gemaakt die we hebben uitgedeeld aan de doelgroep. In deze survey stonden zes vragen die ons een beeld gaven over wat voor stijl de doelgroep aantrekkelijk en bijpassend vind. Hierlangs zie je dan de doelgroep de naam Vibe Vault hip vond. Dit vonden wij leuk om te horen omdat wij deze naam zelf ook heel leuk vonden omdat deze naam overheen komt met Pixel Playground, verder bleek het dat verschillende kandidaten verschillende kleurenpallets mooi vonden. Met deze informatie heb ik verschillende logo's en kleurenpallets gemaakt. Achteraf vond ik het interresant om te zien hoe veel impact een survey heeft op onze designkeuzes, daarom wilde later ook een survey maken.
+                        Hakan heeft een Office Form gemaakt die we hebben uitgedeeld aan de doelgroep. In deze survey stonden zes vragen die ons een beeld gaven over wat voor stijl de doelgroep aantrekkelijk en bijpassend vind. Hierlangs zie je dan de doelgroep de naam Vibe Vault hip vond. Dit vonden wij leuk om te horen omdat wij deze naam zelf ook heel leuk vonden omdat deze naam overheen komt met Pixel Playground, verder bleek het dat verschillende kandidaten verschillende kleurenpallets mooi vonden. Met deze informatie heb ik verschillende logo's en kleurenpallets gemaakt. Achteraf vond ik het interresant om te zien hoe veel impact een survey heeft op onze designkeuzes, daarom wilde ik later ook een survey maken.
                     </p>
                 </div>
                 <div class="col">
@@ -129,30 +129,191 @@
             <!-- Logo's 2 -->
             <div class="row pt-3">
                 <div class="col">
-                    <h2>Meer Logo's</h2>
+                    <h2 class="text-uppercase">Meer Logo's & Feedback Stakeholder</h2>
                 </div>
                 <div class="col text-right">
-                    <h2>L1 & L3</h2>
+                    <h2 class="text-uppercase">LO1 & LO3</h2>
                 </div>
             </div>
             <div class="row">
                 <div class="col">
                     <p class="text-justify">
-                        Lorem
+                        Met de informatie uit de survey heb ik er voor gekozen om eerst veel verschillende logo's te maken. Ik heb gekeken naar icontjes van een LP en microfoon. deze heb ik gebruikt in mijn design zoals je hier kan zien. Ik heb twee logo's gemaakt met verschillende kleurenpallets die overheen komen uit de survey.
+                    </p>
+                    <p class="text-justify">
+                        Nadat ik deze logo's had gemaakt ben ik langs de doelgroep geweest. Ik heb een paar kandidaten persoonlijk geinterviewd en gevraagd wat ze van de icoontjes vonden. De meeste kandidaten vonden de LP en microfoon samen te druk en wilde liever alleen een microfoon. Qua kleurengebruik vonden ze het wit/blauw/geel kleurenpallet mooi en wilde dat we hier verder mee gingen werken. Met deze informatie heb ik nog een styleguide gemaakt zodat ik deze aan de stakeholder kan presenteren.
+                    </p>
+                    <p class="text-justify">
+                        Met deze feedback ben ik een gesprek aangegaan met de stakeholder, ik heb in dit gesprek onze designkeuzes onderbouwd gebaseerd op de feedback, het uiteindelijke logo en styleguide gepresenteerd. De stakeholder gaf een groen licht om onze brandguide te maken.
                     </p>
                 </div>
                 <div class="col">
-                    <img src="../img" class="img-fluid">
+                    <img src="../img/projects/vibevault/Logos/logos5.png" class="img-fluid">
+                    <img src="../img/projects/vibevault/stylescape2.png" class="img-fluid" style="margin-top:10px;">
                 </div>
             </div>
             <!-- Logo's 2 -->
+
+            <!-- Survey 2, Poster & Mockups Iteratie 1 -->
+            <!-- <div class="row pt-3">
+                <div class="col">
+                    <h2 class="text-uppercase">Survey 2</h2>
+                </div>
+                <div class="col text-right">
+                    <h2 class="text-uppercase">LO4 & LO5</h2>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <p class="text-justify">
+                        Om er duidelijk achter te komen hoe de doelgroep denkt over mijn stylescape en logo heb ik nog een extra survey gemaakt. Uit deze survey is gebleken dat de stylescape minimalistich is, het logo abstract is, de kleuren druk zijn, de tekst goed leesbaar is en het lettertype goed overheen komt met de stylescape. Al in al ben ik heel tevreden met mijn stylescape en de doelgroep ook en weet ik nu zeker dat onze brandguide naar wenst gaat zijn van de stakeholder en doelgroep.
+                    </p>
+                </div>
+                <div class="col">
+                    <img src="../img/projects/vibevault/survey2.png" class="img-fluid">
+                </div>
+            </div>
+            <div class="row pt-3">
+                <div class="col">
+                    <h2 class="text-uppercase">Poster & Mockups</h2>
+                </div>
+                <div class="col text-right">
+                    <h2 class="text-uppercase">L01</h2>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <p class="text-justify">
+                        Om onze brand te representeren heb ik een poster gemaakt, mockups gemaakt en een instapost gemaakt. De poster kan overal worden opgehangen vooral in het soundlab en op school zelf. Mockups heb ik gemaakt om aan te tonen hoe ons logo er uit ziet op verschillende apparaten denk hierbij aan een laptop en telefoon.
+                    </p>
+                </div>
+                <div class="col">
+                    <img src="../img/projects/vibevault/Mockups/mockupsenzo.png" class="img-fluid">
+                </div>
+            </div> -->
+            <!-- Survey 2, Poster & Mockups Iteratie 1 -->
+
+            <!-- Survey 2, Poster & Mockups Iteratie 2 -->
+            <!-- <div class="row pt-3">
+                <div class="col">
+                    <h2 class="text-uppercase">Survey 2</h2>
+                </div>
+                <div class="col text-right">
+                    <h2 class="text-uppercase">LO4 & LO5</h2>
+                </div>
+            </div>
+            <div class="row pt-3">
+                <div class="col">
+                    <p class="text-justify">
+                        Om er duidelijk achter te komen hoe de doelgroep denkt over mijn stylescape en logo heb ik nog een extra survey gemaakt. Uit deze survey is gebleken dat de stylescape minimalistich is, het logo abstract is, de kleuren druk zijn, de tekst goed leesbaar is en het lettertype goed overheen komt met de stylescape. Al in al ben ik heel tevreden met mijn stylescape en de doelgroep ook en weet ik nu zeker dat onze brandguide naar wenst gaat zijn van de stakeholder en doelgroep.
+                    </p>
+                    <img src="../img/projects/vibevault/Mockups/mockupsenzo.png" class="img-fluid">
+                </div>
+                <div class="col">
+                    <img src="../img/projects/vibevault/survey2.png" class="img-fluid">
+                    <div class="row">
+                        <div class="col">
+                            <h2 class="text-uppercase">Poster & Mockups</h2>
+                        </div>
+                        <div class="col-4 text-right">
+                            <h2 class="text-uppercase">LO1</h2>
+                        </div>
+                    </div>
+                    <p class="text-justify">
+                        Om onze brand te representeren heb ik een poster gemaakt, mockups gemaakt en een instapost gemaakt. De poster kan overal worden opgehangen vooral in het soundlab en op school zelf. Mockups heb ik gemaakt om aan te tonen hoe ons logo er uit ziet op verschillende apparaten denk hierbij aan een laptop en telefoon.
+                    </p>
+                </div>
+            </div> -->
+            <!-- Survey 2, Poster & Mockups Iteratie 2 -->
+
+            <!-- Survey 2, Poster & Mockups Iteratie 3 -->
+            <div class="row pt-3">
+                <div class="col-md-4">
+                    <h2 class="text-uppercase">Survey 2</h2>
+                </div>
+                <div class="col-md-2 text-right">
+                    <h2 class="text-uppercase text-right">LO4 & LO5</h2>
+                </div>
+                <div class="col-md-4">
+                    <h2 class="text-uppercase">Poster & Mockups</h2>
+                </div>
+                <div class="col-md-2 text-right">
+                    <h2 class="text-uppercase text-right">LO1</h2>
+                </div>
+                <div class="col">
+                    </h2>
+                    <p class="text-justify">
+                        Om er duidelijk achter te komen hoe de doelgroep denkt over mijn stylescape en logo heb ik nog een extra survey gemaakt. Uit deze survey is gebleken dat de stylescape minimalistich is, het logo abstract is, de kleuren druk zijn, de tekst goed leesbaar is en het lettertype goed overheen komt met de stylescape. Al in al ben ik heel tevreden met mijn stylescape en de doelgroep ook en weet ik nu zeker dat onze brandguide naar wenst gaat zijn van de stakeholder en doelgroep.
+                    </p>
+                    <img src="../img/projects/vibevault/survey2.png" class="img-fluid">
+                </div>
+                <div class="col">
+                    <p class="text-justify">
+                        Om onze brand te representeren heb ik een poster gemaakt, mockups gemaakt en een instapost gemaakt. De poster kan overal worden opgehangen vooral in het soundlab en op school zelf. Mockups heb ik gemaakt om aan te tonen hoe ons logo er uit ziet op verschillende apparaten denk hierbij aan een laptop en telefoon.
+                    </p>
+                    <img src="../img/projects/vibevault/Mockups/mockupsenzo.png" class="img-fluid">
+                </div>
+            </div>
+            <!-- Survey 2, Poster & Mockups Iteratie 3 -->
+
+            <!-- Eindproduct -->
+            <div class="row pt-3">
+                <div class="col">
+                    <h2 class="text-uppercase">Brand Guidelines</h2>
+                </div>
+                <div class="col text-right">
+                    <h2 class="text-uppercase">L01</h2>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <p class="text-justify">
+                        Met alle opgehaalde informatie en feedback van de doelgroep en stakeholder zijn we tot een uiteindelijke brandguide gekomen die hieronder weer te geven is. Onze brandguide begint met een overview en een inhoudsopgave, hierna gaan we door naar onze missieverklaring "A place where creativity and sound meet each other". Op de volgende paginas zie je de gemaakt poster, mockups en instagram post, Hierna komen de surveys die Hakan en ik hebben uitgegeven, ook het Logo komt tevoorschijn in de brandguide waaronder een met een blauwe achtergrond en een met een witte achtegrond. De typografie die gekozen is is natuurlijk ook belangrijk daarom hebben we deze ook aangetoond. Je kan zien dat we General Sans gebruiken voor kopteksten en Nunito Sans voor teksten, na de teksten wordt het gekozen kleurenpallet aangetoond. Om alles af te maken wordt ook de content strategie aangetoond die Sem heeft gemaakt.
+                    </p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FDBnglWkJiRXv7gLWq0Z9J2%2FBrand-Guideliness-Vibe-Vault%3Ftype%3Ddesign%26node-id%3D0%253A1%26mode%3Ddesign%26t%3DuqnhnuytIDcX8Rcz-1" allowfullscreen></iframe>
+                </div>
+            </div>
+            <!-- Eindproduct -->
+
+            <!-- Presentatie -->
+            <div class="row pt-3">
+                <div class="col">
+                    <h2>Feedback - Paul & Eind Presentatie</h2>
+                </div>
+                <div class="col text-right">
+                    <h2>L04 & L05</h2>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <p class="text-justify">
+                        Natuurlijk hoort er ook een presentatie bij het eindproduct. Wij hebben een presentatie gemaakt in de stijl van onze brandguide. Dit is eigenlijk een samenvatting van onze brandguide.
+                        Om er zeker van te zijn hebben wij onze presentatie voorgelegd aan Paul en daarop hebben we deze feedback gekregen.
+                        Met deze feedback hebben wij een verbeterde presentatie gemaakt die hieronder is weergegeven. Deze vond Paul er goed uit zien.
+
+                        <br>
+                    <h5>Feedback</h5>
+                    - Maak de presentatie wat meer interessant en leg de nadruk op de eindresultaten, en niet op het itteratief proces.
+                    <br>- Als je meerdere persona's hebt moeten deze verschillen van elkaar, niet 2 bijna dezelfde zoals we nu hadden.
+                    <br>- Maak ook een afsluiter waar nog wat visuele aspecten van het project in te zien zijn zodat hier nog feedback over gegeven kan worden.
+                    </p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <embed src="../img/projects/vibevault/Presentation - Vibe Vault.pdf" type="application/pdf" width="100%" height="600px">
+                </div>
+            </div>
+            <!-- Presentatie -->
         </div>
         <!-- Stylescape -->
         <div class="py-4"></div>
     </div>
-
-    <script src="../js/main.js">
-    </script>
+    <script src="../js/main.js"></script>
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>

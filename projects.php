@@ -51,11 +51,57 @@
     <!-- All Projects -->
     <div class="col">
         <!-- Project 1 & 2 -->
-        <div class="row pt-1">
+        <div class="row">
             <!-- Project 1 -->
             <div class="col-md-6 mb-6">
                 <a href="projects/project1.php" class="project-href">
                     <div class="card card-1 projects">
+                        <div class="card-body project-visible-footer">
+                            <h1 class="card-title"></h1>
+                        </div>
+                        <div class="card-body project-hidden-footer">
+                            <h1 class="card-title text-uppercase font-weight-bold">Brand Guidelines Vibevault</h1>
+                        </div>
+                        <div class="card-footer project-visible-footer">
+
+                        </div>
+                        <div class="card-footer project-hidden-footer">
+                            A place where creativity and sound meet.
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <!-- Project 1 -->
+
+            <!-- Project 2 -->
+            <div class="col-md-6 mb-6">
+                <a href="projects/project2.php" class="project-href">
+                    <div class="card card-2 projects">
+                        <div class="card-body project-visible-footer">
+                            <h1 class="card-title"></h1>
+                        </div>
+                        <div class="card-body project-hidden-footer">
+                            <h1 class="card-title text-uppercase font-weight-bold">Media Campaign Fontys</h1>
+                        </div>
+                        <div class="card-footer project-visible-footer">
+
+                        </div>
+                        <div class="card-footer project-hidden-footer">
+                            Rebranding/Redesigning of the fontys website.
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <!-- Project 2 -->
+        </div>
+        <!-- Project 1 & 2 -->
+
+        <!-- Project 3 & 4 -->
+        <div class="row pt-4">
+            <!-- Project 3 -->
+            <div class="col-md-6 mb-6">
+                <a href="projects/project3.php" class="project-href">
+                    <div class="card card-3 projects">
                         <div class="card-body project-visible-footer">
                             <h1 class="card-title"></h1>
                         </div>
@@ -71,66 +117,26 @@
                     </div>
                 </a>
             </div>
-            <!-- Project 1 -->
-
-            <!-- Project 2 -->
-            <div class="col-md-6 mb-6">
-                <div class="card card-2 projects">
-                    <div class="card-body project-visible-footer">
-                        <h1 class="card-title"></h1>
-                    </div>
-                    <div class="card-body project-hidden-footer">
-                        <h1 class="card-title text-uppercase font-weight-bold">Media Campaign Fontys</h1>
-                    </div>
-                    <div class="card-footer project-visible-footer">
-
-                    </div>
-                    <div class="card-footer project-hidden-footer">
-                        Rebranding/Redesigning of the fontys website.
-                    </div>
-                </div>
-            </div>
-            <!-- Project 2 -->
-        </div>
-        <!-- Project 1 & 2 -->
-
-        <!-- Project 3 & 4 -->
-        <div class="row pt-4">
-            <!-- Project 3 -->
-            <div class="col-md-6 mb-6">
-                <div class="card card-2 projects">
-                    <div class="card-body project-visible-footer">
-                        <h1 class="card-title"></h1>
-                    </div>
-                    <div class="card-body project-hidden-footer">
-                        <h1 class="card-title text-uppercase font-weight-bold">Website Redesign Fontys</h1>
-                    </div>
-                    <div class="card-footer project-visible-footer">
-
-                    </div>
-                    <div class="card-footer project-hidden-footer">
-                        Rebranding/Redesigning of the fontys website.
-                    </div>
-                </div>
-            </div>
             <!-- Project 3 -->
 
             <!-- Project 4 -->
             <div class="col-md-6 mb-6">
-                <div class="card card-2 projects">
-                    <div class="card-body project-visible-footer">
-                        <h1 class="card-title"></h1>
-                    </div>
-                    <div class="card-body project-hidden-footer">
-                        <h1 class="card-title text-uppercase font-weight-bold">Sprint X</h1>
-                    </div>
-                    <div class="card-footer project-visible-footer">
+                <a href="projects/project4.php" class="project-href">
+                    <div class="card card-4 projects">
+                        <div class="card-body project-visible-footer">
+                            <h1 class="card-title"></h1>
+                        </div>
+                        <div class="card-body project-hidden-footer">
+                            <h1 class="card-title text-uppercase font-weight-bold">Media Campaign Fontys</h1>
+                        </div>
+                        <div class="card-footer project-visible-footer">
 
+                        </div>
+                        <div class="card-footer project-hidden-footer">
+                            Rebranding/Redesigning of the fontys website.
+                        </div>
                     </div>
-                    <div class="card-footer project-hidden-footer">
-                        Sprint X.
-                    </div>
-                </div>
+                </a>
             </div>
             <!-- Project 4 -->
         </div>
@@ -140,43 +146,27 @@
         <div class="row pt-4">
             <!-- Project 5 -->
             <div class="col-md-6 mb-6">
-                <div class="card card-2 projects">
-                    <div class="card-body project-visible-footer">
-                        <h1 class="card-title"></h1>
-                    </div>
-                    <div class="card-body project-hidden-footer">
-                        <h1 class="card-title text-uppercase font-weight-bold">Devan's <br> Portfolio</h1>
-                    </div>
-                    <div class="card-footer project-visible-footer">
+                <a href="projects/project5.php" class="project-href">
+                    <div class="card card-5 projects">
+                        <div class="card-body project-visible-footer">
+                            <h1 class="card-title"></h1>
+                        </div>
+                        <div class="card-body project-hidden-footer">
+                            <h1 class="card-title text-uppercase font-weight-bold">Devan's <br> Portfolio</h1>
+                        </div>
+                        <div class="card-footer project-visible-footer">
 
+                        </div>
+                        <div class="card-footer project-hidden-footer">
+                            This is Devan's portfolio.
+                        </div>
                     </div>
-                    <div class="card-footer project-hidden-footer">
-                        My own portfolio.
-                    </div>
-                </div>
+                </a>
             </div>
             <!-- Project 5 -->
-
-            <!-- Project 6 -->
-            <!-- <div class="col-md-6 mb-6">
-                <div class="card card-2 projects">
-                    <div class="card-body project-visible-footer">
-                        <h1 class="card-title"></h1>
-                    </div>
-                    <div class="card-body project-hidden-footer">
-                        <h1 class="card-title text-uppercase font-weight-bold">Media Campaign Fontys</h1>
-                    </div>
-                    <div class="card-footer project-visible-footer">
-
-                    </div>
-                    <div class="card-footer project-hidden-footer">
-                        Rebranding/Redesigning of the fontys website.
-                    </div>
-                </div>
-            </div> -->
-            <!-- Project 6 -->
         </div>
         <!-- Project 5 & 6 -->
+        <div class="py-4"></div>
     </div>
     <!-- All Projects -->
     <script src="js/main.js"></script>

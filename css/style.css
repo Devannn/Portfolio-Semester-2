@@ -143,22 +143,35 @@ h1 {
   /* Show the second card when hovered */
 }
 
-.card-1 {
-  background-image: url("../img/projects/vibevault/vibevault-image.png");
+.projects {
   background-size: cover;
   background-position: center;
+}
+
+.card-1 {
+  background-image: url("../img/projects/vibevault/vibevault-image.png");
 }
 
 .card-2 {
   background-image: url("../img/projects/mediacampaign/fontys.jpg");
-  background-size: cover;
-  background-position: center;
 }
 
+.card-3 {
+  background-image: url("../img/projects/mediacampaign/fontys.jpg");
+}
+
+.card-4 {
+  background-image: url("../img/projects/mediacampaign/fontys.jpg");
+}
+
+.card-5 {
+  background-image: url("../img/projects/portfolio/figma.png");
+}
 
 /* Projects */
 
 /* Project 1 */
+
 .project-1-header {
   background-image: url("../img/projects/vibevault/vibevault.png");
   background-position: center;
@@ -167,6 +180,50 @@ h1 {
 }
 
 /* Project 1 */
+
+/* Project 2 */
+
+.project-2-header {
+  background-image: url("../img/projects/vibevault/vibevault.png");
+  background-position: center;
+  background-size: cover;
+  height:100vh;
+}
+
+/* Project 2 */
+
+/* Project 3 */
+
+.project-3-header {
+  background-image: url("../img/projects/vibevault/vibevault.png");
+  background-position: center;
+  background-size: cover;
+  height:100vh;
+}
+
+/* Project 3 */
+
+/* Project 3 */
+
+.project-4-header {
+  background-image: url("../img/projects/vibevault/vibevault.png");
+  background-position: center;
+  background-size: cover;
+  height:100vh;
+}
+
+/* Project 4 */
+
+/* Project 5 */
+
+.project-5-header {
+  background-image: url("../img/projects/portfolio/portfolio.png");
+  background-position: center;
+  background-size: cover;
+  height:100vh;
+}
+
+/* Project 5 */
 
 /* Outcomes */
 
