@@ -56,24 +56,16 @@
     <div id="carousel" class="carousel slide" data-ride="carousel">
         <div class="carousel-inner">
             <div class="carousel-item active" id="carousel-item1">
-                <a href="/Portfolio/projects.php">
-                    <img src="img/vissen/vis1.jpeg" class="d-block w-100" alt="Slide 1">
-                </a>
+                <img src="img/vissen/vis1.jpeg" class="d-block w-100" alt="Slide 1">
             </div>
             <div class="carousel-item" id="carousel-item2">
-                <a href="/Portfolio/projects.php">
-                    <img src="img/vissen/vis2.jpeg" class="d-block w-100" alt="Slide 2">
-                </a>
+                <img src="img/vissen/vis2.jpeg" class="d-block w-100" alt="Slide 2">
             </div>
             <div class="carousel-item" id="carousel-item3">
-                <a href="/Portfolio/projects.php">
-                    <img src="img/vissen/vis3.jpeg" class="d-block w-100" alt="Slide 3">
-                </a>
+                <img src="img/vissen/vis3.jpeg" class="d-block w-100" alt="Slide 3">
             </div>
             <div class="carousel-item" id="carousel-item3">
-                <a href="/Portfolio/projects.php">
-                    <img src="img/vissen/vis4.jpeg" class="d-block w-100" alt="Slide 4">
-                </a>
+                <img src="img/vissen/vis4.jpeg" class="d-block w-100" alt="Slide 4">
             </div>
         </div>
     </div>
