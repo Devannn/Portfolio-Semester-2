@@ -19,9 +19,18 @@ body {
   cursor: url(../img/icon.png) 15 15, move;
 }
 
+/* Headers Uppercase */
 h1 {
   font-size: 96px;
 }
+
+h1, h2, h3, h4, h5 {
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+
+/* Headers Uppercase */
 
 .container {
   max-width: 1240px !important;

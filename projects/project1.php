@@ -54,7 +54,7 @@
     </nav>
 
     <div class="project-1-header">
-        <h1 class="outcome-header-text text-white text-uppercase">Brand Guidelines <br> Vibe Vault</h1>
+        <h1 class="outcome-header-text text-uppercase">Brand Guidelines <br> Vibe Vault</h1>
     </div>
 
     <div class="outcome-body">
@@ -63,10 +63,10 @@
             <!-- Vooraf -->
             <div class="row">
                 <div class="col">
-                    <h2 class="text-uppercase">Vooraf</h2>
+                    <h2>Vooraf</h2>
                 </div>
                 <div class="col text-right">
-                    <h2 class="text-uppercase">LO4 & LO5</h2>
+                    <h2>LO4 & LO5</h2>
                 </div>
             </div>
             <div class="row">
@@ -79,10 +79,10 @@
             <!-- Stylescape en Logo 1 -->
             <div class="row pt-3">
                 <div class="col">
-                    <h2 class="text-uppercase">Eerste Stylescape & Logo</h2>
+                    <h2>Eerste Stylescape & Logo</h2>
                 </div>
                 <div class="col text-right">
-                    <h2 class="text-uppercase">LO1</h2>
+                    <h2>LO1</h2>
                 </div>
             </div>
             <div class="row">
@@ -101,10 +101,10 @@
             <!-- Feedback & Survey 1 -->
             <div class="row pt-3">
                 <div class="col">
-                    <h2 class="text-uppercase">Feedback Stakeholder & Survey 1</h2>
+                    <h2>Feedback Stakeholder & Survey 1</h2>
                 </div>
-                <div class="col text-right">
-                    <h2 class="text-uppercase">LO4 & LO5</h2>
+                <div class="col-3 text-right">
+                    <h2>LO4 & LO5</h2>
                 </div>
             </div>
             <div class="row">
@@ -129,10 +129,10 @@
             <!-- Logo's 2 -->
             <div class="row pt-3">
                 <div class="col">
-                    <h2 class="text-uppercase">Meer Logo's & Feedback Stakeholder</h2>
+                    <h2>Meer Logo's & Feedback Stakeholder</h2>
                 </div>
-                <div class="col text-right">
-                    <h2 class="text-uppercase">LO1 & LO3</h2>
+                <div class="col-3 text-right">
+                    <h2>LO1 & LO3</h2>
                 </div>
             </div>
             <div class="row">
@@ -157,10 +157,10 @@
             <!-- Survey 2, Poster & Mockups Iteratie 1 -->
             <!-- <div class="row pt-3">
                 <div class="col">
-                    <h2 class="text-uppercase">Survey 2</h2>
+                    <h2>Survey 2</h2>
                 </div>
                 <div class="col text-right">
-                    <h2 class="text-uppercase">LO4 & LO5</h2>
+                    <h2>LO4 & LO5</h2>
                 </div>
             </div>
             <div class="row">
@@ -175,10 +175,10 @@
             </div>
             <div class="row pt-3">
                 <div class="col">
-                    <h2 class="text-uppercase">Poster & Mockups</h2>
+                    <h2>Poster & Mockups</h2>
                 </div>
                 <div class="col text-right">
-                    <h2 class="text-uppercase">L01</h2>
+                    <h2>LO1</h2>
                 </div>
             </div>
             <div class="row">
@@ -196,10 +196,10 @@
             <!-- Survey 2, Poster & Mockups Iteratie 2 -->
             <!-- <div class="row pt-3">
                 <div class="col">
-                    <h2 class="text-uppercase">Survey 2</h2>
+                    <h2>Survey 2</h2>
                 </div>
                 <div class="col text-right">
-                    <h2 class="text-uppercase">LO4 & LO5</h2>
+                    <h2>LO4 & LO5</h2>
                 </div>
             </div>
             <div class="row pt-3">
@@ -213,10 +213,10 @@
                     <img src="../img/projects/vibevault/survey2.png" class="img-fluid">
                     <div class="row">
                         <div class="col">
-                            <h2 class="text-uppercase">Poster & Mockups</h2>
+                            <h2>Poster & Mockups</h2>
                         </div>
                         <div class="col-4 text-right">
-                            <h2 class="text-uppercase">LO1</h2>
+                            <h2>LO1</h2>
                         </div>
                     </div>
                     <p class="text-justify">
@@ -229,16 +229,16 @@
             <!-- Survey 2, Poster & Mockups Iteratie 3 -->
             <div class="row pt-3">
                 <div class="col-md-4">
-                    <h2 class="text-uppercase">Survey 2</h2>
+                    <h2>Survey 2</h2>
                 </div>
                 <div class="col-md-2 text-right">
-                    <h2 class="text-uppercase text-right">LO4 & LO5</h2>
+                    <h2>LO4 & LO5</h2>
                 </div>
                 <div class="col-md-4">
-                    <h2 class="text-uppercase">Poster & Mockups</h2>
+                    <h2>Poster & Mockups</h2>
                 </div>
                 <div class="col-md-2 text-right">
-                    <h2 class="text-uppercase text-right">LO1</h2>
+                    <h2>LO1</h2>
                 </div>
                 <div class="col">
                     </h2>
@@ -259,10 +259,10 @@
             <!-- Eindproduct -->
             <div class="row pt-3">
                 <div class="col">
-                    <h2 class="text-uppercase">Brand Guidelines</h2>
+                    <h2>Brand Guidelines</h2>
                 </div>
                 <div class="col text-right">
-                    <h2 class="text-uppercase">L01</h2>
+                    <h2>LO1</h2>
                 </div>
             </div>
             <div class="row">
@@ -284,8 +284,8 @@
                 <div class="col">
                     <h2>Feedback - Paul & Eind Presentatie</h2>
                 </div>
-                <div class="col text-right">
-                    <h2>L04 & L05</h2>
+                <div class="col-3 text-right">
+                    <h2>LO4 & LO5</h2>
                 </div>
             </div>
             <div class="row">
@@ -296,7 +296,7 @@
                         Met deze feedback hebben wij een verbeterde presentatie gemaakt die hieronder is weergegeven. Deze vond Paul er goed uit zien.
 
                         <br>
-                    <h5>Feedback</h5>
+                    <h5>Feedback Punten</h5>
                     - Maak de presentatie wat meer interessant en leg de nadruk op de eindresultaten, en niet op het itteratief proces.
                     <br>- Als je meerdere persona's hebt moeten deze verschillen van elkaar, niet 2 bijna dezelfde zoals we nu hadden.
                     <br>- Maak ook een afsluiter waar nog wat visuele aspecten van het project in te zien zijn zodat hier nog feedback over gegeven kan worden.
