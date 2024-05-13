@@ -38,7 +38,7 @@
                         <a class="dropdown-item text-uppercase" href="outcomes/outcome5.php">Personal Leadership</a>
                     </div>
                 </li>
-                <li class="nav-item active">
+                <li class="nav-item">
                     <a class="nav-link text-white" href="aboutme.php">About Me</a>
                 </li>
                 <li class="nav-item">
