@@ -2,16 +2,16 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Devan's Portfolio</title>
 
     <!-- CSS & Boostrap -->
-    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="../css/style.css">
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="../css/style.css" />
 
     <!-- Rubik Font -->
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700&display=swap">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700&display=swap" />
 </head>
 
 <body class="outcome-3">
@@ -54,7 +54,10 @@
     </nav>
 
     <div class="outcome-header outcome-4">
-        <h1 class="outcome-header-text text-white text-uppercase">Professional <br> Standard</h1>
+        <h1 class="outcome-header-text text-white text-uppercase">
+            Professional <br />
+            Standard
+        </h1>
         <div class="container pt-4 buttons-container">
             <div class="row">
                 <div class="col">
@@ -83,14 +86,19 @@
             <div class="row">
                 <div class="col">
                     <p class="text-justify">
-                        Omdat wij in een groepje van 5 werken hebben wij er voor gekozen om met Trello te gaan werken. Met Trello kan je verschillende borden maken dit is eigenlijk een grote to-do lijst. Iedereen kan zijn of haar taken toevoegen met een deadline. Als te taken dan zijn afgerond worden die in de Review lijst gezet. Zo kunnen andere teamleden het werk meteen controlleren.
+                        Omdat wij in een groepje van 5 werken hebben wij er voor gekozen
+                        om met Trello te gaan werken. Met Trello kan je verschillende
+                        borden maken dit is eigenlijk een grote to-do lijst. Iedereen kan
+                        zijn of haar taken toevoegen met een deadline. Als te taken dan
+                        zijn afgerond worden die in de Review lijst gezet. Zo kunnen
+                        andere teamleden het werk meteen controlleren.
                     </p>
                 </div>
                 <div class="col">
-                    <img src="../img/projects/vibevault/trello.png" class="img-fluid">
+                    <img src="../img/projects/vibevault/trello.png" class="img-fluid" />
                 </div>
                 <div class="col">
-                    <img src="../img/projects/mediacampaign/trello.png" class="img-fluid">
+                    <img src="../img/projects/mediacampaign/trello.png" class="img-fluid" />
                 </div>
             </div>
         </div>
@@ -106,18 +114,24 @@
             <div class="row">
                 <div class="col">
                     <p class="text-justify">
-                        Voor de brandguide en media campaign opdrachten hebben wij verschillende presentaties gegeven. Bij elke sprintoplevering hebben wij een presentatie gemaakt. In deze presentatie is vermeld wat wij gedaan hebben en wat wij gaan doen bij de volgende sprintoplevering.
-
-                        Om onze vooruitgang aan te tonen hebben wij verschillende presentaties gemaakt. In deze presentaties is vermeld wat we gedaan hebben en wat we nog willen doen voor de volgende sprint. Natuurlijk geven wij ook een eindpresentatie, deze presentaties geven wij aan de stakeholders en docenten.
+                        Voor de brandguide en media campaign opdrachten hebben wij
+                        verschillende presentaties gegeven. Bij elke sprintoplevering
+                        hebben wij een presentatie gemaakt. In deze presentatie is vermeld
+                        wat wij gedaan hebben en wat wij gaan doen bij de volgende
+                        sprintoplevering. Om onze vooruitgang aan te tonen hebben wij
+                        verschillende presentaties gemaakt. In deze presentaties is
+                        vermeld wat we gedaan hebben en wat we nog willen doen voor de
+                        volgende sprint. Natuurlijk geven wij ook een eindpresentatie,
+                        deze presentaties geven wij aan de stakeholders en docenten.
                     </p>
                 </div>
             </div>
             <div class="row">
                 <div class="col">
-                    <img src="../img/projects/vibevault/presentation.png" class="img-fluid">
+                    <img src="../img/projects/vibevault/presentation.png" class="img-fluid" />
                 </div>
                 <div class="col">
-                    <img src="../img/projects/mediacampaign/presentation.png" class="img-fluid">
+                    <img src="../img/projects/mediacampaign/presentation.png" class="img-fluid" />
                 </div>
             </div>
         </div>
@@ -125,8 +139,7 @@
         <div class="py-4"></div>
     </div>
 
-    <script src=" js/main.js">
-    </script>
+    <script src=" js/main.js"></script>
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>

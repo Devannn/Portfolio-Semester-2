@@ -2,16 +2,16 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Devan's Portfolio</title>
 
     <!-- CSS & Boostrap -->
-    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="../css/style.css">
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="../css/style.css" />
 
     <!-- Rubik Font -->
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700&display=swap">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700&display=swap" />
 </head>
 
 <body class="outcome-3">
@@ -54,7 +54,9 @@
     </nav>
 
     <div class="outcome-header outcome-2">
-        <h1 class="outcome-header-text text-white text-uppercase">Development And Version Control</h1>
+        <h1 class="outcome-header-text text-white text-uppercase">
+            Development And Version Control
+        </h1>
         <div class="container pt-4 buttons-container">
             <div class="row">
                 <div class="col">
@@ -99,12 +101,19 @@
             <div class="row">
                 <div class="col-6">
                     <p class="text-justify">
-                        Natuurlijk gebruikt bijna elke ICTer GitHub. GitHub is een platform waar je je bestanden op kan uploaden en beheren. dit heb ik ook gedaan voor mijn portfolio. ik heb eerst een nieuwe bestand aangemaakt, elke keer als er grote aanpassingen worden gedaan in mijn portfolio kan ik deze 'commiten' naar github zodat deze nieuwe aanpassingen altijd online verkrijgbaar zijn. denk een beetje aan een backup. Ook kan ik gemakkelijk aanpassingen terugdraaien.
+                        Natuurlijk gebruikt bijna elke ICTer GitHub. GitHub is een
+                        platform waar je je bestanden op kan uploaden en beheren. dit heb
+                        ik ook gedaan voor mijn portfolio. ik heb eerst een nieuwe bestand
+                        aangemaakt, elke keer als er grote aanpassingen worden gedaan in
+                        mijn portfolio kan ik deze 'commiten' naar github zodat deze
+                        nieuwe aanpassingen altijd online verkrijgbaar zijn. denk een
+                        beetje aan een backup. Ook kan ik gemakkelijk aanpassingen
+                        terugdraaien.
                     </p>
                 </div>
 
                 <div class="col-6">
-                    <img src="../img/projects/portfolio/github.png" class="img-fluid">
+                    <img src="../img/projects/portfolio/github.png" class="img-fluid" />
                 </div>
             </div>
             <!-- Github -->
@@ -118,15 +127,30 @@
             <div class="row">
                 <div class="col-6">
                     <p class="text-justify">
-                        Door gebruik te maken van mijn figma bestand ben ik te werk gegaan om mijn portfolio te developen. ik heb gebruik gemaakt van HTMl, CSS, JS en Bootstrap. Vooral bootstrap vind ik heel fijn omdat je met bootstrap gemakkelijk een grid en huisstijl kan gebruiken die op elke pagina terug komt. in Figma heb ik een paar templates gemaakt voor de achtegrond foto's van de projecten en leeruitkomsten. deze heb ik dan als background-image toegevoegd aan de bijbehorende pagina's
+                        Door gebruik te maken van mijn figma bestand ben ik te werk gegaan
+                        om mijn portfolio te developen. ik heb gebruik gemaakt van HTMl,
+                        CSS, JS en Bootstrap. Vooral bootstrap vind ik heel fijn omdat je
+                        met bootstrap gemakkelijk een grid en huisstijl kan gebruiken die
+                        op elke pagina terug komt. in Figma heb ik een paar templates
+                        gemaakt voor de achtegrond foto's van de projecten en
+                        leeruitkomsten. deze heb ik dan als background-image toegevoegd
+                        aan de bijbehorende pagina's
                     </p>
                     <p class="text-justify">
-                        De tekst op de splashpagina wordt gevuld met water, dit heb ik gedaan door gebruik te maken van deze <a href="https://www.youtube.com/watch?v=Y0wwJrhVJcU&t=11s">YouTube</a> tutorial. Ik heb zelf een foto bijgewerkt met photoshop zodat ik deze kan gebruiken als water. Ook heb ik een custom cursor gemaakt. ik heb op de website pixilart.com een vishaak gemaakt van 30 bij 30 pixels. deze gebruik ik dan als foto in mijn CSS. zo krijg je een custom cursor die je overal op de website kan gebruiken.
+                        De tekst op de splashpagina wordt gevuld met water, dit heb ik
+                        gedaan door gebruik te maken van deze
+                        <a href="https://www.youtube.com/watch?v=Y0wwJrhVJcU&t=11s">YouTube</a>
+                        tutorial. Ik heb zelf een foto bijgewerkt met photoshop zodat ik
+                        deze kan gebruiken als water. Ook heb ik een custom cursor
+                        gemaakt. ik heb op de website pixilart.com een vishaak gemaakt van
+                        30 bij 30 pixels. deze gebruik ik dan als foto in mijn CSS. zo
+                        krijg je een custom cursor die je overal op de website kan
+                        gebruiken.
                     </p>
                 </div>
 
                 <div class="col">
-                    <img src="../img/projects/portfolio/figma.png" class="img-fluid">
+                    <img src="../img/projects/portfolio/figma.png" class="img-fluid" />
                 </div>
             </div>
             <!-- Development -->
@@ -135,8 +159,7 @@
         <div class="py-4"></div>
     </div>
 
-    <script src=" js/main.js">
-    </script>
+    <script src=" js/main.js"></script>
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>

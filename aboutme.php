@@ -2,16 +2,16 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Devan's Portfolio</title>
 
     <!-- CSS & Boostrap -->
-    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="css/style.css">
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="css/style.css" />
 
     <!-- Rubik Font -->
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700&display=swap">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700&display=swap" />
 </head>
 
 <body>
@@ -56,16 +56,16 @@
     <div id="carousel" class="carousel slide" data-ride="carousel">
         <div class="carousel-inner">
             <div class="carousel-item active" id="carousel-item1">
-                <img src="img/vissen/vis1.jpeg" class="d-block w-100" alt="Slide 1">
+                <img src="img/vissen/vis1.jpeg" class="d-block w-100" alt="Slide 1" />
             </div>
             <div class="carousel-item" id="carousel-item2">
-                <img src="img/vissen/vis2.jpeg" class="d-block w-100" alt="Slide 2">
+                <img src="img/vissen/vis2.jpeg" class="d-block w-100" alt="Slide 2" />
             </div>
             <div class="carousel-item" id="carousel-item3">
-                <img src="img/vissen/vis3.jpeg" class="d-block w-100" alt="Slide 3">
+                <img src="img/vissen/vis3.jpeg" class="d-block w-100" alt="Slide 3" />
             </div>
             <div class="carousel-item" id="carousel-item3">
-                <img src="img/vissen/vis4.jpeg" class="d-block w-100" alt="Slide 4">
+                <img src="img/vissen/vis4.jpeg" class="d-block w-100" alt="Slide 4" />
             </div>
         </div>
     </div>
@@ -81,7 +81,12 @@
             </div>
             <div class="row">
                 <div class="col">
-                    Hallo, ik ben Devan Janssen ik ben geboren en getogen in Helmond. In mijn vrije tijd doe ik veel vissen en ben ik altijd omringt met vrienden. Ik studeer momenteel aan het Fontys ICT College in Eindhoven. Ik heb voor deze opleiding gekozen, omdat ik al een mbo-opleiding heb gedaan in dezelfde sector en deze opleiding leuk vond.
+                    Hallo, ik ben Devan Janssen ik ben geboren en getogen in Helmond. In
+                    mijn vrije tijd doe ik veel vissen en ben ik altijd omringt met
+                    vrienden. Ik studeer momenteel aan het Fontys ICT College in
+                    Eindhoven. Ik heb voor deze opleiding gekozen, omdat ik al een
+                    mbo-opleiding heb gedaan in dezelfde sector en deze opleiding leuk
+                    vond.
                 </div>
             </div>
         </div>

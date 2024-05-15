@@ -2,16 +2,16 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Devan's Portfolio</title>
 
     <!-- CSS & Boostrap -->
-    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="css/style.css">
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="css/style.css" />
 
     <!-- Rubik Font -->
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700&display=swap">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700&display=swap" />
 </head>
 
 <body>
@@ -57,17 +57,17 @@
         <div class="carousel-inner">
             <div class="carousel-item active" id="carousel-item1">
                 <a href="projects.php">
-                    <img src="img/projects/vibevault/vibevault-image.png" class="d-block w-100" alt="Slide 1">
+                    <img src="img/projects/vibevault/vibevault-image.png" class="d-block w-100" alt="Slide 1" />
                 </a>
             </div>
             <div class="carousel-item" id="carousel-item2">
                 <a href="projects.php">
-                    <img src="img/projects/mediacampaign/fontys.jpg" class="d-block w-100" alt="Slide 2">
+                    <img src="img/projects/mediacampaign/fontys.jpg" class="d-block w-100" alt="Slide 2" />
                 </a>
             </div>
             <div class="carousel-item" id="carousel-item3">
                 <a href="projects.php">
-                    <img src="img/projects/mediacampaign/fontys.jpg" class="d-block w-100" alt="Slide 3">
+                    <img src="img/projects/mediacampaign/fontys.jpg" class="d-block w-100" alt="Slide 3" />
                 </a>
             </div>
         </div>
@@ -80,28 +80,28 @@
         $(document).ready(function() {
             // Define mapping of carousel item IDs to href links
             var projectLinks = {
-                'carousel-item1': 'projects/project1.php',
-                'carousel-item2': 'projects/project2.php',
-                'carousel-item3': 'projects/project3.php'
+                "carousel-item1": "projects/project1.php",
+                "carousel-item2": "projects/project2.php",
+                "carousel-item3": "projects/project3.php",
             };
 
-            $('#carousel').on('slid.bs.carousel', function() {
-                var activeItemId = $('.carousel-item.active').attr('id');
+            $("#carousel").on("slid.bs.carousel", function() {
+                var activeItemId = $(".carousel-item.active").attr("id");
                 var projectName = getProjectName(activeItemId);
                 var projectLink = projectLinks[activeItemId];
-                $('#projectLink').text(projectName).attr('href', projectLink);
+                $("#projectLink").text(projectName).attr("href", projectLink);
             });
 
             function getProjectName(itemId) {
                 switch (itemId) {
-                    case 'carousel-item1':
-                        return 'Brand Guidelines - Vibe Vault';
-                    case 'carousel-item2':
-                        return 'Media Campaign - Fontys';
-                    case 'carousel-item3':
-                        return 'Website Redesign - Fontys';
+                    case "carousel-item1":
+                        return "Brand Guidelines - Vibe Vault";
+                    case "carousel-item2":
+                        return "Media Campaign - Fontys";
+                    case "carousel-item3":
+                        return "Website Redesign - Fontys";
                     default:
-                        return 'Default Project Name';
+                        return "Default Project Name";
                 }
             }
         });

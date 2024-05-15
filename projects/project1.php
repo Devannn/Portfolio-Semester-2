@@ -59,7 +59,7 @@
 
     <div class="outcome-body">
         <!-- Stylescape -->
-        <div class="container text-dark pt-4" name="project-1" id="project-1">
+        <div class="container text-dark pt-4">
             <!-- Vooraf -->
             <div class="row">
                 <div class="col">
@@ -309,6 +309,42 @@
                 </div>
             </div>
             <!-- Presentatie -->
+
+            <!-- Feedback - Stakeholder -->
+            <div class="row pt-3">
+                <div class="col">
+                    <h2>Feedback - Stakeholder</h2>
+                </div>
+                <div class="col text-right">
+                    <h2>LO4 & LO5</h2>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <p class="text-justify">
+                        Lorem
+                    </p>
+                </div>
+            </div>
+            <!-- Feedback - Stakeholder -->
+
+            <!-- Conclusie -->
+            <div class="row pt-3">
+                <div class="col">
+                    <h2>Conclusie</h2>
+                </div>
+                <div class="col text-right">
+                    <h2>LO4 & LO5</h2>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <p class="text-justify">
+                        Lorem
+                    </p>
+                </div>
+            </div>
+            <!-- Conclusie -->
         </div>
         <!-- Stylescape -->
         <div class="py-4"></div>

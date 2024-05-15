@@ -2,16 +2,16 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Devan's Portfolio</title>
 
     <!-- CSS & Boostrap -->
-    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="../css/style.css">
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="../css/style.css" />
 
     <!-- Rubik Font -->
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700&display=swap">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700&display=swap" />
 </head>
 
 <body class="outcome-3">
@@ -54,7 +54,9 @@
     </nav>
 
     <div class="outcome-header outcome-1">
-        <h1 class="outcome-header-text text-white text-uppercase">Interactive Media Products</h1>
+        <h1 class="outcome-header-text text-white text-uppercase">
+            Interactive Media Products
+        </h1>
         <div class="container pt-4 buttons-container">
             <div class="row">
                 <div class="col">
@@ -98,11 +100,19 @@
             <div class="row">
                 <div class="col-6">
                     <p class="text-justify">
-                        Tijdens ons eerste gesprek met de stakeholder hebben we waardevolle informatie verkregen over de doelgroep en de eisen van de stakeholder. Met deze informatie zijn we aan de slag gegaan en heb ik een ontwerp gemaakt in Figma. Dit ontwerp omvat twee stylescapes en verschillende logo's met iteraties. Ik heb het Figma-ontwerp meerdere keren aan de stakeholder voorgelegd om bruikbare feedback te verzamelen. Na talloze pogingen hebben we uiteindelijk een logo en stylescape ontwikkeld waar we tevreden mee zijn.
+                        Tijdens ons eerste gesprek met de stakeholder hebben we
+                        waardevolle informatie verkregen over de doelgroep en de eisen van
+                        de stakeholder. Met deze informatie zijn we aan de slag gegaan en
+                        heb ik een ontwerp gemaakt in Figma. Dit ontwerp omvat twee
+                        stylescapes en verschillende logo's met iteraties. Ik heb het
+                        Figma-ontwerp meerdere keren aan de stakeholder voorgelegd om
+                        bruikbare feedback te verzamelen. Na talloze pogingen hebben we
+                        uiteindelijk een logo en stylescape ontwikkeld waar we tevreden
+                        mee zijn.
                     </p>
                 </div>
                 <div class="col-6">
-                    <img src="../img/projects/vibevault/figma.png" class="img-fluid">
+                    <img src="../img/projects/vibevault/figma.png" class="img-fluid" />
                 </div>
             </div>
             <!-- Figma Design -->
@@ -116,14 +126,26 @@
             <div class="row">
                 <div class="col-6">
                     <p class="text-justify">
-                        Eerst heb ik een stylescape gemaakt zodat de stakeholder een het zelfde idee krijgt die wij hebben. we hebben uiteindelijk voor een blauw en geel kleurenpalet gekozen. dit zijn complimantaire kleuren die vallen goed op, zoals Pixel Playground dat ook doet. verder is er uit enquêtes gebleken dat de doelgroep een sans serif lettertype wil. Wij hebben daarom voor General Sans Bold gekozen. dit is een wat rondig lettertype die overal te gebruiken is.
+                        Eerst heb ik een stylescape gemaakt zodat de stakeholder een het
+                        zelfde idee krijgt die wij hebben. we hebben uiteindelijk voor een
+                        blauw en geel kleurenpalet gekozen. dit zijn complimantaire
+                        kleuren die vallen goed op, zoals Pixel Playground dat ook doet.
+                        verder is er uit enquêtes gebleken dat de doelgroep een sans serif
+                        lettertype wil. Wij hebben daarom voor General Sans Bold gekozen.
+                        dit is een wat rondig lettertype die overal te gebruiken is.
                     </p>
                     <p class="text-justify">
-                        Uiteindelijk hebben we besloten om vast te houden aan het blauw en gele kleurenpalet. Ik heb dit geïmplementeerd en hier zie je de laatste versie van ons logo. Ik heb twee versies van het logo gemaakt. Het eerste logo heeft een blauwe achtergrond met witte tekst, geschikt voor bijvoorbeeld posters en visitekaartjes. Het tweede logo heeft een witte achtergrond met blauwe tekst, ideaal voor websites en documenten.
+                        Uiteindelijk hebben we besloten om vast te houden aan het blauw en
+                        gele kleurenpalet. Ik heb dit geïmplementeerd en hier zie je de
+                        laatste versie van ons logo. Ik heb twee versies van het logo
+                        gemaakt. Het eerste logo heeft een blauwe achtergrond met witte
+                        tekst, geschikt voor bijvoorbeeld posters en visitekaartjes. Het
+                        tweede logo heeft een witte achtergrond met blauwe tekst, ideaal
+                        voor websites en documenten.
                     </p>
                 </div>
                 <div class="col-6">
-                    <img src="../img/projects/vibevault/stylescapeandlogo.png" class="img-fluid">
+                    <img src="../img/projects/vibevault/stylescapeandlogo.png" class="img-fluid" />
                 </div>
             </div>
             <!-- Stylescape -->
@@ -146,7 +168,16 @@
             <div class="row">
                 <div class="col-6">
                     <p class="text-justify">
-                        Ik heb eerst gekeken naar een paar lettertypes die ik kan gebruiken. Ik vind persoonlijk sans-serif lettertypes heel mooi omdat deze strak en duidelijk zijn. Ik vond eerst het lettertype genaamd Roboto zoals je hieronder kan zien is dit een heel strak lettertype het enige wat ik minder vind is dat deze heel vaak voor komt in websites daarom wilde ik verder kijken naar een wat unieker lettertype. Na lang zoeken kwam ik bij het lettertype genaamd Rubik. Rubik is een wat meer geblokt lettertype maar houd nog wel de rondingen aan in de hoeken van de letters dit vind ik persoonlijk heel mooi en wil ik graag terugzien in mijn portfolio.
+                        Ik heb eerst gekeken naar een paar lettertypes die ik kan
+                        gebruiken. Ik vind persoonlijk sans-serif lettertypes heel mooi
+                        omdat deze strak en duidelijk zijn. Ik vond eerst het lettertype
+                        genaamd Roboto zoals je hieronder kan zien is dit een heel strak
+                        lettertype het enige wat ik minder vind is dat deze heel vaak voor
+                        komt in websites daarom wilde ik verder kijken naar een wat
+                        unieker lettertype. Na lang zoeken kwam ik bij het lettertype
+                        genaamd Rubik. Rubik is een wat meer geblokt lettertype maar houd
+                        nog wel de rondingen aan in de hoeken van de letters dit vind ik
+                        persoonlijk heel mooi en wil ik graag terugzien in mijn portfolio.
                     </p>
                 </div>
                 <div class="col-6">
@@ -154,12 +185,12 @@
                     <!-- <p class="text-justify"> -->
                     <!-- https://fonts.google.com/specimen/Roboto -->
                     <!-- </p> -->
-                    <img src="../img/projects/portfolio/roboto.png" class="img-fluid">
+                    <img src="../img/projects/portfolio/roboto.png" class="img-fluid" />
                     <h4>Rubik</h4>
                     <!-- <p class="text-justify"> -->
                     <!-- https://fonts.google.com/specimen/Rubik -->
                     <!-- </p> -->
-                    <img src="../img/projects/portfolio/rubik.png" class="img-fluid">
+                    <img src="../img/projects/portfolio/rubik.png" class="img-fluid" />
                 </div>
             </div>
             <!-- Huisstijl & Lettertype -->
@@ -173,26 +204,38 @@
             <div class="row">
                 <div class="col-6">
                     <p class="text-justify">
-                        In mijn Figma design zie je veel terug van mijn inspiratiebronnen die vermeld zijn in mijn documentatie. Ik heb een grid van 12 met een gutter van 24 en een margin van 40 gebruikt zodat elke pagina in de zelfde verhouding is. Dit if ook fijn als je met bootstrap werkt. Als je naar mijn portfolio navigeerd kom je eerst op de index pagina. Deze pagina heb ik gemaakt zodat het lijkt dat de pagina ingeladen wordt. na een paar seconde zal je naar de homepagina genavigeerd worden. deze pagina heeft een fullscreen image carousel die door alle projecten heen scrollt. als je dan op een project klikt kom je bij de pagina die bij dat project hoort. Op deze pagina krijg je dan alle informatie over dit project met knoppen naar de leeruitkomsten.
+                        In mijn Figma design zie je veel terug van mijn inspiratiebronnen
+                        die vermeld zijn in mijn documentatie. Ik heb een grid van 12 met
+                        een gutter van 24 en een margin van 40 gebruikt zodat elke pagina
+                        in de zelfde verhouding is. Dit if ook fijn als je met bootstrap
+                        werkt. Als je naar mijn portfolio navigeerd kom je eerst op de
+                        index pagina. Deze pagina heb ik gemaakt zodat het lijkt dat de
+                        pagina ingeladen wordt. na een paar seconde zal je naar de
+                        homepagina genavigeerd worden. deze pagina heeft een fullscreen
+                        image carousel die door alle projecten heen scrollt. als je dan op
+                        een project klikt kom je bij de pagina die bij dat project hoort.
+                        Op deze pagina krijg je dan alle informatie over dit project met
+                        knoppen naar de leeruitkomsten.
                     </p>
                     <p class="text-justify">
-                        De leeruikomsten zijn ook een belangrijk onderdeel van mijn portfolio. Elk leeruitkomst heeft een eigen pagina met uitleg over de leeruitkomst. deze pagina's hebben ook knoppen om gemakkelijk te navigeren tussen de kopjes.
+                        De leeruikomsten zijn ook een belangrijk onderdeel van mijn
+                        portfolio. Elk leeruitkomst heeft een eigen pagina met uitleg over
+                        de leeruitkomst. deze pagina's hebben ook knoppen om gemakkelijk
+                        te navigeren tussen de kopjes.
                     </p>
                 </div>
                 <div class="col-6">
                     <!-- <img src="../img/projects/portfolio/figma.png" class="img-fluid"> -->
-                    <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="590" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FEnHBPJgTrdgEhIX9AsCRfk%2FPortfolio%3Ftype%3Ddesign%26node-id%3D53%253A16%26mode%3Ddesign%26t%3D4PCpoyFWp0CilVsi-1" allowfullscreen></iframe>
+                    <iframe style="border: 1px solid rgba(0, 0, 0, 0.1)" width="590" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FEnHBPJgTrdgEhIX9AsCRfk%2FPortfolio%3Ftype%3Ddesign%26node-id%3D53%253A16%26mode%3Ddesign%26t%3D4PCpoyFWp0CilVsi-1" allowfullscreen></iframe>
                 </div>
             </div>
             <!-- Figma Design -->
-
         </div>
         <!-- Portfolio -->
         <div class="py-4"></div>
     </div>
 
-    <script src=" js/main.js">
-    </script>
+    <script src=" js/main.js"></script>
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>

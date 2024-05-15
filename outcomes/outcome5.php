@@ -2,16 +2,16 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Devan's Portfolio</title>
 
     <!-- CSS & Boostrap -->
-    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="../css/style.css">
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="../css/style.css" />
 
     <!-- Rubik Font -->
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700&display=swap">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700&display=swap" />
 </head>
 
 <body class="outcome-3">
@@ -54,7 +54,10 @@
     </nav>
 
     <div class="outcome-header outcome-5">
-        <h1 class="outcome-header-text text-white text-uppercase">Personal <br> Leadership</h1>
+        <h1 class="outcome-header-text text-white text-uppercase">
+            Personal <br />
+            Leadership
+        </h1>
         <div class="container pt-4 buttons-container">
             <div class="row">
                 <div class="col">
@@ -77,10 +80,19 @@
             <div class="row">
                 <div class="col">
                     <p class="text-justify">
-                        Bij elk project hebben wij in het beginnen een Trellobord gemaakt. in dit bord hebben wij de taken verdeeld en deadlines toegevoegd. Ik heb er voor gezorgd dat iedereen zijn werk op tijd afmaakten. Ik vond het zelf ook belangrijk om mezelf te beinvloeden in de taken van mijn medestudenten, ik ben vaak langs geweest om te kijken of ik kon helpen. Na de taken klaar waren hebben we met het hele groepje gekeken of de taken voldoende afgerond waren. Zo wist iedereen wat er gedaan was en wat er nog gedaan moest worden.
+                        Bij elk project hebben wij in het beginnen een Trellobord gemaakt.
+                        in dit bord hebben wij de taken verdeeld en deadlines toegevoegd.
+                        Ik heb er voor gezorgd dat iedereen zijn werk op tijd afmaakten.
+                        Ik vond het zelf ook belangrijk om mezelf te beinvloeden in de
+                        taken van mijn medestudenten, ik ben vaak langs geweest om te
+                        kijken of ik kon helpen. Na de taken klaar waren hebben we met het
+                        hele groepje gekeken of de taken voldoende afgerond waren. Zo wist
+                        iedereen wat er gedaan was en wat er nog gedaan moest worden.
                     </p>
                     <p class="text-justify">
-                        Elke keer dat ik zelf veel vooruitgang zag of hulp nodig had ben ik direct naar docenten geweest om te vragen hoe ik mezelf kan verbeteren.
+                        Elke keer dat ik zelf veel vooruitgang zag of hulp nodig had ben
+                        ik direct naar docenten geweest om te vragen hoe ik mezelf kan
+                        verbeteren.
                     </p>
                 </div>
             </div>
@@ -97,12 +109,16 @@
             <div class="row">
                 <div class="col">
                     <p class="text-justify">
-                        Als ik goede vooruitgang maakte ging ik vaak langs docenten en medestudenten om mijn werkt aan te tonen. Ik heb nuttige informatie uit deze gespreken gehaald en veel vooruitgang kunnen boeken. Met ons groepje hebben wij ook veel feedbackmomenten gehad. Vaak konden we zo ook onze vooruitgang documenteren.
+                        Als ik goede vooruitgang maakte ging ik vaak langs docenten en
+                        medestudenten om mijn werkt aan te tonen. Ik heb nuttige
+                        informatie uit deze gespreken gehaald en veel vooruitgang kunnen
+                        boeken. Met ons groepje hebben wij ook veel feedbackmomenten
+                        gehad. Vaak konden we zo ook onze vooruitgang documenteren.
                     </p>
-                    <img src="../img/feedback.png" class="img-fluid" style="margin-top:15px;">
+                    <img src="../img/feedback.png" class="img-fluid" style="margin-top: 15px" />
                 </div>
                 <div class="col">
-                    <img src="../img/feedpulse.png" class="img-fluid">
+                    <img src="../img/feedpulse.png" class="img-fluid" />
                 </div>
             </div>
         </div>
@@ -110,8 +126,7 @@
         <div class="py-4"></div>
     </div>
 
-    <script src=" js/main.js">
-    </script>
+    <script src=" js/main.js"></script>
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>

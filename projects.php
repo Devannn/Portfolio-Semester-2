@@ -2,16 +2,16 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Devan's Portfolio</title>
 
     <!-- CSS & Boostrap -->
-    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="css/style.css">
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="css/style.css" />
 
     <!-- Rubik Font -->
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;700&display=swap">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;700&display=swap" />
 </head>
 
 <body class="projects-body">
@@ -60,11 +60,11 @@
                             <h1 class="card-title"></h1>
                         </div>
                         <div class="card-body project-hidden-footer">
-                            <h1 class="card-title text-uppercase font-weight-bold">Brand Guidelines Vibevault</h1>
+                            <h1 class="card-title text-uppercase font-weight-bold">
+                                Brand Guidelines Vibevault
+                            </h1>
                         </div>
-                        <div class="card-footer project-visible-footer">
-
-                        </div>
+                        <div class="card-footer project-visible-footer"></div>
                         <div class="card-footer project-hidden-footer">
                             A place where creativity and sound meet.
                         </div>
@@ -81,11 +81,11 @@
                             <h1 class="card-title"></h1>
                         </div>
                         <div class="card-body project-hidden-footer">
-                            <h1 class="card-title text-uppercase font-weight-bold">Media Campaign Fontys</h1>
+                            <h1 class="card-title text-uppercase font-weight-bold">
+                                Media Campaign Fontys
+                            </h1>
                         </div>
-                        <div class="card-footer project-visible-footer">
-
-                        </div>
+                        <div class="card-footer project-visible-footer"></div>
                         <div class="card-footer project-hidden-footer">
                             Rebranding/Redesigning of the fontys website.
                         </div>
@@ -106,11 +106,11 @@
                             <h1 class="card-title"></h1>
                         </div>
                         <div class="card-body project-hidden-footer">
-                            <h1 class="card-title text-uppercase font-weight-bold">BRAND GUIDELINES VIBEVAULT</h1>
+                            <h1 class="card-title text-uppercase font-weight-bold">
+                                BRAND GUIDELINES VIBEVAULT
+                            </h1>
                         </div>
-                        <div class="card-footer project-visible-footer">
-
-                        </div>
+                        <div class="card-footer project-visible-footer"></div>
                         <div class="card-footer project-hidden-footer">
                             A place where creativity and sound meet.
                         </div>
@@ -127,11 +127,11 @@
                             <h1 class="card-title"></h1>
                         </div>
                         <div class="card-body project-hidden-footer">
-                            <h1 class="card-title text-uppercase font-weight-bold">Media Campaign Fontys</h1>
+                            <h1 class="card-title text-uppercase font-weight-bold">
+                                Media Campaign Fontys
+                            </h1>
                         </div>
-                        <div class="card-footer project-visible-footer">
-
-                        </div>
+                        <div class="card-footer project-visible-footer"></div>
                         <div class="card-footer project-hidden-footer">
                             Rebranding/Redesigning of the fontys website.
                         </div>
@@ -152,11 +152,12 @@
                             <h1 class="card-title"></h1>
                         </div>
                         <div class="card-body project-hidden-footer">
-                            <h1 class="card-title text-uppercase font-weight-bold">Devan's <br> Portfolio</h1>
+                            <h1 class="card-title text-uppercase font-weight-bold">
+                                Devan's <br />
+                                Portfolio
+                            </h1>
                         </div>
-                        <div class="card-footer project-visible-footer">
-
-                        </div>
+                        <div class="card-footer project-visible-footer"></div>
                         <div class="card-footer project-hidden-footer">
                             This is Devan's portfolio.
                         </div>

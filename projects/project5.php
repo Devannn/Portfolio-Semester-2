@@ -55,11 +55,26 @@
 
     <div class="project-5-header">
         <h1 class="outcome-header-text text-uppercase">Devan's <br> Portfolio</h1>
+        <div class="container pt-4 buttons-container">
+            <div class="row">
+                <div class="col">
+                    <button type="button" class="btn btn-outline-secondary">
+                        <a class="btn text-secondary" href="#inspiratie" role="button">Inspiratie</a>
+                    </button>
+                    <button type="button" class="btn btn-outline-secondary">
+                        <a class="btn text-secondary" href="#designs" role="button">Designs</a>
+                    </button>
+                    <button type="button" class="btn btn-outline-secondary">
+                        <a class="btn text-secondary" href="#development" role="button">Development</a>
+                    </button>
+                </div>
+            </div>
+        </div>
     </div>
 
     <div class="outcome-body">
         <!-- Portfolio -->
-        <div class="container text-dark pt-4" name="project-5" id="project-5">
+        <div class="container text-dark pt-4">
             <!-- Vooraf -->
             <div class="row pt-3">
                 <div class="col">
@@ -79,12 +94,12 @@
             <!-- Vooraf -->
 
             <!-- Inspiratie -->
-            <div class="row pt-3">
+            <div class="row pt-3" id="inspiratie">
                 <div class="col">
                     <h2>Inspiratie</h2>
                 </div>
                 <div class="col text-right">
-                    <h2>LO4 & LO5</h2>
+                    <h2>LO1</h2>
                 </div>
             </div>
             <div class="row">
@@ -121,12 +136,12 @@
             <!-- Inspiratie -->
 
             <!-- Design 1 & 2 - Feedback Dennis -->
-            <div class="row pt-3">
+            <div class="row pt-3" id="designs">
                 <div class="col">
                     <h2>Designs</h2>
                 </div>
                 <div class="col text-right">
-                    <h2>LO3</h2>
+                    <h2>LO1 & LO3</h2>
                 </div>
             </div>
             <div class="row">
@@ -236,7 +251,7 @@
             <!-- Einddesign -->
 
             <!-- Development -->
-            <div class="row pt-3">
+            <div class="row pt-3" id="development">
                 <div class="col">
                     <h2>Development</h2>
                 </div>
@@ -252,6 +267,27 @@
                 </div>
             </div>
             <!-- Development -->
+
+            <!-- Name -->
+            <div class="row pt-3">
+                <div class="col">
+                    <h2>Name</h2>
+                </div>
+                <div class="col text-right">
+                    <h2>LO4 & LO5</h2>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <p class="text-justify">
+                        Lorem
+                    </p>
+                </div>
+                <div class="col">
+                    <img src="../img" class="img-fluid">
+                </div>
+            </div>
+            <!-- Name -->
 
             <!-- Index & Navbar -->
             <div class="row pt-3">
