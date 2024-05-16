@@ -8,13 +8,13 @@ html {
   background: transparent;
 }
 ::-webkit-scrollbar-thumb {
-  background: #FF0000;
+  background: #ff0000;
 }
 
 body {
   margin: 0;
   padding: 0;
-  font-family: 'Rubik', sans-serif;
+  font-family: "Rubik", sans-serif;
   background: #2a2a2a;
   color: #fff;
   cursor: url(../img/icon.png) 15 15, move;
@@ -25,11 +25,14 @@ h1 {
   font-size: 96px;
 }
 
-h1, h2, h3, h4, h5 {
+h1,
+h2,
+h3,
+h4,
+h5 {
   text-transform: uppercase;
   font-weight: bold;
 }
-
 
 /* Headers Uppercase */
 
@@ -38,9 +41,10 @@ h1, h2, h3, h4, h5 {
 }
 
 .navbar {
-  background-color: transparent !important;
+  background-image: linear-gradient(bottom, #ff0000, #0000ff) !important;
   font-size: 18px;
   text-shadow: 0px 0px 25px rgba(0, 0, 0, 0.3) !important;
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), transparent);
 }
 
 .navbar .dropdown-menu {
@@ -65,7 +69,7 @@ h1, h2, h3, h4, h5 {
   padding: 0;
   text-transform: uppercase;
   font-size: 10em;
-  color: rgba(255,255,255, 0.1);
+  color: rgba(255, 255, 255, 0.1);
   background-image: url("../img/water.png");
   background-size: 150px;
   background-repeat: repeat-x;
@@ -73,27 +77,22 @@ h1, h2, h3, h4, h5 {
   animation: animate 8s linear infinite;
 }
 @keyframes animate {
-  
-  0%
-  {
+  0% {
     /* Start position */
     background-position: left 0px top 120px;
   }
-  40%
-  {
+  40% {
     /* Speed of left to right */
     background-position: left 600px top 0px;
   }
-  80%
-  {
+  80% {
     background-position: left 1800px top -50px;
   }
-  100%
-  {
+  100% {
     background-position: left 2400px top 80px;
   }
 }
-  
+
 /* Index Page */
 
 /* Homepage & About Me Carousel */
@@ -125,9 +124,9 @@ h1, h2, h3, h4, h5 {
 }
 
 .projects .card-footer {
-    background-color: transparent;
-    border: none;
-    border-radius: 0px !important;
+  background-color: transparent;
+  border: none;
+  border-radius: 0px !important;
 }
 
 .project-href {
@@ -186,7 +185,7 @@ h1, h2, h3, h4, h5 {
   background-image: url("../img/projects/vibevault/vibevault.png");
   background-position: center;
   background-size: cover;
-  height:100vh;
+  height: 100vh;
 }
 
 /* Project 1 */
@@ -197,7 +196,7 @@ h1, h2, h3, h4, h5 {
   background-image: url("../img/projects/vibevault/vibevault.png");
   background-position: center;
   background-size: cover;
-  height:100vh;
+  height: 100vh;
 }
 
 /* Project 2 */
@@ -208,7 +207,7 @@ h1, h2, h3, h4, h5 {
   background-image: url("../img/projects/vibevault/vibevault.png");
   background-position: center;
   background-size: cover;
-  height:100vh;
+  height: 100vh;
 }
 
 /* Project 3 */
@@ -219,7 +218,7 @@ h1, h2, h3, h4, h5 {
   background-image: url("../img/projects/vibevault/vibevault.png");
   background-position: center;
   background-size: cover;
-  height:100vh;
+  height: 100vh;
 }
 
 /* Project 4 */
@@ -230,7 +229,7 @@ h1, h2, h3, h4, h5 {
   background-image: url("../img/projects/portfolio/portfolio.png");
   background-position: center;
   background-size: cover;
-  height:100vh;
+  height: 100vh;
 }
 
 /* Project 5 */
@@ -240,7 +239,7 @@ h1, h2, h3, h4, h5 {
 .outcome-header {
   background-position: center;
   background-size: cover;
-  height:100vh;
+  height: 100vh;
 }
 
 .outcome-header-text {

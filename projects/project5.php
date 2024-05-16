@@ -15,7 +15,7 @@
 </head>
 
 <body>
-    <nav class="navbar navbar-expand-lg navbar-dark bg-dark text-uppercase font-weight-bold fixed-top main-navbar">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-transparent text-uppercase font-weight-bold fixed-top">
         <a class="navbar-brand text-white" href="../homepage.php">DJ</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -268,26 +268,26 @@
             </div>
             <!-- Development -->
 
-            <!-- Name -->
+            <!-- GitHub -->
             <div class="row pt-3">
                 <div class="col">
-                    <h2>Name</h2>
+                    <h2>GitHub</h2>
                 </div>
                 <div class="col text-right">
-                    <h2>LO4 & LO5</h2>
+                    <h2>LO3</h2>
                 </div>
             </div>
             <div class="row">
                 <div class="col">
                     <p class="text-justify">
-                        Lorem
+                        Natuurlijk gebruikt bijna elke ICTer GitHub. GitHub is een platform waar je je bestanden op kan uploaden en beheren. dit heb ik ook gedaan voor mijn portfolio. ik heb eerst een nieuwe bestand aangemaakt, elke keer als er grote aanpassingen worden gedaan in mijn portfolio kan ik deze 'commiten' naar github zodat deze nieuwe aanpassingen altijd online verkrijgbaar zijn. denk een beetje aan een backup. Ook kan ik gemakkelijk aanpassingen terugdraaien.
                     </p>
                 </div>
                 <div class="col">
-                    <img src="../img" class="img-fluid">
+                    <img src="../img/projects/portfolio/github.png" class="img-fluid">
                 </div>
             </div>
-            <!-- Name -->
+            <!-- GitHub -->
 
             <!-- Index & Navbar -->
             <div class="row pt-3">
@@ -326,6 +326,26 @@
                 </div>
             </div>
             <!-- Index & Navbar -->
+
+            <!-- Homepagina -->
+            <div class="row pt-3">
+                <div class="col">
+                    <h2>Homepagina</h2>
+                </div>
+                <div class="col text-right">
+                    <h2>LO3</h2>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <p class="text-justify">Voor de homepagina heb ik een full screen image carousel gemaakt die door al mijn projecten heen scrollt. Als de gebruiker op een project klikt komt de gebruiker bij de projecten pagina. Met <a href="https://getbootstrap.com/docs/5.0/components/carousel/#slides-only">Bootstrap</a> kan je gemakkelijk een image carousel maken.</p>
+                </div>
+                <div class="col">
+                    <img src="../img/projects/portfolio/homepagina.png" class="img-fluid" />
+
+                </div>
+            </div>
+            <!-- Homepagina -->
         </div>
         <!-- Portfolio -->
         <div class="py-4"></div>
