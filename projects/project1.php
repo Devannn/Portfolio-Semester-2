@@ -77,7 +77,7 @@
             <!-- Vooraf -->
 
             <!-- Stylescape en Logo 1 -->
-            <div class="row pt-3">
+            <div class="row pt-4">
                 <div class="col">
                     <h2>Eerste Stylescape & Logo</h2>
                 </div>
@@ -99,7 +99,7 @@
             <!-- Stylescape en Logo 1 -->
 
             <!-- Feedback & Survey 1 -->
-            <div class="row pt-3">
+            <div class="row pt-4">
                 <div class="col">
                     <h2>Feedback Stakeholder & Survey 1</h2>
                 </div>
@@ -127,7 +127,7 @@
             <!-- Feedback & Survey 1 -->
 
             <!-- Logo's 2 -->
-            <div class="row pt-3">
+            <div class="row pt-4">
                 <div class="col">
                     <h2>Meer Logo's & Feedback Stakeholder</h2>
                 </div>
@@ -155,7 +155,7 @@
             <!-- Logo's 2 -->
 
             <!-- Survey 2, Poster & Mockups Iteratie 1 -->
-            <!-- <div class="row pt-3">
+            <!-- <div class="row pt-4">
                 <div class="col">
                     <h2>Survey 2</h2>
                 </div>
@@ -173,7 +173,7 @@
                     <img src="../img/projects/vibevault/survey2.png" class="img-fluid">
                 </div>
             </div>
-            <div class="row pt-3">
+            <div class="row pt-4">
                 <div class="col">
                     <h2>Poster & Mockups</h2>
                 </div>
@@ -194,7 +194,7 @@
             <!-- Survey 2, Poster & Mockups Iteratie 1 -->
 
             <!-- Survey 2, Poster & Mockups Iteratie 2 -->
-            <!-- <div class="row pt-3">
+            <!-- <div class="row pt-4">
                 <div class="col">
                     <h2>Survey 2</h2>
                 </div>
@@ -202,7 +202,7 @@
                     <h2>LO4 & LO5</h2>
                 </div>
             </div>
-            <div class="row pt-3">
+            <div class="row pt-4">
                 <div class="col">
                     <p class="text-justify">
                         Om er duidelijk achter te komen hoe de doelgroep denkt over mijn stylescape en logo heb ik nog een extra survey gemaakt. Uit deze survey is gebleken dat de stylescape minimalistich is, het logo abstract is, de kleuren druk zijn, de tekst goed leesbaar is en het lettertype goed overheen komt met de stylescape. Al in al ben ik heel tevreden met mijn stylescape en de doelgroep ook en weet ik nu zeker dat onze brandguide naar wenst gaat zijn van de stakeholder en doelgroep.
@@ -227,7 +227,7 @@
             <!-- Survey 2, Poster & Mockups Iteratie 2 -->
 
             <!-- Survey 2, Poster & Mockups Iteratie 3 -->
-            <div class="row pt-3">
+            <div class="row pt-4">
                 <div class="col-md-4">
                     <h2>Survey 2</h2>
                 </div>
@@ -257,7 +257,7 @@
             <!-- Survey 2, Poster & Mockups Iteratie 3 -->
 
             <!-- Eindproduct -->
-            <div class="row pt-3">
+            <div class="row pt-4">
                 <div class="col">
                     <h2>Brand Guidelines</h2>
                 </div>
@@ -280,7 +280,7 @@
             <!-- Eindproduct -->
 
             <!-- Presentatie -->
-            <div class="row pt-3">
+            <div class="row pt-4">
                 <div class="col">
                     <h2>Feedback - Paul & Eind Presentatie</h2>
                 </div>
@@ -311,7 +311,7 @@
             <!-- Presentatie -->
 
             <!-- Feedback - Stakeholder -->
-            <div class="row pt-3">
+            <div class="row pt-4">
                 <div class="col">
                     <h2>Feedback - Stakeholder</h2>
                 </div>
@@ -329,7 +329,7 @@
             <!-- Feedback - Stakeholder -->
 
             <!-- Conclusie -->
-            <div class="row pt-3">
+            <div class="row pt-4">
                 <div class="col">
                     <h2>Conclusie</h2>
                 </div>
@@ -349,10 +349,10 @@
         <!-- Stylescape -->
         <div class="py-4"></div>
     </div>
-    <script src="../js/main.js"></script>
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script src="../js/main.js"></script>
 </body>
 
 </html>

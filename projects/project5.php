@@ -15,7 +15,7 @@
 </head>
 
 <body>
-    <nav class="navbar navbar-expand-lg navbar-dark bg-transparent text-uppercase font-weight-bold fixed-top">
+    <nav id="main-nav" class="navbar navbar-expand-lg navbar-dark bg-transparent text-uppercase font-weight-bold fixed-top">
         <a class="navbar-brand text-white" href="../homepage.php">DJ</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -55,7 +55,7 @@
 
     <div class="project-5-header">
         <h1 class="outcome-header-text text-uppercase">Devan's <br> Portfolio</h1>
-        <div class="container pt-4 buttons-container">
+        <div class="container buttons-container">
             <div class="row">
                 <div class="col">
                     <button type="button" class="btn btn-outline-secondary">
@@ -76,7 +76,7 @@
         <!-- Portfolio -->
         <div class="container text-dark pt-4">
             <!-- Vooraf -->
-            <div class="row pt-3">
+            <div class="row pt-4">
                 <div class="col">
                     <h2>Vooraf</h2>
                 </div>
@@ -94,7 +94,7 @@
             <!-- Vooraf -->
 
             <!-- Inspiratie -->
-            <div class="row pt-3" id="inspiratie">
+            <div class="row pt-4" id="inspiratie">
                 <div class="col">
                     <h2>Inspiratie</h2>
                 </div>
@@ -136,7 +136,7 @@
             <!-- Inspiratie -->
 
             <!-- Design 1 & 2 - Feedback Dennis -->
-            <div class="row pt-3" id="designs">
+            <div class="row pt-4" id="designs">
                 <div class="col">
                     <h2>Designs</h2>
                 </div>
@@ -199,7 +199,7 @@
             <!-- Design 3 - Feedback Paul -->
 
             <!-- Design 4 -->
-            <div class="row pt-3">
+            <div class="row">
                 <div class="col">
                     <h4>Design 4</h4>
                     <p class="text-justify">
@@ -228,7 +228,7 @@
             <!-- Design 4 -->
 
             <!-- Einddesign -->
-            <div class="row pt-3">
+            <div class="row pt-4">
                 <div class="col">
                     <h2>Laatste Design</h2>
                 </div>
@@ -251,7 +251,7 @@
             <!-- Einddesign -->
 
             <!-- Development -->
-            <div class="row pt-3" id="development">
+            <div class="row pt-4" id="development">
                 <div class="col">
                     <h2>Development</h2>
                 </div>
@@ -269,7 +269,7 @@
             <!-- Development -->
 
             <!-- GitHub -->
-            <div class="row pt-3">
+            <div class="row pt-4">
                 <div class="col">
                     <h2>GitHub</h2>
                 </div>
@@ -290,7 +290,7 @@
             <!-- GitHub -->
 
             <!-- Index & Navbar -->
-            <div class="row pt-3">
+            <div class="row pt-4">
                 <div class="col-md-4">
                     <h2>Index Pagina</h2>
                 </div>
@@ -328,7 +328,7 @@
             <!-- Index & Navbar -->
 
             <!-- Homepagina -->
-            <div class="row pt-3">
+            <div class="row pt-4">
                 <div class="col">
                     <h2>Homepagina</h2>
                 </div>
@@ -350,10 +350,21 @@
         <!-- Portfolio -->
         <div class="py-4"></div>
     </div>
-    <script src="../js/main.js"></script>
+    <script>
+        $(document).ready(function() {
+            $(window).on("scroll", function() {
+                if ($(document).scrollTop() > 50) {
+                    $("#main-nav").addClass('bg-dark').removeClass('bg-transparent');
+                } else {
+                    $("#main-nav").addClass('bg-transparent').removeClass('bg-dark');
+                }
+            })
+        });
+    </script>
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script src="../js/main.js"></script>
 </body>
 
 </html>
