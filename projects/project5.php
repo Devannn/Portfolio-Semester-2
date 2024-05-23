@@ -73,7 +73,7 @@
     </div>
 
     <div class="outcome-body">
-        <!-- Portfolio -->
+        <!-- Portofolio -->
         <div class="container text-dark pt-4">
             <!-- Vooraf -->
             <div class="row pt-4">
@@ -250,6 +250,25 @@
             </div>
             <!-- Einddesign -->
 
+            <!-- Usertest -->
+            <div class="row pt-4">
+                <div class="col">
+                    <h2>Usertest</h2>
+                </div>
+                <div class="col text-right">
+                    <h2>LO1</h2>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <p class="text-justify">Vul hier nog de usertests in die ik had gedaan.</p>
+                </div>
+                <div class="col">
+                    <img src="../img" class="img-fluid" />
+                </div>
+            </div>
+            <!-- Usertest -->
+
             <!-- Development -->
             <div class="row pt-4" id="development">
                 <div class="col">
@@ -280,7 +299,7 @@
             <div class="row">
                 <div class="col">
                     <p class="text-justify">
-                        Natuurlijk gebruikt bijna elke ICTer GitHub. GitHub is een platform waar je je bestanden op kan uploaden en beheren. dit heb ik ook gedaan voor mijn portfolio. ik heb eerst een nieuwe bestand aangemaakt, elke keer als er grote aanpassingen worden gedaan in mijn portfolio kan ik deze 'commiten' naar github zodat deze nieuwe aanpassingen altijd online verkrijgbaar zijn. denk een beetje aan een backup. Ook kan ik gemakkelijk aanpassingen terugdraaien.
+                        Natuurlijk gebruikt bijna elke ICTer GitHub. GitHub is een platform waar je je bestanden op kan uploaden en beheren. dit heb ik ook gedaan voor mijn portofolio. ik heb eerst een nieuwe bestand aangemaakt, elke keer als er grote aanpassingen worden gedaan in mijn portofolio kan ik deze 'commiten' naar github zodat deze nieuwe aanpassingen altijd online verkrijgbaar zijn. denk een beetje aan een backup. Ook kan ik gemakkelijk aanpassingen terugdraaien.
                     </p>
                 </div>
                 <div class="col">
@@ -346,8 +365,66 @@
                 </div>
             </div>
             <!-- Homepagina -->
+
+            <!-- Leeruitkomsten -->
+            <div class="row pt-4">
+                <div class="col">
+                    <h2>Leeruitkomsten</h2>
+                </div>
+                <div class="col text-right">
+                    <h2>LO3</h2>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <p class="text-justify">Uit de feedback van Paul was gebleken dat ik mijn leeruitkomsten moest aantonen, daarom heb ik in de navigatie een dropdown toegevoegd met vijf knoppen voor elk leeruitkomst. Als de gebruiker bij een leeruitkomst aankomt worden alle onderdelen aangetoond die ik heb gedaan om dit leeruitkomst aan te tonen. Zoals je kan zien begint elke pagina met een foto en de naam van deze leeruitkomst, daaronder heb je een paar knoppen om vlug naar de onderwerpen toe te navigeren. Voor elk project heb ik verschillende onderwerpen toegevoegd en toegelicht.</p>
+                </div>
+
+            </div>
+            <div class="row">
+                <div class="col">
+                    <img src="../img/projects/portfolio/los/lo1.png" class="img-fluid" />
+                </div>
+                <div class="col">
+                    <img src="../img/projects/portfolio/los/lo2.png" class="img-fluid" />
+                </div>
+                <div class="col">
+                    <img src="../img/projects/portfolio/los/lo3.png" class="img-fluid" />
+                </div>
+                <div class="col">
+                    <img src="../img/projects/portfolio/los/lo4.png" class="img-fluid" />
+                </div>
+                <div class="col">
+                    <img src="../img/projects/portfolio/los/lo5.png" class="img-fluid" />
+                </div>
+            </div>
+            <!-- Leeruitkomsten -->
+
+            <!-- Portofolio Review 3 -->
+            <div class="row pt-4">
+                <div class="col">
+                    <h2>Portofolio Review 3</h2>
+                </div>
+                <div class="col text-right">
+                    <h2>LO4 & LO5</h2>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <p class="text-justify">Bij mijn laatste Portofolio Review </p>
+
+                    <ul>
+                        <li>LO1: - Iteraties zijn gemaakt, je hebt testen gedaan met users. Deze feedback heb je verwerkt in je ontwerp. Zorg ervoor dat je het goed documenteert. - Zorg ervoor dat de feedback van de stakeholder ook erbij staat. - Je kunt ook snel een goede user test opzetten. Bijvoorbeeld een thinking out loud. - Kijk even goed naar de verschillende onderzoeksmethoden. </li>
+                        <li>LO2: - Je kunt een README toevoegen. Hierin moet duidelijk worden hoe een project kan worden overgedragen. - Omschrijf ook waarom je bepaalde keuzes in development hebt gemaakt. </li>
+                        <li>LO3 - Misschien kun je de Figma embedden? - Kun je laten zien waar je inspiratie vandaan komt. En hoe je tot het eindresultaat komt. - Laat ook de design brandguide zien. </li>
+                        <li>LO4 - Je gebruikt tools, probeer daarop te reflecteren. Waarom gebruik je de tool, hoe gebruik je de tool en vond je het fijn om mee te werken. - Ook bij de presentaties mist de reflectie. </li>
+                        <li>LO5 - Maak een reflectie van de feedback die je hebt gekregen.</li>
+                    </ul>
+                </div>
+            </div>
+            <!-- Portofolio Review 3 -->
         </div>
-        <!-- Portfolio -->
+        <!-- Portofolio -->
         <div class="py-4"></div>
     </div>
     <script>
