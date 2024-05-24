@@ -281,7 +281,7 @@
             <div class="row">
                 <div class="col">
                     <p class="text-justify">
-                        Om de website te realiseren heb ik gekeken naar verschillende mogelijkheden, ik vond zo Bootstrap. Bootstrap is een framework waarbij je gemakkelijk een structuur aan kan houden, denk bijvoorbeeld aan margin en padding van de body, een goed werkte navigatie en knoppen. Bootstrap werkt vooral via CSS. in de stylesheet van Bootstrap staat bijvoorbeeld een container class met verschillende eigenschappen. als je deze container class gebruikt krijg je de eigenschappen van de Bootstrap stylesheet. Je hebt ook rows en col's om gemakkelijk elementen in te delen.
+                        Om de website te realiseren heb ik gekeken naar verschillende mogelijkheden, ik vond zo HTML,CSS, JavaScript, JQuery en Bootstrap. Bootstrap is een framework waarbij je gemakkelijk een structuur aan kan houden, denk bijvoorbeeld aan margin en padding van de body, een goed werkte navigatie en knoppen. Bootstrap is eigenlijk een CSS bestand die online staat. in de stylesheet van Bootstrap staat bijvoorbeeld een container class met verschillende eigenschappen. als je deze container class gebruikt krijg je de eigenschappen van de Bootstrap stylesheet. Ik ben begonnen met het doorlezen van de <a href="https://getbootstrap.com/docs/4.0/">Bootstrap</a> documentatie zodat ik gemakkelijk alles kan toepassen. JavaScript en JQuery gebruik je om verschillende elementen op een website te veranderen, ik heb dit gebruikt om de naam van de header te veranderen en een paar kleine aanpassingen te doen. Verder heb ik gebruikt gemaakt van de .php extension in plaats van de .html extension omdat ik deze fijner vind qua coderen. In .html is een 'img' al vlug 6 regels en in .php 1 regel door mijn vscode extensions.
                     </p>
                 </div>
             </div>
@@ -299,7 +299,7 @@
             <div class="row">
                 <div class="col">
                     <p class="text-justify">
-                        Natuurlijk gebruikt bijna elke ICTer GitHub. GitHub is een platform waar je je bestanden op kan uploaden en beheren. dit heb ik ook gedaan voor mijn portofolio. ik heb eerst een nieuwe bestand aangemaakt, elke keer als er grote aanpassingen worden gedaan in mijn portofolio kan ik deze 'commiten' naar github zodat deze nieuwe aanpassingen altijd online verkrijgbaar zijn. denk een beetje aan een backup. Ook kan ik gemakkelijk aanpassingen terugdraaien.
+                        Natuurlijk gebruikt bijna elke ICTer <a href="https://github.com/Devannn/Portfolio">GitHub</a>. GitHub is een platform waar je je bestanden op kan uploaden en beheren. dit heb ik ook gedaan voor mijn portofolio. ik heb eerst een nieuwe bestand aangemaakt, elke keer als er grote aanpassingen worden gedaan in mijn portofolio kan ik deze 'commiten' naar github zodat deze nieuwe aanpassingen altijd online verkrijgbaar zijn. denk een beetje aan een backup. Ook kan ik gemakkelijk aanpassingen terugdraaien. In mijn repository zie je precies wat ik heb gedaan op welk momement wat heel handing is voor mijn version control. Mijn repository heeft ook een .readme bestand waarin staat welke functionaliteiten mijn portofolio heeft, welke technologiën zijn gebruikt, de installatie van mijn portofolio, hoe je nieuwe projecten kan toevoegen en hoe je de css en javascript kan aanpassen.
                     </p>
                 </div>
                 <div class="col">
@@ -358,9 +358,16 @@
             <div class="row">
                 <div class="col">
                     <p class="text-justify">Voor de homepagina heb ik een full screen image carousel gemaakt die door al mijn projecten heen scrollt. Als de gebruiker op een project klikt komt de gebruiker bij de projecten pagina. Met <a href="https://getbootstrap.com/docs/5.0/components/carousel/#slides-only">Bootstrap</a> kan je gemakkelijk een image carousel maken.</p>
+
+                    <p class="text-justify">
+                        Ik wilde maken dat voor elk project de naam van de header zal veranderen met de naam van het project, dit heb ik gedaan met JQuery.
+                    </p>
+
+                    <img src="../img/projects/portfolio/carousel-jquery.png" class="img-fluid" />
                 </div>
                 <div class="col">
                     <img src="../img/projects/portfolio/homepagina.png" class="img-fluid" />
+                    <img src="../img/projects/portfolio/fullscreen-image-carousel.png" class="img-fluid" style="margin-top: 2px;" />
 
                 </div>
             </div>
@@ -411,7 +418,7 @@
             </div>
             <div class="row">
                 <div class="col">
-                    <p class="text-justify">Bij mijn laatste Portofolio Review </p>
+                    <p class="text-justify">Bij mijn laatste portofolio review heb ik mijn website laten zien waarbij ik alle leeruitkomsten kon aantonen. Ik hoorde eerder al van Paul dat ik met deze structuur moest werken alleen hoorde ik bij dit review dat het heel onoverzichtelijk was omdat je elke keer naar een andere pagina moest gaan, daarop kreeg ik de feedback dat ik het beste met projecten kan werken en bij elk project in een verhaal vertel wat ik allemaal heb gedaan, hoe ik hier feedback op heb gehad en mijn eigen reflectie hierop, dit ga ik daarom nu ook verbeteren. Hieronder zie je de punten waar ik feedback op heb gekregen </p>
 
                     <ul>
                         <li>LO1: - Iteraties zijn gemaakt, je hebt testen gedaan met users. Deze feedback heb je verwerkt in je ontwerp. Zorg ervoor dat je het goed documenteert. - Zorg ervoor dat de feedback van de stakeholder ook erbij staat. - Je kunt ook snel een goede user test opzetten. Bijvoorbeeld een thinking out loud. - Kijk even goed naar de verschillende onderzoeksmethoden. </li>
@@ -420,9 +427,45 @@
                         <li>LO4 - Je gebruikt tools, probeer daarop te reflecteren. Waarom gebruik je de tool, hoe gebruik je de tool en vond je het fijn om mee te werken. - Ook bij de presentaties mist de reflectie. </li>
                         <li>LO5 - Maak een reflectie van de feedback die je hebt gekregen.</li>
                     </ul>
+
+                    <h2>Reflectie</h2>
+                    <p class="text-justify">Ik was het helemaal eens met de feedback die ik kreeg van de docenten. Ik vond ook dat mijn leeruitkomsten niet goed aangetoond waren en de gebruikte tools niet goed aangetoond waren. Ik kan ook nog op feedback reflecteren. Ik ga ook mijn figma bestanden imbedden in mijn website zodat die gemakkelijk weergegeven kunnen worden. De readme heb ik ook makkelijk toegevoegd gekregen, als laatste ga ik al mijn usertests van mijn figma designs/websites aantonen en nog verbeteren</p>
                 </div>
             </div>
             <!-- Portofolio Review 3 -->
+
+            <!-- Projecten -->
+            <div class="row pt-4">
+                <div class="col">
+                    <h2>Projecten</h2>
+                </div>
+                <div class="col text-right">
+                    <h2>LO3</h2>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <p class="text-justify">Na mijn derde portofolio review heb ik voor elk project een pagina gemaakt. Deze pagina's hebben de zelfde stijl als de leeruitkomst pagina's. In elke pagina begin ik met een vooraf hierin is vermeld wat de opdracht is en hoe ik contact heb opgenomen met de stakeholder.</p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <img src="../img/projects/portfolio/projects/project1.png" class="img-fluid" />
+                </div>
+                <div class="col">
+                    <img src="../img/projects/portfolio/projects/project1.png" class="img-fluid" />
+                </div>
+                <div class="col">
+                    <img src="../img/projects/portfolio/projects/project1.png" class="img-fluid" />
+                </div>
+                <div class="col">
+                    <img src="../img/projects/portfolio/projects/project1.png" class="img-fluid" />
+                </div>
+                <div class="col">
+                    <img src="../img/projects/portfolio/projects/project1.png" class="img-fluid" />
+                </div>
+            </div>
+            <!-- Projecten -->
         </div>
         <!-- Portofolio -->
         <div class="py-4"></div>
