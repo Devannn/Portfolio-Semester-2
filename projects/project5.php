@@ -269,6 +269,22 @@
             </div>
             <!-- Usertest -->
 
+            <!-- Zelfreflectie van Design -->
+            <div class="row pt-4">
+                <div class="col">
+                    <h2>Zelfreflectie van Design</h2>
+                </div>
+                <div class="col text-right">
+                    <h2>LO4 & LO5</h2>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <p class="text-justify">Tijdens dit proces heb ik geleerd hoe belangrijk feedback is en hoe belangrijk het is om open te te staan voor nieuwe ideeën. Elke iteratie hield mij tot een laatste design te komen. Uitendelijk ben ik heel trots op mijn design en designkeuzes, ik vind dat ik voldoende leeruitkomsten heb kunnen aantonen om dit semester te halen.</p>
+                </div>
+            </div>
+            <!-- Zelfreflectie van Design -->
+
             <!-- Development -->
             <div class="row pt-4" id="development">
                 <div class="col">
@@ -446,6 +462,8 @@
             <div class="row">
                 <div class="col">
                     <p class="text-justify">Na mijn derde portofolio review heb ik voor elk project een pagina gemaakt. Deze pagina's hebben de zelfde stijl als de leeruitkomst pagina's. In elke pagina begin ik met een vooraf hierin is vermeld wat de opdracht is en hoe ik contact heb opgenomen met de stakeholder.</p>
+
+                    <p class="text-justify">Na mijn derde portofolio review kreeg ik te horen dat mijn leeruitkomsten niet goed aangetoond waren en onoverzichtelijk waren, daarom kreeg ik als feedback om met projecten te werken en van elk project een verhaaltje te maken waarin elk leeruitkomst aangetoond kan worden. Dit heb ik gedaan door de code van de leeruitkomsten pagina's te kopieren en te plakken in de project pagina's. Elke projectpagina begint met een foto en en naam van het project, bij deze foto horen verschillende knoppen waarmee je vlug naar de bijbehorende onderdelen kan navigeren. Onder de naam van het project krijg je al meteen kopjes te zien met daarbij de bijbehorende leeruitkomst.</p>
                 </div>
             </div>
             <div class="row">
@@ -466,6 +484,76 @@
                 </div>
             </div>
             <!-- Projecten -->
+
+            <!-- Feedback - Projecten -->
+            <div class="row pt-4">
+                <div class="col">
+                    <h2>Feedback - Projecten<h2>
+                </div>
+                <div class="col text-right">
+                    <h2>LO4 & LO5</h2>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <p class="text-justify">Lorem</p>
+                </div>
+            </div>
+            <!-- Feedback - Projecten -->
+
+            <!-- About Me -->
+            <div class="row pt-4">
+                <div class="col">
+                    <h2>About Me Pagina</h2>
+                </div>
+                <div class="col text-right">
+                    <h2>LO3</h2>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <p class="text-justify">De About Me pagina heb ik gemaakt door weer gebruik te maken van een full screen image carrousel met verschillende foto's van mezelf. Hieronde heb je nog een kleine uitleg over mezelf.</p>
+                </div>
+                <div class="col">
+                    <img src="../img/projects/portfolio/aboutme.png" class="img-fluid" />
+                </div>
+            </div>
+            <!-- About Me -->
+
+            <!-- Contact Pagina -->
+            <div class="row pt-4">
+                <div class="col">
+                    <h2>Contact Pagina</h2>
+                </div>
+                <div class="col text-right">
+                    <h2>LO3</h2>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <p class="text-justify">Lorem</p>
+                </div>
+                <div class="col">
+                    <img src="../img" class="img-fluid" />
+                </div>
+            </div>
+            <!-- Contact Pagina -->
+
+            <!-- Conclusie -->
+            <div class="row pt-4">
+                <div class="col">
+                    <h2>Conclusie</h2>
+                </div>
+                <div class="col text-right">
+                    <h2>LO4 & LO5</h2>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <p class="text-justify">Lorem</p>
+                </div>
+            </div>
+            <!-- Conclusie -->
         </div>
         <!-- Portofolio -->
         <div class="py-4"></div>

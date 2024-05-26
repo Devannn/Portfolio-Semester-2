@@ -328,10 +328,10 @@
             </div>
             <!-- Feedback - Stakeholder -->
 
-            <!-- Conclusie -->
+            <!-- Zelfreflectie -->
             <div class="row pt-4">
                 <div class="col">
-                    <h2>Conclusie</h2>
+                    <h2>Zelfreflectie</h2>
                 </div>
                 <div class="col text-right">
                     <h2>LO4 & LO5</h2>
@@ -339,12 +339,10 @@
             </div>
             <div class="row">
                 <div class="col">
-                    <p class="text-justify">
-                        Lorem
-                    </p>
+                    <p class="text-justify">Ik ben heel trots op onze brandguide in vind dat wij goed als groepje hebben gewerkt en een mooi eindproduct hebben gemaakt. Door gebruik te maken van surveys en contact met de stakeholder en docenten hebben wij een duidelijk beeld gekregen over wat er verwacht werd.</p>
                 </div>
             </div>
-            <!-- Conclusie -->
+            <!-- Zelfreflectie -->
         </div>
         <!-- Stylescape -->
         <div class="py-4"></div>
