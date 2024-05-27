@@ -73,7 +73,6 @@
     </div>
 
     <div class="outcome-body">
-        <!-- Portofolio -->
         <div class="container text-dark pt-4">
             <!-- Vooraf -->
             <div class="row pt-4">
@@ -486,7 +485,7 @@
             <!-- Projecten -->
 
             <!-- Feedback - Projecten -->
-            <div class="row pt-4">
+            <!-- <div class="row pt-4">
                 <div class="col">
                     <h2>Feedback - Projecten<h2>
                 </div>
@@ -498,7 +497,7 @@
                 <div class="col">
                     <p class="text-justify">Lorem</p>
                 </div>
-            </div>
+            </div> -->
             <!-- Feedback - Projecten -->
 
             <!-- About Me -->
@@ -555,7 +554,6 @@
             </div>
             <!-- Conclusie -->
         </div>
-        <!-- Portofolio -->
         <div class="py-4"></div>
     </div>
     <script>

@@ -173,11 +173,11 @@ h5 {
 }
 
 .card-3 {
-  background-image: url("../img/projects/mediacampaign/fontys.jpg");
+  background-image: url("../img/projects/fontys-easter-egg/homepage-picture.png");
 }
 
 .card-4 {
-  background-image: url("../img/projects/mediacampaign/fontys.jpg");
+  background-image: url("../img/projects/vibevault/figma.png");
 }
 
 .card-5 {
@@ -200,7 +200,7 @@ h5 {
 /* Project 2 */
 
 .project-2-header {
-  background-image: url("../img/projects/vibevault/vibevault.png");
+  background-image: url("../img/backgrounds/redesign.png");
   background-position: center;
   background-size: cover;
   height: 100vh;
@@ -211,7 +211,7 @@ h5 {
 /* Project 3 */
 
 .project-3-header {
-  background-image: url("../img/projects/vibevault/vibevault.png");
+  background-image: url("../img/backgrounds/easteregg.png");
   background-position: center;
   background-size: cover;
   height: 100vh;
@@ -219,10 +219,10 @@ h5 {
 
 /* Project 3 */
 
-/* Project 3 */
+/* Project 4 */
 
 .project-4-header {
-  background-image: url("../img/projects/vibevault/vibevault.png");
+  background-image: url("../img/backgrounds/projectx.png");
   background-position: center;
   background-size: cover;
   height: 100vh;
@@ -233,7 +233,7 @@ h5 {
 /* Project 5 */
 
 .project-5-header {
-  background-image: url("../img/projects/portfolio/portfolio.png");
+  background-image: url("../img/ba/portfolio/portfolio.png");
   background-position: center;
   background-size: cover;
   height: 100vh;

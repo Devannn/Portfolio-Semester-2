@@ -58,7 +58,6 @@
     </div>
 
     <div class="outcome-body">
-        <!-- Stylescape -->
         <div class="container text-dark pt-4">
             <!-- Vooraf -->
             <div class="row">
@@ -344,7 +343,6 @@
             </div>
             <!-- Zelfreflectie -->
         </div>
-        <!-- Stylescape -->
         <div class="py-4"></div>
     </div>
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>

@@ -107,12 +107,12 @@
                         </div>
                         <div class="card-body project-hidden-footer">
                             <h1 class="card-title text-uppercase font-weight-bold">
-                                BRAND GUIDELINES VIBEVAULT
+                                Easter Egg Fontys
                             </h1>
                         </div>
                         <div class="card-footer project-visible-footer"></div>
                         <div class="card-footer project-hidden-footer">
-                            A place where creativity and sound meet.
+                            A secret easter egg in the fontys website.
                         </div>
                     </div>
                 </a>
@@ -128,12 +128,12 @@
                         </div>
                         <div class="card-body project-hidden-footer">
                             <h1 class="card-title text-uppercase font-weight-bold">
-                                Media Campaign Fontys
+                                Project X
                             </h1>
                         </div>
                         <div class="card-footer project-visible-footer"></div>
                         <div class="card-footer project-hidden-footer">
-                            Rebranding/Redesigning of the fontys website.
+                            Project X
                         </div>
                     </div>
                 </a>
