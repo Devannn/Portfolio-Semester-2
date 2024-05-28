@@ -67,7 +67,17 @@
             </div>
             <div class="carousel-item" id="carousel-item3">
                 <a href="projects.php">
-                    <img src="img/projects/mediacampaign/fontys.jpg" class="d-block w-100" alt="Slide 3" />
+                    <img src="img/projects/fontys-easter-egg/homepage-picture.png" class="d-block w-100" alt="Slide 3" />
+                </a>
+            </div>
+            <div class="carousel-item" id="carousel-item4">
+                <a href="projects.php">
+                    <img src="img/backgrounds/projectx.png" class="d-block w-100" alt="Slide 4" />
+                </a>
+            </div>
+            <div class="carousel-item" id="carousel-item5">
+                <a href="projects.php">
+                    <img src="img/projects/portfolio/figma.png" class="d-block w-100" alt="Slide 5" />
                 </a>
             </div>
         </div>
@@ -84,6 +94,8 @@
                 "carousel-item1": "projects/project1.php",
                 "carousel-item2": "projects/project2.php",
                 "carousel-item3": "projects/project3.php",
+                "carousel-item4": "projects/project4.php",
+                "carousel-item5": "projects/project5.php",
             };
 
             $("#carousel").on("slid.bs.carousel", function() {
@@ -100,7 +112,11 @@
                     case "carousel-item2":
                         return "Media Campaign - Fontys";
                     case "carousel-item3":
-                        return "Website Redesign - Fontys";
+                        return "Easter Egg - Fontys";
+                    case "carousel-item4":
+                        return "Project X";
+                    case "carousel-item5":
+                        return "Devan's Portfolio";
                     default:
                         return "Default Project Name";
                 }

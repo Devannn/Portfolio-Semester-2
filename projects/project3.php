@@ -59,6 +59,21 @@
 
     <div class="outcome-body">
         <div class="container text-dark pt-4">
+            <!-- Name -->
+            <div class="row pt-4">
+                <div class="col">
+                    <h2>Vooraf</h2>
+                </div>
+                <div class="col text-right">
+                    <h2>LO4 & LO5</h2>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <p class="text-justify">In het vorige project (Media Campagin Fontys) hebben wij de fontys ict website opnieuw gedesignt. In deze opdracht gaan we dit design realiseren in HTMl, CSS.</p>
+                </div>
+            </div>
+            <!-- Name -->
         </div>
         <div class="py-4"></div>
     </div>

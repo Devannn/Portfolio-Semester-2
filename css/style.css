@@ -110,6 +110,21 @@ h5 {
   background: no-repeat center center fixed;
   background-size: cover;
   background-position: center;
+
+  min-height: 100%;
+  min-width: 100%;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  overflow-y: hidden;
+  overflow-x: hidden;
+}
+
+#carousel-item2 {
+  background: url("../img/projects/mediacampaign/fontys.jpg");
+}
+
+#carousel-item3 {
+  background: url("../img/projects/fontys-easter-egg/homepage-picture.png");
 }
 
 /* Homepage & About Me Carousel */
