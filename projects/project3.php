@@ -59,7 +59,7 @@
 
     <div class="outcome-body">
         <div class="container text-dark pt-4">
-            <!-- Name -->
+            <!-- Vooraf -->
             <div class="row pt-4">
                 <div class="col">
                     <h2>Vooraf</h2>
@@ -70,10 +70,61 @@
             </div>
             <div class="row">
                 <div class="col">
-                    <p class="text-justify">In het vorige project (Media Campagin Fontys) hebben wij de fontys ict website opnieuw gedesignt. In deze opdracht gaan we dit design realiseren in HTMl, CSS.</p>
+                    <p class="text-justify">In het vorige project (Media Campaign Fontys) hebben wij de fontys ict website opnieuw geredesignt. In deze opdracht gaan we dit design realiseren in HTMl, CSS en JavaScript. In het begin van de opdracht moesten wij een groepje van twee of drie man maken. Ik had ervoor gekozen om samen met Travis aan dit project te beginnen, alleen in de eerste week van dit project was Travis gestopt met de opleing daarom heb ik mezelf bij het groepje van Enes en Hakan aangesloten.</p>
                 </div>
             </div>
-            <!-- Name -->
+            <!-- Vooraf -->
+
+            <!-- Taakverdeling -->
+            <div class="row pt-4">
+                <div class="col">
+                    <h2>Taakverdeling</h2>
+                </div>
+                <div class="col text-right">
+                    <h2>LO4 & LO5</h2>
+                </div>
+
+                <div class="col-4">
+                    <h2>Version Control</h2>
+                </div>
+                <div class="col-2 text-right">
+                    <h2>LO2</h2>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <p class="text-justify">In de eerste week hebben we als groep gekeken hoe we het beste de taakverdeling kunnen doen. Wij hebben ervoor gekozen om een <a href="https://trello.com/b/PbCF3nrZ/easter-egg-development">Trello</a> te maken. Hierin zijn alle taken verdeeld met deadlines. We hebben de taken gesorteerd van boven naar beneden. Bovenaan staan de belangrijkste taken en onderaan de wat minder belangrijke taken.</p>
+
+                    <img src="../img/projects/easteregg/trello.png" class="img-fluid" />
+                </div>
+
+                <div class="col">
+                    <p class="text-justify">Om onze code te delen en onze version control te doen hebben wij gebruik gemaakt van <a href="https://git.fhict.nl/I498421/fontys-easter-egg">GitLab</a>. Hakan wilde graag onze Git Master worden dit betekend dat hij alle commits zal pushen naar de main branche. Hoe werkt GitLab nu eigenlijk? nou heel simpel. In de Wiki van onze GitLab staat een bestand met informatie over hoe je een eigen branch kan maken en hoe deze code kan 'pushen' naar de gemaakte branch.</p>
+
+                    <img src="../img/projects/easteregg/gitlab.png" class="img-fluid" />
+                </div>
+            </div>
+            <!-- Taakverdeling -->
+
+            <!-- Figma Design -->
+            <div class="row pt-4">
+                <div class="col">
+                    <h2>Figma Design</h2>
+                </div>
+                <div class="col text-right">
+                    <h2>LO1</h2>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <p class="text-justify">Om onze website te realiseren hebben we natuurlijk eerst een design nodig. We hebben als groepje ervoor gekozen om het design van Enes te gebruiken omdat deze heel compleet en netjes eruit ziet. Er moesten nog wel een paar kleine aanpassingen gedaan worden, denk hierbij aan tekskgrootes en centreren van teksten en foto's</p>
+                </div>
+                <div class="col">
+                    <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="590" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fdesign%2FjdArPtxVmNnaexkxPJuOo8%2FMedia-campaign-website-redesign-(Copy)%3Fnode-id%3D0-1%26t%3DkhTil8cy0coidWRV-1" allowfullscreen></iframe>
+                </div>
+            </div>
+            <!-- Figma Design -->
+
         </div>
         <div class="py-4"></div>
     </div>
