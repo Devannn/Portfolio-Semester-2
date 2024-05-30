@@ -62,10 +62,7 @@
             <!-- Vooraf -->
             <div class="row">
                 <div class="col">
-                    <h2>Vooraf</h2>
-                </div>
-                <div class="col text-right">
-                    <h2>LO4 & LO5</h2>
+                    <h2>Vooraf<span style="float:right;">LO4 & LO5</span></h2>
                 </div>
             </div>
             <div class="row">
@@ -78,10 +75,7 @@
             <!-- Stylescape en Logo 1 -->
             <div class="row pt-4">
                 <div class="col">
-                    <h2>Eerste Stylescape & Logo</h2>
-                </div>
-                <div class="col text-right">
-                    <h2>LO1</h2>
+                    <h2>Eerste Stylescape & Logo<span style="float:right;">LO1</span></h2>
                 </div>
             </div>
             <div class="row">
@@ -100,10 +94,7 @@
             <!-- Feedback & Survey 1 -->
             <div class="row pt-4">
                 <div class="col">
-                    <h2>Feedback Stakeholder & Survey 1</h2>
-                </div>
-                <div class="col-3 text-right">
-                    <h2>LO4 & LO5</h2>
+                    <h2>Feedback Stakeholder & Survey 1<span style="float:right;">LO4 & LO5</span></h2>
                 </div>
             </div>
             <div class="row">
@@ -128,10 +119,7 @@
             <!-- Logo's 2 -->
             <div class="row pt-4">
                 <div class="col">
-                    <h2>Meer Logo's & Feedback Stakeholder</h2>
-                </div>
-                <div class="col-3 text-right">
-                    <h2>LO1 & LO3</h2>
+                    <h2>Meer Logo's & Feedback Stakeholder<span style="float:right;">LO1 & LO3</span></h2>
                 </div>
             </div>
             <div class="row">
@@ -227,26 +215,20 @@
 
             <!-- Survey 2, Poster & Mockups Iteratie 3 -->
             <div class="row pt-4">
-                <div class="col-md-4">
-                    <h2>Survey 2</h2>
+                <div class="col-6">
+                    <h2>Survey 2<span style="float:right;">LO4 & LO5</span></h2>
                 </div>
-                <div class="col-md-2 text-right">
-                    <h2>LO4 & LO5</h2>
+                <div class="col-6">
+                    <h2>Poster & Mockups<span style="float:right;">LO1</span></h2>
                 </div>
-                <div class="col-md-4">
-                    <h2>Poster & Mockups</h2>
-                </div>
-                <div class="col-md-2 text-right">
-                    <h2>LO1</h2>
-                </div>
-                <div class="col">
+                <div class="col-6">
                     </h2>
                     <p class="text-justify">
                         Om er duidelijk achter te komen hoe de doelgroep denkt over mijn stylescape en logo heb ik nog een extra survey gemaakt. Uit deze survey is gebleken dat de stylescape minimalistich is, het logo abstract is, de kleuren druk zijn, de tekst goed leesbaar is en het lettertype goed overheen komt met de stylescape. Al in al ben ik heel tevreden met mijn stylescape en de doelgroep ook en weet ik nu zeker dat onze brandguide naar wenst gaat zijn van de stakeholder en doelgroep.
                     </p>
                     <img src="../img/projects/vibevault/survey2.png" class="img-fluid">
                 </div>
-                <div class="col">
+                <div class="col-6">
                     <p class="text-justify">
                         Om onze brand te representeren heb ik een poster gemaakt, mockups gemaakt en een instapost gemaakt. De poster kan overal worden opgehangen vooral in het soundlab en op school zelf. Mockups heb ik gemaakt om aan te tonen hoe ons logo er uit ziet op verschillende apparaten denk hierbij aan een laptop en telefoon.
                     </p>
@@ -258,10 +240,7 @@
             <!-- Eindproduct -->
             <div class="row pt-4">
                 <div class="col">
-                    <h2>Brand Guidelines</h2>
-                </div>
-                <div class="col text-right">
-                    <h2>LO1</h2>
+                    <h2>Brand Guidelines<span style="float:right;">LO1</span></h2>
                 </div>
             </div>
             <div class="row">
@@ -281,10 +260,7 @@
             <!-- Presentatie -->
             <div class="row pt-4">
                 <div class="col">
-                    <h2>Feedback - Paul & Eind Presentatie</h2>
-                </div>
-                <div class="col-3 text-right">
-                    <h2>LO4 & LO5</h2>
+                    <h2>Feedback - Paul & Eind Presentatie<span style="float:right;">LO4 & LO5</span></h2>
                 </div>
             </div>
             <div class="row">
@@ -312,10 +288,7 @@
             <!-- Feedback Stakeholder - Zelfreflectie -->
             <div class="row pt-4">
                 <div class="col">
-                    <h2>Feedback Stakeholder - Zelfreflectie</h2>
-                </div>
-                <div class="col-4 text-right">
-                    <h2>LO4 & LO5</h2>
+                    <h2>Feedback Stakeholder - Zelfreflectie<span style="float:right;">LO4 & LO5</span></h2>
                 </div>
             </div>
             <div class="row">

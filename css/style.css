@@ -34,6 +34,10 @@ h5 {
   font-weight: bold;
 }
 
+h2 span {
+  float: right;
+}
+
 /* Headers Uppercase */
 
 .container {
