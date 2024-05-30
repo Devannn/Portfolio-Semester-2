@@ -77,10 +77,7 @@
             <!-- Vooraf -->
             <div class="row pt-4">
                 <div class="col">
-                    <h2>Vooraf</h2>
-                </div>
-                <div class="col text-right">
-                    <h2>LO4 & LO5</h2>
+                    <h2>Vooraf<span style="float:right;">LO4 & LO5</span></h2>
                 </div>
             </div>
             <div class="row">
@@ -95,10 +92,7 @@
             <!-- Inspiratie -->
             <div class="row pt-4" id="inspiratie">
                 <div class="col">
-                    <h2>Inspiratie</h2>
-                </div>
-                <div class="col text-right">
-                    <h2>LO1</h2>
+                    <h2>Inspiratie<span style="float:right;">LO1</span></h2>
                 </div>
             </div>
             <div class="row">
@@ -137,10 +131,7 @@
             <!-- Design 1 & 2 - Feedback Dennis -->
             <div class="row pt-4" id="designs">
                 <div class="col">
-                    <h2>Designs</h2>
-                </div>
-                <div class="col text-right">
-                    <h2>LO1 & LO3</h2>
+                    <h2>Designs<span style="float:right;">LO1 & LO3</span></h2>
                 </div>
             </div>
             <div class="row">
@@ -229,10 +220,7 @@
             <!-- Einddesign -->
             <div class="row pt-4">
                 <div class="col">
-                    <h2>Laatste Design</h2>
-                </div>
-                <div class="col text-right">
-                    <h2>LO3</h2>
+                    <h2>Eind Design<span style="float:right;">LO3</span></h2>
                 </div>
             </div>
             <div class="row">
@@ -252,10 +240,7 @@
             <!-- Usertest -->
             <div class="row pt-4">
                 <div class="col">
-                    <h2>Usertest</h2>
-                </div>
-                <div class="col text-right">
-                    <h2>LO1</h2>
+                    <h2>Usertest<span style="float:right;">LO1</span></h2>
                 </div>
             </div>
             <div class="row">
@@ -271,10 +256,7 @@
             <!-- Zelfreflectie van Design -->
             <div class="row pt-4">
                 <div class="col">
-                    <h2>Zelfreflectie van Design</h2>
-                </div>
-                <div class="col text-right">
-                    <h2>LO4 & LO5</h2>
+                    <h2>Zelfreflectie van Design<span style="float:right;">LO4 & LO5</span></h2>
                 </div>
             </div>
             <div class="row">
@@ -287,10 +269,7 @@
             <!-- Development -->
             <div class="row pt-4" id="development">
                 <div class="col">
-                    <h2>Development</h2>
-                </div>
-                <div class="col text-right">
-                    <h2>LO3</h2>
+                    <h2>Development<span style="float:right;">LO3</span></h2>
                 </div>
             </div>
             <div class="row">
@@ -305,10 +284,7 @@
             <!-- GitHub -->
             <div class="row pt-4">
                 <div class="col">
-                    <h2>GitHub</h2>
-                </div>
-                <div class="col text-right">
-                    <h2>LO3</h2>
+                    <h2>GitHub<span style="float:right;">LO3</span></h2>
                 </div>
             </div>
             <div class="row">
@@ -325,17 +301,11 @@
 
             <!-- Index & Navbar -->
             <div class="row pt-4">
-                <div class="col-md-4">
-                    <h2>Index Pagina</h2>
+                <div class="col-6">
+                    <h2>Index Pagina<span style="float:right;">LO3</span></h2>
                 </div>
-                <div class="col-md-2 text-right">
-                    <h2>LO3</h2>
-                </div>
-                <div class="col-md-4">
-                    <h2>Navbar</h2>
-                </div>
-                <div class="col-md-2 text-right">
-                    <h2>LO3</h2>
+                <div class="col-6">
+                    <h2>Navbar<span style="float:right;">LO3</span></h2>
                 </div>
                 <div class="col">
                     </h2>
@@ -364,10 +334,7 @@
             <!-- Homepagina -->
             <div class="row pt-4">
                 <div class="col">
-                    <h2>Homepagina</h2>
-                </div>
-                <div class="col text-right">
-                    <h2>LO3</h2>
+                    <h2>Homepagina<span style="float:right;">LO3</span></h2>
                 </div>
             </div>
             <div class="row">
@@ -391,10 +358,7 @@
             <!-- Leeruitkomsten -->
             <div class="row pt-4">
                 <div class="col">
-                    <h2>Leeruitkomsten</h2>
-                </div>
-                <div class="col text-right">
-                    <h2>LO3</h2>
+                    <h2>Leeruitkomsten<span style="float:right;">LO3</span></h2>
                 </div>
             </div>
             <div class="row">
@@ -425,10 +389,7 @@
             <!-- Portofolio Review 3 -->
             <div class="row pt-4">
                 <div class="col">
-                    <h2>Portofolio Review 3</h2>
-                </div>
-                <div class="col text-right">
-                    <h2>LO4 & LO5</h2>
+                    <h2>Portofolio Review 3<span style="float:right;">LO4 & LO5</span></h2>
                 </div>
             </div>
             <div class="row">
@@ -452,10 +413,7 @@
             <!-- Projecten -->
             <div class="row pt-4">
                 <div class="col">
-                    <h2>Projecten</h2>
-                </div>
-                <div class="col text-right">
-                    <h2>LO3</h2>
+                    <h2>Projecten<span style="float:right;">LO3</span></h2>
                 </div>
             </div>
             <div class="row">
@@ -503,10 +461,7 @@
             <!-- About Me -->
             <div class="row pt-4">
                 <div class="col">
-                    <h2>About Me Pagina</h2>
-                </div>
-                <div class="col text-right">
-                    <h2>LO3</h2>
+                    <h2>About Me Pagina<span style="float:right;">LO3</span></h2>
                 </div>
             </div>
             <div class="row">
@@ -522,10 +477,7 @@
             <!-- Contact Pagina -->
             <div class="row pt-4">
                 <div class="col">
-                    <h2>Contact Pagina</h2>
-                </div>
-                <div class="col text-right">
-                    <h2>LO3</h2>
+                    <h2>Contact Pagina<span style="float:right;">LO3</span></h2>
                 </div>
             </div>
             <div class="row">
@@ -541,10 +493,7 @@
             <!-- Conclusie -->
             <div class="row pt-4">
                 <div class="col">
-                    <h2>Conclusie</h2>
-                </div>
-                <div class="col text-right">
-                    <h2>LO4 & LO5</h2>
+                    <h2>Conclusie<span style="float:right;">LO3</span></h2>
                 </div>
             </div>
             <div class="row">
