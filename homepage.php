@@ -67,7 +67,7 @@
             </div>
             <div class="carousel-item" id="carousel-item3">
                 <a href="projects.php">
-                    <img src="img/projects/fontys-easter-egg/homepage-picture.png" class="d-block w-100" alt="Slide 3" />
+                    <img src="img/projects/easteregg/homepage-picture.png" class="d-block w-100" alt="Slide 3" />
                 </a>
             </div>
             <div class="carousel-item" id="carousel-item4">
