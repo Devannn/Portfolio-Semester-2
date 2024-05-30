@@ -48,7 +48,7 @@
 <h3>Styling</h3>
 <p>To customize the styling of the website, edit the '<b>style.css</b>' file located in the '<b>css</b>' directory. You can also add new styles or override existing Bootstrap styles here.</p>
 
-<h3>Styling</h3>
+<h3>JavaScript</h3>
 <p>To add or modify JavaScript functionality, edit the '<b>main.js</b>' file located in the '<b>js</b>' directory. This file contains custom scripts to enhance interactivity and user experience.</p>
 
 <h3>Contact</h3>
