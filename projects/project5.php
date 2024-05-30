@@ -460,9 +460,9 @@
             </div>
             <div class="row">
                 <div class="col">
-                    <p class="text-justify">Na mijn derde portofolio review heb ik voor elk project een pagina gemaakt. Deze pagina's hebben de zelfde stijl als de leeruitkomst pagina's. In elke pagina begin ik met een vooraf hierin is vermeld wat de opdracht is en hoe ik contact heb opgenomen met de stakeholder.</p>
-
                     <p class="text-justify">Na mijn derde portofolio review kreeg ik te horen dat mijn leeruitkomsten niet goed aangetoond waren en onoverzichtelijk waren, daarom kreeg ik als feedback om met projecten te werken en van elk project een verhaaltje te maken waarin elk leeruitkomst aangetoond kan worden. Dit heb ik gedaan door de code van de leeruitkomsten pagina's te kopieren en te plakken in de project pagina's. Elke projectpagina begint met een foto en en naam van het project, bij deze foto horen verschillende knoppen waarmee je vlug naar de bijbehorende onderdelen kan navigeren. Onder de naam van het project krijg je al meteen kopjes te zien met daarbij de bijbehorende leeruitkomst.</p>
+
+                    <p class="text-justify">Met Bootstrap kan je gemakkelijk teksten responsive maken. ik heb gebruik gemaakt van de row en col classes van Bootstrap, hoe deze werken is heel simpel. Je begint altijd met een container, hierin komt alle informatie te staan. In elke container kan je verschillende rows plaatsend deze rows bedekken de hele pagina van links naar rechts. De cols gebruik je om informatie te ordenen in de rows. Als voorbeeld kan je een row hebben met daarin twee cols die worden dan verspreid zodat je twee cols langs elkaar hebt die net zo lang zijn en de hele pagina bedekken.</p>
                 </div>
             </div>
             <div class="row">

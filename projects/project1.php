@@ -309,39 +309,27 @@
             </div>
             <!-- Presentatie -->
 
-            <!-- Feedback - Stakeholder -->
+            <!-- Feedback Stakeholder - Zelfreflectie -->
             <div class="row pt-4">
                 <div class="col">
-                    <h2>Feedback - Stakeholder</h2>
+                    <h2>Feedback Stakeholder - Zelfreflectie</h2>
                 </div>
-                <div class="col text-right">
+                <div class="col-4 text-right">
                     <h2>LO4 & LO5</h2>
                 </div>
             </div>
             <div class="row">
                 <div class="col">
                     <p class="text-justify">
-                        Lorem
+                        De Stakeholder was eigenlijk heel blij met onze brandguide, hij was onder de indruk van hoeveel informatie wij uit de doelgroep hebben gehaald en hoeveel onderzoek er naar de doelgroep is gedaan. Verder vond de stakeholder dat wij een mooie eindproduct hebben gemaakt en hij was tevreden met onze designkeuzes die gebaseerd waren op feedback van de doelgroep.
+                    </p>
+
+                    <p class="text-justify">Ik ben heel trots op onze brandguide in vind dat wij goed als groepje hebben gewerkt en een mooi eindproduct hebben gemaakt. Door gebruik te maken van surveys en contact met de stakeholder en docenten hebben wij een duidelijk beeld gekregen over wat er verwacht werd.
+
                     </p>
                 </div>
             </div>
-            <!-- Feedback - Stakeholder -->
-
-            <!-- Zelfreflectie -->
-            <div class="row pt-4">
-                <div class="col">
-                    <h2>Zelfreflectie</h2>
-                </div>
-                <div class="col text-right">
-                    <h2>LO4 & LO5</h2>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col">
-                    <p class="text-justify">Ik ben heel trots op onze brandguide in vind dat wij goed als groepje hebben gewerkt en een mooi eindproduct hebben gemaakt. Door gebruik te maken van surveys en contact met de stakeholder en docenten hebben wij een duidelijk beeld gekregen over wat er verwacht werd.</p>
-                </div>
-            </div>
-            <!-- Zelfreflectie -->
+            <!-- Feedback Stakeholder - Zelfreflectie -->
         </div>
         <div class="py-4"></div>
     </div>
