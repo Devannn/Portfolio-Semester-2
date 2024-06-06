@@ -1,58 +1,47 @@
-<h1>Portfolio Website README</h1>
+# Portfolio Website README
+### Overview
+Welcome to my portfolio website! This site showcases my projects, skills, and professional experience. It is built using HTML, CSS, JavaScript, jQuery, and Bootstrap to ensure a responsive and visually appealing user experience.
 
-<h3>Overview</h3>
-<p>Welcome to my portfolio website! This site showcases my projects, skills, and professional experience. It is built using HTML, CSS, JavaScript, jQuery, and Bootstrap to ensure a responsive and visually appealing user experience.</p>
+### Features
+  - __Responsive Design__: The website is fully responsive, providing an optimal viewing experience across a wide range of devices (desktops, tablets, and mobile phones).
+  - __Bootstrap Framework__: Utilizes Bootstrap for a consistent, responsive design and layout.
+  - __Interactive Elements__: Enhanced with jQuery for dynamic content and interactivity.
+  - __Project Showcase__: Displays a selection of my projects with descriptions, technologies used, links to figma designs and source code.
+  - __About Me__: Where you can find pictures and information about me.
+  - __Contact Form__: Includes a functional contact form for visitors to get in touch with me directly.
 
-<h3>Features</h3>
+### Technologies Used
+  - __HTML5__: Provides the structure and content of the website.
+  - __CSS3__: Used for styling and layout of the website.
+  - __Bootstrap__: Ensures a responsive design.
+  - __JavaScript/jQuery__: Adds interactivity and dynamic content.
+  - __PHP__: Adds the contact form functionality
 
-<ul>
-  <li><b>Responsive Design</b>: The website is fully responsive, providing an optimal viewing experience across a wide range of devices (desktops, tablets, and mobile phones).</li>
-  <li><b>Bootstrap Framework</b>: Utilizes Bootstrap for a consistent, responsive design and layout.</li>
-  <li><b>Interactive Elements</b>: Enhanced with jQuery for dynamic content and interactivity.</li>
-  <li><b>Project Showcase</b>: Displays a selection of my projects with descriptions, technologies used, links to figma designs and source code.</li>
-  <li><b>About Me</b>: Where you can find pictures and information about me.</li>
-  <li><b>Contact Form</b>: Includes a functional contact form for visitors to get in touch with me directly.</li>
-</ul>
-
-<h3>Technologies Used</h3>
-
-<ul>
-  <li><b>HTML5</b>: Provides the structure and content of the website.</li>
-  <li><b>CSS3</b>: Used for styling and layout of the website.</li>
-  <li><b>Bootstrap</b>: Ensures a responsive design.</li>
-  <li><b>JavaScript/jQuery</b>: Adds interactivity and dynamic content.</li>
-  <li><b>PHP</b>: Adds the contact form functionality</li>
-</ul>
-
-<h3>Installation and Setup</h3>
-<p>To run this website locally on your machine, follow these steps:</p>
-<ul>  
-  1: <b>Clone the repository:</b> <br>
+### Installation and Setup
+To run this website locally on your machine, follow these steps: <br>
+  1: __Clone the repository:__ <br>
   <code>git clone https://github.com/Devannn/Portfolio</code> <br><br>
-  2: <b>Navigate to the project directory:</b> <br>
+  2: __Navigate to the project directory:__ <br>
   <code>cd Portfolio</code> <br><br>
-  3: <b>Open index.php in your preferred web browser:</b> <br>
+  3: __Open index.php in your preferred web browser:__ <br>
   <code>open index.php</code> <br>
-</ul>
 
 
-<h3>Adding New Projects</h3>
-<p>To add new projects to your portfolio:</p>
-<ul>
-  <li>Add file to projects/projectname.php</li>
-  <li>Copy and paste html from template</li>
-  <li>Add row's and col's with needed information in the content container</li>
-  <li>Add project card to projects.php</li>
-</ul>
+### Adding New Projects
+To add new projects to your portfolio:
+  - Add file to projects/projectname.php
+  - Copy and paste html from template
+  - Add row's and col's with needed information in the content container
+  - Add project card to projects.php
 
-<h3>Styling</h3>
-<p>To customize the styling of the website, edit the '<b>style.css</b>' file located in the '<b>css</b>' directory. You can also add new styles or override existing Bootstrap styles here.</p>
+### Styling
+To customize the styling of the website, edit the '__style.css__' file located in the '__css__' directory. You can also add new styles or override existing Bootstrap styles here.
 
-<h3>JavaScript</h3>
-<p>To add or modify JavaScript functionality, edit the '<b>main.js</b>' file located in the '<b>js</b>' directory. This file contains custom scripts to enhance interactivity and user experience.</p>
+### JavaScript
+To add or modify JavaScript functionality, edit the '__main.js__' file located in the '__js__' directory. This file contains custom scripts to enhance interactivity and user experience.
 
-<h3>Contact</h3>
-<p>Feel free to get in touch with me through the contact form on the website or reach out via email at <a>devanjanssen@gmail.com</a>.
+### Contact
+Feel free to get in touch with me through the contact form on the website or reach out via email at devanjanssen@gmail.com.
 
 Thank you for visiting my portfolio website!
-</p>
+
