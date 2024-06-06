@@ -62,7 +62,7 @@
             <!-- Vooraf -->
             <div class="row">
                 <div class="col">
-                    <h2>Vooraf<span style="float:right;">LO4 & LO5</span></h2>
+                    <h2>Vooraf<span>LO4 & LO5</span></h2>
                 </div>
             </div>
             <div class="row">
@@ -75,7 +75,7 @@
             <!-- Stylescape en Logo 1 -->
             <div class="row pt-4">
                 <div class="col">
-                    <h2>Eerste Stylescape & Logo<span style="float:right;">LO1</span></h2>
+                    <h2>Eerste Stylescape & Logo<span>LO1</span></h2>
                 </div>
             </div>
             <div class="row">
@@ -94,7 +94,7 @@
             <!-- Feedback & Survey 1 -->
             <div class="row pt-4">
                 <div class="col">
-                    <h2>Feedback Stakeholder & Survey 1<span style="float:right;">LO4 & LO5</span></h2>
+                    <h2>Feedback Stakeholder & Survey 1<span>LO4 & LO5</span></h2>
                 </div>
             </div>
             <div class="row">
@@ -119,7 +119,7 @@
             <!-- Logo's 2 -->
             <div class="row pt-4">
                 <div class="col">
-                    <h2>Meer Logo's & Feedback Stakeholder<span style="float:right;">LO1 & LO3</span></h2>
+                    <h2>Meer Logo's & Feedback Stakeholder<span>LO1 & LO3</span></h2>
                 </div>
             </div>
             <div class="row">
@@ -216,10 +216,10 @@
             <!-- Survey 2, Poster & Mockups Iteratie 3 -->
             <div class="row pt-4">
                 <div class="col-6">
-                    <h2>Survey 2<span style="float:right;">LO4 & LO5</span></h2>
+                    <h2>Survey 2<span>LO4 & LO5</span></h2>
                 </div>
                 <div class="col-6">
-                    <h2>Poster & Mockups<span style="float:right;">LO1</span></h2>
+                    <h2>Poster & Mockups<span>LO1</span></h2>
                 </div>
                 <div class="col-6">
                     </h2>
@@ -240,7 +240,7 @@
             <!-- Eindproduct -->
             <div class="row pt-4">
                 <div class="col">
-                    <h2>Brand Guidelines<span style="float:right;">LO1</span></h2>
+                    <h2>Brand Guidelines<span>LO1</span></h2>
                 </div>
             </div>
             <div class="row">
@@ -260,7 +260,7 @@
             <!-- Presentatie -->
             <div class="row pt-4">
                 <div class="col">
-                    <h2>Feedback - Paul & Eind Presentatie<span style="float:right;">LO4 & LO5</span></h2>
+                    <h2>Feedback - Paul & Eind Presentatie<span>LO4 & LO5</span></h2>
                 </div>
             </div>
             <div class="row">
@@ -288,7 +288,7 @@
             <!-- Feedback Stakeholder - Zelfreflectie -->
             <div class="row pt-4">
                 <div class="col">
-                    <h2>Feedback Stakeholder - Zelfreflectie<span style="float:right;">LO4 & LO5</span></h2>
+                    <h2>Feedback Stakeholder - Zelfreflectie<span>LO4 & LO5</span></h2>
                 </div>
             </div>
             <div class="row">

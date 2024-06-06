@@ -20,6 +20,10 @@ body {
   cursor: url(../img/icon.png) 15 15, move;
 }
 
+div span {
+  float: right;
+}
+
 /* Headers Uppercase */
 h1 {
   font-size: 96px;
@@ -205,7 +209,7 @@ h2 span {
 
 /* Projects */
 
-/* Project 1 */
+/* Project 1 - Vibe Vault */
 
 .project-1-header {
   background-image: url("../img/projects/vibevault/vibevault.png");
@@ -216,7 +220,7 @@ h2 span {
 
 /* Project 1 */
 
-/* Project 2 */
+/* Project 2 - Redesign */
 
 .project-2-header {
   background-image: url("../img/backgrounds/redesign.png");
@@ -227,7 +231,7 @@ h2 span {
 
 /* Project 2 */
 
-/* Project 3 */
+/* Project 3 - Easter Egg */
 
 .project-3-header {
   background-image: url("../img/backgrounds/easteregg.png");
@@ -238,7 +242,7 @@ h2 span {
 
 /* Project 3 */
 
-/* Project 4 */
+/* Project 4 - Project X */
 
 .project-4-header {
   background-image: url("../img/backgrounds/projectx.png");
@@ -249,10 +253,10 @@ h2 span {
 
 /* Project 4 */
 
-/* Project 5 */
+/* Project 5 - Portfolio */
 
 .project-5-header {
-  background-image: url("../img/ba/portfolio/portfolio.png");
+  background-image: url("../img/backgrounds/portfolio.png");
   background-position: center;
   background-size: cover;
   height: 100vh;
